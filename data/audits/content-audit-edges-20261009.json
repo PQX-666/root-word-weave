@@ -1,0 +1,308 @@
+{
+  "auditDate": "2026-10-09",
+  "scope": {
+    "compiledFamilies": 56,
+    "compiledCanonicalWords": 840,
+    "totalEdgesStructurallyScanned": 850,
+    "wordToWordEdgesRead": 460,
+    "statement": "当前编译快照全部词间边逐条对照两端主卡词性/释义/标签，针对明显错用当前显示义项的风险查主来源。不是全部边的历史来源逐源复审，也不是对最终尚未编译词族的审核。"
+  },
+  "implementationNote": "六条建议均保留 from/to 字段和现有合法词族联系；只替换 label/type，不新增 sense 节点或修改学习 ID。将语义提示放在全角冒号前，兼容词卡小图目前 split(\"：\")[0] 的显示方式。相应词卡教学步骤本来正确，不需要重写。",
+  "issues": [
+    {
+      "familyId": "tract",
+      "from": "contract",
+      "to": "contraction",
+      "priority": "medium",
+      "replacement": {
+        "label": "收缩动词义：-ion 同源名词",
+        "type": "origin"
+      },
+      "finding": "导图起点显示名词合同，终点的现代义为收缩/缩略；当前 -ion 标签没有说明使用的是另一动词义。contraction 词卡自身已正确解释，问题局限于导图提示。",
+      "evidence": [
+        {
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/contract_2",
+          "supports": "contract 的收缩义是动词。"
+        },
+        {
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/contraction",
+          "supports": "contraction 的现代收缩/缩略名词义。"
+        },
+        {
+          "url": "https://www.etymonline.com/word/contraction",
+          "supports": "英语经法语/拉丁名词传入；早期曾有订约义但现已过时，不能以现代合同卡解释现行收缩义。"
+        }
+      ],
+      "current": {
+        "from": "contract",
+        "to": "contraction",
+        "label": "-ion：名词联系",
+        "type": "analysis"
+      },
+      "fromCard": {
+        "pos": "n.",
+        "meaning": "合同"
+      },
+      "toCard": {
+        "pos": "n.",
+        "meaning": "收缩；缩略形式"
+      }
+    },
+    {
+      "familyId": "ject",
+      "from": "project",
+      "to": "projection",
+      "priority": "medium",
+      "replacement": {
+        "label": "预测／投射动词义：-ion 同源名词",
+        "type": "origin"
+      },
+      "finding": "导图起点显示项目名词，projection 的预测/投影义联系 project 的动词用法。词卡已有正确提示，边标签应保持一致。",
+      "evidence": [
+        {
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/project_2",
+          "supports": "project 的预测与投射用法为动词。"
+        },
+        {
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/projection",
+          "supports": "projection 的估计未来与投射图像名词义。"
+        },
+        {
+          "url": "https://www.etymonline.com/word/projection",
+          "supports": "来自法语/拉丁名词，与拉丁投出动词词干同源，不证明英语名词项目加后缀即造出此词。"
+        }
+      ],
+      "current": {
+        "from": "project",
+        "to": "projection",
+        "label": "-ion：名词联系",
+        "type": "analysis"
+      },
+      "fromCard": {
+        "pos": "n.",
+        "meaning": "项目"
+      },
+      "toCard": {
+        "pos": "n.",
+        "meaning": "预测；投影"
+      }
+    },
+    {
+      "familyId": "form",
+      "from": "form",
+      "to": "formal",
+      "priority": "medium",
+      "replacement": {
+        "label": "形式／规范义：-al 同源形容词",
+        "type": "origin"
+      },
+      "finding": "form 导图节点和主卡显示表格，formal 联系 form 的形式/规范相关义；表格不是正式的这一义的直接释义组合。",
+      "evidence": [
+        {
+          "url": "https://www.etymonline.com/word/formal",
+          "supports": "formal 经法语或拉丁 formalis 传入，关联 forma 的形式/形态以及合乎规定形式的语义发展。"
+        }
+      ],
+      "current": {
+        "from": "form",
+        "to": "formal",
+        "label": "-al：词形联系",
+        "type": "analysis"
+      },
+      "fromCard": {
+        "pos": "n.",
+        "meaning": "表格"
+      },
+      "toCard": {
+        "pos": "adj.",
+        "meaning": "正式的；合乎礼仪的"
+      }
+    },
+    {
+      "familyId": "form",
+      "from": "form",
+      "to": "formation",
+      "priority": "medium",
+      "replacement": {
+        "label": "形成动词义：-ation 同源名词",
+        "type": "origin"
+      },
+      "finding": "form 当前显示表格名词；formation 的形成/排列用法应联系形成动词义。词卡说明已正确，边不应让人把表格直接加 -ation 推义。",
+      "evidence": [
+        {
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/form_2",
+          "supports": "form 的成形、组成与组织团队用法为动词。"
+        },
+        {
+          "url": "https://www.etymonline.com/word/formation",
+          "supports": "英语 formation 来自法语或拉丁 formationem，源于 formare 形成；不是英语表格名词的直接派生历史。"
+        }
+      ],
+      "current": {
+        "from": "form",
+        "to": "formation",
+        "label": "-ation：名词联系",
+        "type": "analysis"
+      },
+      "fromCard": {
+        "pos": "n.",
+        "meaning": "表格"
+      },
+      "toCard": {
+        "pos": "n.",
+        "meaning": "形成；构成；队形"
+      }
+    },
+    {
+      "familyId": "act",
+      "from": "act",
+      "to": "actor",
+      "priority": "low",
+      "replacement": {
+        "label": "表演动词义：-or 同源称谓",
+        "type": "origin"
+      },
+      "finding": "act 主卡学习采取行动，actor 词卡用的是表演义，标签标清更符合单一义项学习。原词族关系正确，不能删除。",
+      "evidence": [
+        {
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/act_1",
+          "supports": "表演与采取行动是 act 的不同动词用法。"
+        },
+        {
+          "url": "https://www.etymonline.com/word/actor",
+          "supports": "actor 来自拉丁 actor，英语演员专门义后续发展；词卡已指出历史不是英语 act 直接加 -or。"
+        }
+      ],
+      "current": {
+        "from": "act",
+        "to": "actor",
+        "label": "-or：词形联系",
+        "type": "analysis"
+      },
+      "fromCard": {
+        "pos": "v.",
+        "meaning": "采取行动"
+      },
+      "toCard": {
+        "pos": "n.",
+        "meaning": "演员"
+      }
+    },
+    {
+      "familyId": "act",
+      "from": "act",
+      "to": "acting",
+      "priority": "low",
+      "replacement": {
+        "label": "表演动词义：-ing 本卡为名词",
+        "type": "analysis"
+      },
+      "finding": "acting 主卡为表演/演技名词，应在边上说明 act 的表演用法，避免与行动分支混淆。",
+      "evidence": [
+        {
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/act_1",
+          "supports": "act 的表演用法，以及 word family 中 acting 的名词/形容词词性。"
+        }
+      ],
+      "current": {
+        "from": "act",
+        "to": "acting",
+        "label": "-ing：本卡为名词",
+        "type": "analysis"
+      },
+      "fromCard": {
+        "pos": "v.",
+        "meaning": "采取行动"
+      },
+      "toCard": {
+        "pos": "n.",
+        "meaning": "表演；演技"
+      }
+    }
+  ],
+  "contentOverridesEdges": [
+    {
+      "familyId": "tract",
+      "from": "contract",
+      "to": "contraction",
+      "label": "收缩动词义：-ion 同源名词",
+      "type": "origin"
+    },
+    {
+      "familyId": "ject",
+      "from": "project",
+      "to": "projection",
+      "label": "预测／投射动词义：-ion 同源名词",
+      "type": "origin"
+    },
+    {
+      "familyId": "form",
+      "from": "form",
+      "to": "formal",
+      "label": "形式／规范义：-al 同源形容词",
+      "type": "origin"
+    },
+    {
+      "familyId": "form",
+      "from": "form",
+      "to": "formation",
+      "label": "形成动词义：-ation 同源名词",
+      "type": "origin"
+    },
+    {
+      "familyId": "act",
+      "from": "act",
+      "to": "actor",
+      "label": "表演动词义：-or 同源称谓",
+      "type": "origin"
+    },
+    {
+      "familyId": "act",
+      "from": "act",
+      "to": "acting",
+      "label": "表演动词义：-ing 本卡为名词",
+      "type": "analysis"
+    }
+  ],
+  "preservedExamples": [
+    {
+      "familyId": "ject",
+      "from": "subject",
+      "to": "subjective",
+      "reason": "标签已经明确主体义，而不是学校科目义；type=origin 保留正确同源联系。"
+    },
+    {
+      "familyId": "ject",
+      "from": "object",
+      "to": "objective",
+      "reason": "标签已经明确对象义，而不是反对动词义；type=origin 保留正确同源联系。"
+    },
+    {
+      "familyId": "grad",
+      "from": "graduate",
+      "to": "undergraduate",
+      "reason": "标签明确名词学位词形，不把毕业动词的释义直接拼接。"
+    },
+    {
+      "familyId": "graph",
+      "from": "photograph",
+      "to": "photographer",
+      "reason": "标签已经明确动词义，不把照片名词释义直接拼接。"
+    },
+    {
+      "familyId": "graph",
+      "from": "program",
+      "to": "programmer",
+      "reason": "标签已经明确编程动词义；现代联系正确。"
+    }
+  ],
+  "futureModelRecommendation": "如以后导图支持按独立义项展开，可增加 fromStudyId 并将 contract->contraction 绑定 contract::contract-sense-shrink、project->projection 的预测分支绑定 project::project-sense-forecast。但 projection 的投射义不能伪装为该预测义；form/act 的相应义项还没有独立 study ID。这是未来方案，不属于这六条立即补丁。",
+  "adjacentLowPriorityWordFinding": {
+    "wordId": "form",
+    "field": "collocation",
+    "current": "fill in a form; form a team",
+    "replacement": "fill in a form; complete an application form",
+    "reason": "主卡为表格名词，现有 form a team 是另一动词义；移出本卡搭配可以保持本卡学习任务一致。该搭配本身正确，不是错误英语。",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/form_2"
+  }
+}

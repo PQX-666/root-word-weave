@@ -1,0 +1,56 @@
+{
+  "retrievedAt": "2026-10-08",
+  "status": "source recommendations only; no IELTS exam-membership tags generated",
+  "recommendedProductLabel": "雅思学术与话题精选",
+  "sources": [
+    {
+      "title": "English Vocabulary Profile",
+      "url": "https://englishprofile.org/?menu=english-vocabulary-profile",
+      "publisher": "English Profile / Cambridge University Press",
+      "use": "按CEFR核查具体义项、短语和搭配的学习层级；区分一个词的基础义项与进阶用法。",
+      "limits": "CEFR层级不是某个雅思分数的逐词对应，也不是雅思官方考试词表。"
+    },
+    {
+      "title": "English Vocabulary Profile user guide",
+      "url": "https://www.englishprofile.org/images/pdf/evp%20user%20guide.pdf",
+      "publisher": "English Profile",
+      "use": "支持按level-only与累积level范围过滤，并以词与义项两个层面记录掌握情况。",
+      "limits": "当前只读使用说明，未全量提取该词库。"
+    },
+    {
+      "title": "Averil Coxhead's word lists / The Academic Word List",
+      "url": "https://www.wgtn.ac.nz/lals/resources/averil-coxheads-word-lists",
+      "researchUrl": "https://ir.wgtn.ac.nz/items/8f852b22-3f82-427e-b0b3-8d9c954d8e61",
+      "publisher": "Te Herenga Waka—Victoria University of Wellington",
+      "use": "学术英语候选词族来源；AWL研究报告570词族，可作为跨学科学术词汇候选层。",
+      "limits": "AWL词族不等于词根族，AWL不是雅思闭合词表；仍须按语境、义项和用户需求精选。"
+    },
+    {
+      "title": "IELTS Writing test preparation resources — Lexical Resource",
+      "url": "https://ielts.org/take-a-test/preparation-resources/writing-test-resources",
+      "publisher": "IELTS",
+      "use": "卡片需体现准确选词、任务适切性、搭配、词形及灵活表达；高阶目标不能只筛生僻词。",
+      "limits": "评分依据提供使用标准，没有在该页面给出可按词项穷举的考试范围。"
+    },
+    {
+      "title": "IELTS Listening test — Tips to build key vocabulary",
+      "url": "https://ielts.idp.com/prepare/article-common-vocabulary-ielts-listening",
+      "publisher": "IDP IELTS",
+      "use": "按教育、环境、交通等主题补充常用词和表达，并关联词根族。",
+      "limits": "官方备考建议中的主题示例是候选精选范围，不代表试题只覆盖这些词。"
+    },
+    {
+      "title": "Expand Your IELTS Vocabulary — Environment",
+      "url": "https://ielts.idp.com/mexico/prepare/article-expand-your-ielts-vocabulary-environment",
+      "publisher": "IDP IELTS",
+      "use": "按环境子话题整理语境和候选表达，参考同系列教育、交通与旅行主题。",
+      "limits": "每个纳入词项仍要建立明确的词典释义及构词关系来源。"
+    }
+  ],
+  "dataPolicy": [
+    "雅思精选标签记录候选来源、所选义项、主题、用途和编辑审核状态；不声称某一词必考。",
+    "基础词可能具有需要学习的进阶义项和搭配，跳过应由个人掌握情况决定。",
+    "学习目标之间允许重叠；四级、六级、学术精选、雅思话题标签可同时存在。",
+    "本资产没有复制大规模词典释义或第三方例句；应用例句应原创或使用合法授权内容。"
+  ]
+}

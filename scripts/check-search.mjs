@@ -1,0 +1,4 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';import {findWords,renderWordResults} from '../dist/catalog-search.js';
+const lib=JSON.parse(fs.readFileSync(new URL('../dist/library.json',import.meta.url),'utf8'));
+assert.equal(findWords(lib,' reaction ')[0].id,'reaction');assert.equal(findWords(lib,'ＡＣＴ')[0].id,'act');assert.ok(findWords(lib,'反应').some(w=>w.id==='reaction'));assert.ok(findWords(lib,'反应').some(w=>w.id==='react'));assert.ok(renderWordResults(lib,'反应').includes('data-word="reaction"'));assert.equal(findWords(lib,'').length,0);assert.equal(renderWordResults(lib,'unrecordedtermxyz'),'');const extra=Object.values(lib.studyItems)[0];assert.ok(findWords(lib,extra.meaning).some(w=>w.id===extra.id));
+console.log('Word search passed: exact-first, case/NFKC, Chinese meanings, independent senses, empty and no-result queries.');

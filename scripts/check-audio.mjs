@@ -1,0 +1,5 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';import {freshState,studyItem} from '../dist/engine.js';import {needsContextAudio,pronunciationText,renderWordCard} from '../dist/word-card.js';
+const lib=JSON.parse(fs.readFileSync(new URL('../dist/library.json',import.meta.url),'utf8'));
+assert.equal(needsContextAudio(lib.words.unpredictable,lib),false);assert.equal(pronunciationText(lib.words.unpredictable,lib),'unpredictable');for(const id of ['contract','object','produce','conduct','project']){const w=lib.words[id];assert.ok(needsContextAudio(w,lib));assert.equal(pronunciationText(w,lib),w.examples[0].text);assert.ok(renderWordCard(id,lib,freshState()).includes('英音例句'));}
+for(const id of Object.keys(lib.studyItems)){const w=studyItem(lib,id);assert.ok(needsContextAudio(w,lib));assert.equal(pronunciationText(w,lib),w.examples[0].text);}
+console.log('Audio text checks passed: ordinary word, attested heteronyms and every independent sense use their intended explicit playback text.');

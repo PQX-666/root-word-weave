@@ -1,0 +1,3492 @@
+{
+  "families": [
+    {
+      "id": "cred",
+      "label": "cred",
+      "meaning": "相信；信任",
+      "description": "来自拉丁语 credere（相信、信任）。credit 中保留 credit- 词干，creed 是经过历史变化的同源词。历史关联不表示这些英语词按图中顺序产生。",
+      "words": [
+        {
+          "id": "credit",
+          "word": "credit",
+          "pos": "n.",
+          "meaning": "信用状况",
+          "parts": [
+            {
+              "text": "cred",
+              "key": "root-cred"
+            },
+            {
+              "text": "it"
+            }
+          ],
+          "explanation": "credit 来自表示‘信任、借贷’的拉丁语形式；-it 不是可自由添加的现代后缀。本卡学习金融语境中的信用状况，即别人对一个人按约偿债能力的评价。",
+          "mnemonic": "别人相信你会还款，就愿意给你 credit。",
+          "example": "The bank checked her credit before approving the loan.",
+          "translation": "银行在批准贷款前检查了她的信用。",
+          "collocation": "check someone's credit；a good credit rating",
+          "synonyms": [
+            "creditworthiness：对应偿债信用状况，侧重按约偿债的可信程度。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/credit",
+          "otherSenses": [
+            {
+              "pos": "n.",
+              "meaning": "学分"
+            },
+            {
+              "pos": "n.",
+              "meaning": "功劳；赞誉"
+            },
+            {
+              "pos": "v.",
+              "meaning": "把……归功于"
+            }
+          ]
+        },
+        {
+          "id": "credible",
+          "word": "credible",
+          "pos": "adj.",
+          "meaning": "可信的；可靠的",
+          "parts": [
+            {
+              "text": "cred",
+              "key": "root-cred"
+            },
+            {
+              "text": "ible",
+              "key": "able-adj"
+            }
+          ],
+          "explanation": "历史上来自拉丁语 credibilis。学习时可识别 cred- 与表示‘可以……的’的 -ible；-ible 是 -able 一类后缀的拼写形式。",
+          "mnemonic": "可信的解释，能让人相信。",
+          "example": "The witness gave a credible account of the accident.",
+          "translation": "证人对事故作出了可信的描述。",
+          "collocation": "credible evidence；a credible explanation",
+          "synonyms": [
+            "believable：指内容让人能够相信。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/credible"
+        },
+        {
+          "id": "incredible",
+          "word": "incredible",
+          "pos": "adj.",
+          "meaning": "难以置信的；极好的",
+          "parts": [
+            {
+              "text": "in",
+              "key": "in-negative"
+            },
+            {
+              "text": "cred",
+              "key": "root-cred"
+            },
+            {
+              "text": "ible",
+              "key": "able-adj"
+            }
+          ],
+          "explanation": "可按 in-（不）+ credible 识别；除‘难以置信’外，口语中常用来赞叹‘极好’。",
+          "mnemonic": "不敢相信的精彩表现，令人惊叹。",
+          "example": "The team made an incredible recovery in the final minutes.",
+          "translation": "球队在最后几分钟里不可思议地扭转了局面。",
+          "collocation": "an incredible achievement；incredible speed",
+          "synonyms": [
+            "amazing：对应令人惊叹义；unbelievable：对应难以置信义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/incredible"
+        },
+        {
+          "id": "credibility",
+          "word": "credibility",
+          "pos": "n.",
+          "meaning": "可信度；公信力",
+          "parts": [
+            {
+              "text": "cred",
+              "key": "root-cred"
+            },
+            {
+              "text": "ibil"
+            },
+            {
+              "text": "ity",
+              "key": "ity-noun"
+            }
+          ],
+          "explanation": "对应 credible 的名词词形；-ible 在 -ity 前呈现 -ibil-，组合为 -ibility。这里展示词形变化，不断言英语词的产生顺序。",
+          "mnemonic": "credible 是‘可信’，credibility 是‘可信的程度’。",
+          "example": "Publishing the full data improved the report's credibility.",
+          "translation": "公布全部数据提高了报告的可信度。",
+          "collocation": "establish credibility；damage someone's credibility",
+          "synonyms": [
+            "believability：对应让人相信的程度。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/credibility"
+        },
+        {
+          "id": "incredibly",
+          "word": "incredibly",
+          "pos": "adv.",
+          "meaning": "极其；令人难以置信地",
+          "parts": [
+            {
+              "text": "in",
+              "key": "in-negative"
+            },
+            {
+              "text": "cred",
+              "key": "root-cred"
+            },
+            {
+              "text": "ibly",
+              "key": "ly-adverb"
+            }
+          ],
+          "explanation": "incredible 的副词形式；结尾 -ible 变为 -ibly。表示程度时通常译为‘极其’。",
+          "mnemonic": "incredible 的感觉，变成描述动作或程度的 incredibly。",
+          "example": "The instructions were incredibly easy to follow.",
+          "translation": "这些说明极其容易理解。",
+          "collocation": "incredibly useful；incredibly difficult",
+          "synonyms": [
+            "extremely：对应程度副词‘极其’，不包含惊叹意味。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/incredible"
+        },
+        {
+          "id": "discredit",
+          "word": "discredit",
+          "pos": "v.",
+          "meaning": "使说法受到怀疑",
+          "parts": [
+            {
+              "text": "dis"
+            },
+            {
+              "text": "cred",
+              "key": "root-cred"
+            },
+            {
+              "text": "it"
+            }
+          ],
+          "explanation": "现代可识别 dis- + credit；本词的 dis- 表示否定或逆转。本卡学习使某种说法、证据或理论的可信度受到怀疑这一动词义。",
+          "mnemonic": "把一个说法的信用撤掉，它就受到质疑。",
+          "example": "The new evidence discredited the earlier theory.",
+          "translation": "新的证据使早先的理论受到质疑。",
+          "collocation": "discredit a theory；discredit a claim",
+          "synonyms": [
+            "cast doubt on：对应使某种说法的可信度受到怀疑。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/discredit",
+          "otherSenses": [
+            {
+              "pos": "v.",
+              "meaning": "使失去信誉"
+            },
+            {
+              "pos": "n.",
+              "meaning": "信誉受损；名誉扫地"
+            }
+          ]
+        },
+        {
+          "id": "creditor",
+          "word": "creditor",
+          "pos": "n.",
+          "meaning": "债权人；债主",
+          "parts": [
+            {
+              "text": "cred",
+              "key": "root-cred"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "or",
+              "key": "or-agent"
+            }
+          ],
+          "explanation": "来自拉丁语表示‘信任者、贷款人’的形式；学习时与 credit 配对，-or 表示人。它与 credit 同源，不是英语历史上由 credit 临时造出的词。",
+          "mnemonic": "相信别人会还钱并把钱借出的人，是 creditor。",
+          "example": "The company reached an agreement with its largest creditor.",
+          "translation": "公司与其最大的债权人达成了协议。",
+          "collocation": "a major creditor；pay a creditor",
+          "synonyms": [
+            "lender：指放贷者；creditor 也可指其他被欠款者。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/creditor"
+        },
+        {
+          "id": "accredit",
+          "word": "accredit",
+          "pos": "v.",
+          "meaning": "正式认可；授予资格",
+          "parts": [
+            {
+              "text": "ac"
+            },
+            {
+              "text": "cred",
+              "key": "root-cred"
+            },
+            {
+              "text": "it"
+            }
+          ],
+          "explanation": "来自法语 accréditer，历史上与 credit 相关。ac- 表示‘向、赋予’的历史关系；不把它标成否定前缀，也不据此猜出所有现代义项。",
+          "mnemonic": "正式给一个机构的能力‘盖信用章’。",
+          "example": "An independent body will accredit the training program.",
+          "translation": "一个独立机构将认证该培训项目。",
+          "collocation": "accredit an institution；an accredited course",
+          "synonyms": [
+            "recognize：对应正式认可资格义，适用范围更广。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/accredit"
+        },
+        {
+          "id": "accreditation",
+          "word": "accreditation",
+          "pos": "n.",
+          "meaning": "认证；资格认可",
+          "parts": [
+            {
+              "text": "ac"
+            },
+            {
+              "text": "cred",
+              "key": "root-cred"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "ation",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 accredit 的名词形式；-ation 表示相关过程或结果。",
+          "mnemonic": "accredit 是认证动作，accreditation 是认证结果或过程。",
+          "example": "The college applied for national accreditation.",
+          "translation": "这所学院申请了国家级认证。",
+          "collocation": "gain accreditation；professional accreditation",
+          "synonyms": [
+            "certification：也指认证；具体制度中二者可能有区别。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/accreditation"
+        },
+        {
+          "id": "credential",
+          "word": "credential",
+          "pos": "n.",
+          "meaning": "资格；资格证书（常用复数 credentials）",
+          "parts": [
+            {
+              "text": "cred",
+              "key": "root-cred"
+            },
+            {
+              "text": "ential"
+            }
+          ],
+          "explanation": "与 credere（相信、信任）有历史关联。-ential 在本词中保留为整体，不把它强行拆成能逐段推出现代词义的构件。",
+          "mnemonic": "用证书和经历让别人相信你的资格。",
+          "example": "She earned a teaching credential after completing the course.",
+          "translation": "完成课程后，她取得了教师资格证书。",
+          "collocation": "a teaching credential；check someone's credentials",
+          "synonyms": [
+            "qualification：对应胜任某事的资格；certificate：对应证明文件义。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.merriam-webster.com/dictionary/credential"
+        },
+        {
+          "id": "creed",
+          "word": "creed",
+          "pos": "n.",
+          "meaning": "信条；信仰纲领",
+          "parts": [
+            {
+              "text": "creed",
+              "key": "root-cred"
+            }
+          ],
+          "explanation": "creed 与拉丁语 credo（我相信）有关，是历史上英语化的词形；creed 不是 cred 加一个现代 -e 后缀。",
+          "mnemonic": "把‘我相信什么’写成一条信条。",
+          "example": "Respect for others is central to her personal creed.",
+          "translation": "尊重他人是她个人信条的核心。",
+          "collocation": "a religious creed；a personal creed",
+          "synonyms": [
+            "belief：对应信念义；creed 常指成体系或明确表述的信条。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/creed"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:cred",
+          "to": "credit",
+          "label": "历史同根：信任与信用",
+          "type": "origin"
+        },
+        {
+          "from": "root:cred",
+          "to": "credible",
+          "label": "历史同根：cred- + -ible",
+          "type": "origin"
+        },
+        {
+          "from": "credible",
+          "to": "incredible",
+          "label": "+ in-（不）",
+          "type": "analysis"
+        },
+        {
+          "from": "credible",
+          "to": "credibility",
+          "label": "-ible → -ibility（名词）",
+          "type": "analysis"
+        },
+        {
+          "from": "incredible",
+          "to": "incredibly",
+          "label": "-ible → -ibly（副词）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:cred",
+          "to": "discredit",
+          "label": "历史同根：可信性受到质疑",
+          "type": "origin"
+        },
+        {
+          "from": "credit",
+          "to": "creditor",
+          "label": "同根的人名词：-or",
+          "type": "origin"
+        },
+        {
+          "from": "credit",
+          "to": "accredit",
+          "label": "历史同根：正式赋予信用",
+          "type": "origin"
+        },
+        {
+          "from": "accredit",
+          "to": "accreditation",
+          "label": "+ -ation（名词）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:cred",
+          "to": "credential",
+          "label": "历史同根：证明资格的依据",
+          "type": "origin"
+        },
+        {
+          "from": "root:cred",
+          "to": "creed",
+          "label": "历史变体：credo → creed",
+          "type": "origin"
+        }
+      ]
+    },
+    {
+      "id": "scrib",
+      "label": "scrib / script",
+      "meaning": "写；书写",
+      "description": "来自拉丁语 scribere（写）。scrib- 与 script- 是历史词干变体；在 describe/description 等现代词形配对中，-scribe 对应 -script-。词根有助于联想，不能替代当前词义。",
+      "words": [
+        {
+          "id": "describe",
+          "word": "describe",
+          "pos": "v.",
+          "meaning": "描述；描写",
+          "parts": [
+            {
+              "text": "de"
+            },
+            {
+              "text": "scrib",
+              "key": "root-scrib"
+            },
+            {
+              "text": "e"
+            }
+          ],
+          "explanation": "历史来源是 de-（写下）与 scribere（写）；现代 describe 可以用口头语言描述，不能限理解为‘写’。",
+          "mnemonic": "把看到的情景‘写下来’，也可以说出来。",
+          "example": "Could you describe the room in a few sentences?",
+          "translation": "你能用几句话描述这个房间吗？",
+          "collocation": "describe something as；describe a scene",
+          "synonyms": [
+            "depict：对应描绘义，也可用图像表现。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/describe"
+        },
+        {
+          "id": "description",
+          "word": "description",
+          "pos": "n.",
+          "meaning": "描述；说明",
+          "parts": [
+            {
+              "text": "de"
+            },
+            {
+              "text": "script",
+              "key": "root-scrib"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 describe 的名词词形；-scribe 变为 -script-，再与 -ion 对应。scrib/script 来自拉丁语不同词干，不是随意替换字母。",
+          "mnemonic": "describe 是动作，description 是写出的或说出的说明。",
+          "example": "The website includes a detailed description of each course.",
+          "translation": "网站包含每门课程的详细说明。",
+          "collocation": "a detailed description；a job description",
+          "synonyms": [
+            "account：对应对事件的描述或叙述，不专指职位说明。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/description"
+        },
+        {
+          "id": "descriptive",
+          "word": "descriptive",
+          "pos": "adj.",
+          "meaning": "描述性的；描写的",
+          "parts": [
+            {
+              "text": "de"
+            },
+            {
+              "text": "script",
+              "key": "root-scrib"
+            },
+            {
+              "text": "ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "与 describe/description 共用 descript- 词干；-ive 形成形容词。可用 description 与 descriptive 对比记忆名词和形容词的词尾。",
+          "mnemonic": "description 的说明，变成 descriptive 的‘描述性的’。",
+          "example": "Her essay uses descriptive language to bring the village to life.",
+          "translation": "她的文章用描写性语言把村庄写得栩栩如生。",
+          "collocation": "descriptive language；descriptive writing",
+          "synonyms": [
+            "illustrative：在帮助描绘或说明时近义；更强调用例子或图像说明。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/descriptive"
+        },
+        {
+          "id": "prescribe",
+          "word": "prescribe",
+          "pos": "v.",
+          "meaning": "开药；规定",
+          "parts": [
+            {
+              "text": "pre",
+              "key": "pre-before"
+            },
+            {
+              "text": "scrib",
+              "key": "root-scrib"
+            },
+            {
+              "text": "e"
+            }
+          ],
+          "explanation": "历史上 pre-（预先）+ scribere（写）表示事先写下指示，发展为规定或开处方。",
+          "mnemonic": "医生先写下用药指示，再让患者照着做。",
+          "example": "The doctor prescribed a short course of treatment.",
+          "translation": "医生开了一个短期疗程。",
+          "collocation": "prescribe medicine；prescribe a treatment",
+          "synonyms": [
+            "order：对应正式规定做什么；医疗语境可指医生下医嘱。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/prescribe"
+        },
+        {
+          "id": "prescription",
+          "word": "prescription",
+          "pos": "n.",
+          "meaning": "处方；处方药；规定",
+          "parts": [
+            {
+              "text": "pre",
+              "key": "pre-before"
+            },
+            {
+              "text": "script",
+              "key": "root-scrib"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "prescribe 对应的名词词形，-scribe → -script- + -ion。具体语境中既可指处方，也可指按处方配的药。",
+          "mnemonic": "prescribe 写指示，prescription 是那张处方。",
+          "example": "Take the prescription to a local pharmacy.",
+          "translation": "把处方拿到附近的药店。",
+          "collocation": "a prescription for；prescription drugs",
+          "synonyms": [
+            "medical order：对应医生的用药指示，不能替代所有处方药用法。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/prescription"
+        },
+        {
+          "id": "script",
+          "word": "script",
+          "pos": "n.",
+          "meaning": "剧本；脚本；文字体系",
+          "parts": [
+            {
+              "text": "script",
+              "key": "root-scrib"
+            }
+          ],
+          "explanation": "来自拉丁语 scriptum（写成的东西），与 scribere 同源；script 是独立单词，也是本词族里的历史词干形式。",
+          "mnemonic": "演员、程序或文字系统，都可以围绕写好的 script。",
+          "example": "The actors read the script together before rehearsal.",
+          "translation": "排练前，演员们一起读了剧本。",
+          "collocation": "a film script；write a script",
+          "synonyms": [
+            "screenplay：对应电影剧本义；不表示程序脚本。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/script"
+        },
+        {
+          "id": "manuscript",
+          "word": "manuscript",
+          "pos": "n.",
+          "meaning": "手稿；原稿",
+          "parts": [
+            {
+              "text": "manu"
+            },
+            {
+              "text": "script",
+              "key": "root-scrib"
+            }
+          ],
+          "explanation": "历史上 manu（用手）+ script-（写），指手写文稿；现代也可指待发表的原稿，即使是电子稿。",
+          "mnemonic": "manu 联想手，script 联想写：手写的原稿。",
+          "example": "The author sent her manuscript to the publisher.",
+          "translation": "作者把原稿寄给了出版社。",
+          "collocation": "submit a manuscript；an original manuscript",
+          "synonyms": [
+            "draft：对应未发表的稿件义；draft 特别强调尚可修改。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/manuscript"
+        },
+        {
+          "id": "transcript",
+          "word": "transcript",
+          "pos": "n.",
+          "meaning": "文字记录；成绩单",
+          "parts": [
+            {
+              "text": "tran",
+              "key": "trans-across"
+            },
+            {
+              "text": "script",
+              "key": "root-scrib"
+            }
+          ],
+          "explanation": "历史上来自 transcribere（转写、抄写）的词形。trans- 与 script- 衔接时拼写只保留一个 s，表面可显示为 tran + script；这里的 tran 不是另一个前缀。",
+          "mnemonic": "把声音转成文字记录；学校也可开学习成绩记录。",
+          "example": "I read the transcript of the interview.",
+          "translation": "我读了采访的文字记录。",
+          "collocation": "an interview transcript；an academic transcript",
+          "synonyms": [
+            "written record：对应文字记录义；不专指学校成绩单。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.merriam-webster.com/dictionary/transcript"
+        },
+        {
+          "id": "subscribe",
+          "word": "subscribe",
+          "pos": "v.",
+          "meaning": "订阅；认同",
+          "parts": [
+            {
+              "text": "sub"
+            },
+            {
+              "text": "scrib",
+              "key": "root-scrib"
+            },
+            {
+              "text": "e"
+            }
+          ],
+          "explanation": "历史上 sub-（在下面）+ scribere（写）指在文书底部签名表示同意，后来发展出订阅义。现代常接 to。",
+          "mnemonic": "在名单下签上名字，表示同意或加入订阅。",
+          "example": "I subscribe to a monthly science magazine.",
+          "translation": "我订阅了一本科学月刊。",
+          "collocation": "subscribe to a magazine；subscribe to a view",
+          "synonyms": [
+            "sign up for：对应注册订阅义；agree with：对应认同观点义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/subscribe"
+        },
+        {
+          "id": "subscription",
+          "word": "subscription",
+          "pos": "n.",
+          "meaning": "订阅；订阅费",
+          "parts": [
+            {
+              "text": "sub"
+            },
+            {
+              "text": "script",
+              "key": "root-scrib"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 subscribe 的名词词形；-scribe → -script- + -ion。词根联想来自签名，当前含义需结合服务或出版物理解。",
+          "mnemonic": "subscribe 是订阅，subscription 是你的订阅服务或费用。",
+          "example": "My annual subscription expires next month.",
+          "translation": "我的年度订阅下个月到期。",
+          "collocation": "renew a subscription；a subscription fee",
+          "synonyms": [
+            "membership：某些付费服务中可近义；也可指非订阅制的会员身份。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/subscription"
+        },
+        {
+          "id": "inscribe",
+          "word": "inscribe",
+          "pos": "v.",
+          "meaning": "刻写；题写",
+          "parts": [
+            {
+              "text": "in"
+            },
+            {
+              "text": "scrib",
+              "key": "root-scrib"
+            },
+            {
+              "text": "e"
+            }
+          ],
+          "explanation": "历史上 in- 表示‘在……上或里面’，不是否定；与 scribere（写）结合，表示在耐久表面上写或刻。",
+          "mnemonic": "把名字刻进一块石牌。",
+          "example": "They inscribed the winner's name on the trophy.",
+          "translation": "他们把获胜者的名字刻在奖杯上。",
+          "collocation": "inscribe a name on；be inscribed with",
+          "synonyms": [
+            "engrave：对应刻写义；inscribe 也可用笔题写。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/inscribe"
+        },
+        {
+          "id": "inscription",
+          "word": "inscription",
+          "pos": "n.",
+          "meaning": "铭文；题词",
+          "parts": [
+            {
+              "text": "in"
+            },
+            {
+              "text": "script",
+              "key": "root-scrib"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 inscribe 的名词词形；in- 是‘在……上或里面’，-script- 为 scrib- 的历史变体。",
+          "mnemonic": "inscribe 刻写，留下来的字就是 inscription。",
+          "example": "The stone carries an inscription in two languages.",
+          "translation": "石头上刻着两种语言的铭文。",
+          "collocation": "an inscription on；a stone inscription",
+          "synonyms": [
+            "engraving：对应刻出的文字义；也可表示雕刻图案。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/inscription"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:scrib",
+          "to": "describe",
+          "label": "历史同根：写下、描绘",
+          "type": "origin"
+        },
+        {
+          "from": "describe",
+          "to": "description",
+          "label": "-scribe → -script- + -ion",
+          "type": "analysis"
+        },
+        {
+          "from": "description",
+          "to": "descriptive",
+          "label": "同词干：-ion ↔ -ive",
+          "type": "analysis"
+        },
+        {
+          "from": "root:scrib",
+          "to": "prescribe",
+          "label": "历史同根：预先写指示",
+          "type": "origin"
+        },
+        {
+          "from": "prescribe",
+          "to": "prescription",
+          "label": "-scribe → -script- + -ion",
+          "type": "analysis"
+        },
+        {
+          "from": "root:scrib",
+          "to": "script",
+          "label": "历史变体：scrib- / script-",
+          "type": "origin"
+        },
+        {
+          "from": "script",
+          "to": "manuscript",
+          "label": "历史同根：手写的文稿",
+          "type": "origin"
+        },
+        {
+          "from": "root:scrib",
+          "to": "transcript",
+          "label": "历史同根：转写的记录",
+          "type": "origin"
+        },
+        {
+          "from": "root:scrib",
+          "to": "subscribe",
+          "label": "历史同根：在下面签名",
+          "type": "origin"
+        },
+        {
+          "from": "subscribe",
+          "to": "subscription",
+          "label": "-scribe → -script- + -ion",
+          "type": "analysis"
+        },
+        {
+          "from": "root:scrib",
+          "to": "inscribe",
+          "label": "历史同根：在表面刻写",
+          "type": "origin"
+        },
+        {
+          "from": "inscribe",
+          "to": "inscription",
+          "label": "-scribe → -script- + -ion",
+          "type": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "aud",
+      "label": "aud / audi",
+      "meaning": "听；听见",
+      "description": "来自拉丁语 audire（听）。aud- 与 audi- 出现在不同历史词形中，audit/audition 还保留 audit- 词干。审计义来自早期听取账目报告的做法。",
+      "words": [
+        {
+          "id": "audible",
+          "word": "audible",
+          "pos": "adj.",
+          "meaning": "听得见的",
+          "parts": [
+            {
+              "text": "aud",
+              "key": "root-aud"
+            },
+            {
+              "text": "ible",
+              "key": "able-adj"
+            }
+          ],
+          "explanation": "来自表示‘能听见的’的拉丁语形式。学习时将 aud- 与 -ible（能够……的，-able 一类的拼写形式）联系起来。",
+          "mnemonic": "声音够大，耳朵能够听见。",
+          "example": "Her voice was barely audible above the traffic.",
+          "translation": "在交通噪声中，她的声音几乎听不见。",
+          "collocation": "barely audible；an audible sound",
+          "synonyms": [
+            "perceptible by hearing：对应可以通过听觉察觉的意义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/audible"
+        },
+        {
+          "id": "inaudible",
+          "word": "inaudible",
+          "pos": "adj.",
+          "meaning": "听不见的",
+          "parts": [
+            {
+              "text": "in",
+              "key": "in-negative"
+            },
+            {
+              "text": "aud",
+              "key": "root-aud"
+            },
+            {
+              "text": "ible",
+              "key": "able-adj"
+            }
+          ],
+          "explanation": "in-（不）+ audible，否定的是声音能否被听见，不是声音是否存在。",
+          "mnemonic": "给 audible 加上‘不’，声音就听不见了。",
+          "example": "The announcement was inaudible at the back of the hall.",
+          "translation": "大厅后部听不清广播。",
+          "collocation": "almost inaudible；an inaudible whisper",
+          "synonyms": [
+            "unheard：在没有被听见时近义；也可指未被倾听，不完全等同。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/inaudible"
+        },
+        {
+          "id": "inaudibly",
+          "word": "inaudibly",
+          "pos": "adv.",
+          "meaning": "听不见地；低得无法听清地",
+          "parts": [
+            {
+              "text": "in",
+              "key": "in-negative"
+            },
+            {
+              "text": "aud",
+              "key": "root-aud"
+            },
+            {
+              "text": "ibly",
+              "key": "ly-adverb"
+            }
+          ],
+          "explanation": "inaudible 的副词形式，结尾 -ible → -ibly；描述说话或声音发出的方式。",
+          "mnemonic": "inaudible 形容声音，inaudibly 说明说话的方式。",
+          "example": "He answered almost inaudibly and looked down.",
+          "translation": "他低声回答，几乎听不清，并低下了头。",
+          "collocation": "speak inaudibly；murmur inaudibly",
+          "synonyms": [
+            "imperceptibly：对应难以察觉的方式，适用于多种感官，范围更广。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.merriam-webster.com/dictionary/inaudible"
+        },
+        {
+          "id": "audio",
+          "word": "audio",
+          "pos": "n.",
+          "meaning": "音频",
+          "parts": [
+            {
+              "text": "audi",
+              "key": "root-aud"
+            },
+            {
+              "text": "o"
+            }
+          ],
+          "explanation": "与拉丁语 audio（我听）有关，audi- 为 aud- 的历史词形。本卡学习名词 audio，指录音或媒体中的声音内容。",
+          "mnemonic": "audio 的 a 联想到耳机里的声音。",
+          "example": "The video is clear, but the audio is too quiet.",
+          "translation": "视频很清楚，但音频声音太小。",
+          "collocation": "audio quality；play the audio",
+          "synonyms": [
+            "sound：这里对应媒体或录音中的声音内容。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/audio",
+          "otherSenses": [
+            {
+              "pos": "adj.",
+              "meaning": "声音的；音频的"
+            }
+          ]
+        },
+        {
+          "id": "audiobook",
+          "word": "audiobook",
+          "pos": "n.",
+          "meaning": "有声书",
+          "parts": [
+            {
+              "text": "audio",
+              "key": "root-aud"
+            },
+            {
+              "text": "book"
+            }
+          ],
+          "explanation": "现代复合词，由 audio-（声音）与 book（书）组成；具体指把书朗读出来的录音。",
+          "mnemonic": "把书变成可以听的 audio。",
+          "example": "I listened to an audiobook on the train.",
+          "translation": "我在火车上听了一本有声书。",
+          "collocation": "listen to an audiobook；an unabridged audiobook",
+          "synonyms": [
+            "talking book：对应有声读物义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.merriam-webster.com/dictionary/audiobook"
+        },
+        {
+          "id": "audience",
+          "word": "audience",
+          "pos": "n.",
+          "meaning": "观众；听众；读者群",
+          "parts": [
+            {
+              "text": "audi",
+              "key": "root-aud"
+            },
+            {
+              "text": "ence"
+            }
+          ],
+          "explanation": "历史上来自‘听、倾听’的拉丁语词形；现代也包括观看者和读者。-ence 在这里属于历史名词形式，不把 audience 视为 audio 加后缀。",
+          "mnemonic": "先想到‘听的人’，再扩展到看节目或读文章的人群。",
+          "example": "The speaker asked the audience to raise their hands.",
+          "translation": "演讲者请听众举手。",
+          "collocation": "a large audience；a target audience",
+          "synonyms": [
+            "listeners：对应听众义；viewers：对应节目观众义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/audience"
+        },
+        {
+          "id": "audition",
+          "word": "audition",
+          "pos": "n.",
+          "meaning": "试演",
+          "parts": [
+            {
+              "text": "audi",
+              "key": "root-aud"
+            },
+            {
+              "text": "tion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "历史词干 audit- 与名词形式有关，本卡学习名词 audition，即表演者为争取角色而参加的选拔测试。表面切分 audi + tion 仅用于识别，不把它解释为现代 audio 的派生词。",
+          "mnemonic": "让评审先‘听或看一段’，再决定是否录用演员。",
+          "example": "She has an audition for the school musical tomorrow.",
+          "translation": "她明天要参加学校音乐剧的试演。",
+          "collocation": "an audition for a role；hold an audition",
+          "synonyms": [
+            "tryout：对应表演者的选拔测试，也可用于体育选拔。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/audition",
+          "otherSenses": [
+            {
+              "pos": "n.",
+              "meaning": "试唱"
+            },
+            {
+              "pos": "v.",
+              "meaning": "参加试演；参加试唱"
+            }
+          ]
+        },
+        {
+          "id": "audit",
+          "word": "audit",
+          "pos": "n.",
+          "meaning": "审计",
+          "parts": [
+            {
+              "text": "aud",
+              "key": "root-aud"
+            },
+            {
+              "text": "it"
+            }
+          ],
+          "explanation": "来自拉丁语 auditus（听），审账原先采用口头程序。本卡学习名词 audit，即对账目的正式检查；不能只按‘听’来推断现代词义。",
+          "mnemonic": "审计员早先听账目报告，现在核查记录。",
+          "example": "The charity arranged an independent audit of its accounts.",
+          "translation": "这家慈善机构安排了独立的账目审计。",
+          "collocation": "an independent audit；an audit of accounts",
+          "synonyms": [
+            "financial examination：对应对账目的正式检查。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/audit",
+          "otherSenses": [
+            {
+              "pos": "n.",
+              "meaning": "审核"
+            },
+            {
+              "pos": "v.",
+              "meaning": "审计；审核"
+            },
+            {
+              "pos": "v.",
+              "meaning": "旁听课程"
+            }
+          ]
+        },
+        {
+          "id": "auditor",
+          "word": "auditor",
+          "pos": "n.",
+          "meaning": "审计员；审计师",
+          "parts": [
+            {
+              "text": "aud",
+              "key": "root-aud"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "or",
+              "key": "or-agent"
+            }
+          ],
+          "explanation": "与拉丁语表示‘听者’的 auditor 有历史关联。现代学习可与 audit 配对，-or 表示从事该工作的人；图中关系不表示英语的历史先后。",
+          "mnemonic": "audit 审计，auditor 做审计的人。",
+          "example": "The auditor requested copies of the receipts.",
+          "translation": "审计员要求提供收据副本。",
+          "collocation": "an external auditor；appoint an auditor",
+          "synonyms": [
+            "accounts examiner：对应检查账目的人；accountant 不一定负责审计。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/auditor"
+        },
+        {
+          "id": "auditorium",
+          "word": "auditorium",
+          "pos": "n.",
+          "meaning": "礼堂；观众厅",
+          "parts": [
+            {
+              "text": "audi",
+              "key": "root-aud"
+            },
+            {
+              "text": "torium"
+            }
+          ],
+          "explanation": "来自拉丁语 auditorium，原义为用于听讲的场所。-torium 保留为历史形式，不能简单说它由现代 auditor 加 -ium 造出。",
+          "mnemonic": "把一群听众安置在能听讲的大礼堂里。",
+          "example": "The graduation ceremony will take place in the auditorium.",
+          "translation": "毕业典礼将在礼堂举行。",
+          "collocation": "a school auditorium；fill the auditorium",
+          "synonyms": [
+            "assembly hall：对应集会礼堂义；auditorium 也可特指剧院观众席部分。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/auditorium"
+        },
+        {
+          "id": "auditory",
+          "word": "auditory",
+          "pos": "adj.",
+          "meaning": "听觉的",
+          "parts": [
+            {
+              "text": "aud",
+              "key": "root-aud"
+            },
+            {
+              "text": "itory"
+            }
+          ],
+          "explanation": "与拉丁语 audire（听）有历史关联，表示听觉方面的。-itory 作为整体展示，不强拆成现代 audit 的常规派生。",
+          "mnemonic": "auditory 对应耳朵接收声音的那一类感觉。",
+          "example": "The experiment compared visual and auditory memory.",
+          "translation": "实验比较了视觉记忆和听觉记忆。",
+          "collocation": "auditory perception；auditory memory",
+          "synonyms": [
+            "aural：对应与耳朵或听觉有关的意义。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/auditory"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:aud",
+          "to": "audible",
+          "label": "历史同根：能够听见",
+          "type": "origin"
+        },
+        {
+          "from": "audible",
+          "to": "inaudible",
+          "label": "+ in-（不）",
+          "type": "analysis"
+        },
+        {
+          "from": "inaudible",
+          "to": "inaudibly",
+          "label": "-ible → -ibly（副词）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:aud",
+          "to": "audio",
+          "label": "历史词形：audio（我听）",
+          "type": "origin"
+        },
+        {
+          "from": "audio",
+          "to": "audiobook",
+          "label": "+ book（复合词）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:aud",
+          "to": "audience",
+          "label": "历史同根：听者群体",
+          "type": "origin"
+        },
+        {
+          "from": "root:aud",
+          "to": "audition",
+          "label": "历史同根：听、试演",
+          "type": "origin"
+        },
+        {
+          "from": "root:aud",
+          "to": "audit",
+          "label": "历史同根：听取账目报告",
+          "type": "origin"
+        },
+        {
+          "from": "audit",
+          "to": "auditor",
+          "label": "同根的人名词：-or",
+          "type": "origin"
+        },
+        {
+          "from": "root:aud",
+          "to": "auditorium",
+          "label": "历史同根：听讲场所",
+          "type": "origin"
+        },
+        {
+          "from": "root:aud",
+          "to": "auditory",
+          "label": "历史同根：与听觉有关",
+          "type": "origin"
+        }
+      ]
+    },
+    {
+      "id": "vis",
+      "label": "vid / vis",
+      "meaning": "看；看见",
+      "description": "来自拉丁语 videre（看）。vid- 与其历史词干 vis- 相关；本组展示 vis-。可把‘看见’与视觉、修订和监督联系起来，但现代词义并不都等于字面上的看。",
+      "words": [
+        {
+          "id": "vision",
+          "word": "vision",
+          "pos": "n.",
+          "meaning": "视力；视觉；愿景",
+          "parts": [
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "来自拉丁语表示‘看、所见之物’的形式；现代既指视觉，也指对未来的构想。",
+          "mnemonic": "眼睛看到现在，愿景‘看到’未来。",
+          "example": "The organization has a clear vision for the next decade.",
+          "translation": "这个组织对未来十年有清晰的愿景。",
+          "collocation": "a vision for；good vision",
+          "synonyms": [
+            "eyesight：对应视力义；aspiration：在未来愿景义中相关，更强调愿望。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/vision"
+        },
+        {
+          "id": "visible",
+          "word": "visible",
+          "pos": "adj.",
+          "meaning": "看得见的；明显的",
+          "parts": [
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "ible",
+              "key": "able-adj"
+            }
+          ],
+          "explanation": "历史上来自 visibilis（能被看见）；学习时识别 vis- 与 -ible（能够……的，-able 类后缀形式）。",
+          "mnemonic": "让眼睛能够看到，就是 visible。",
+          "example": "The mountain was visible from our window.",
+          "translation": "从我们的窗户可以看见那座山。",
+          "collocation": "visible to the eye；clearly visible",
+          "synonyms": [
+            "perceptible：对应可以察觉义，也适用于其他感官。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/visible"
+        },
+        {
+          "id": "invisible",
+          "word": "invisible",
+          "pos": "adj.",
+          "meaning": "看不见的；无形的",
+          "parts": [
+            {
+              "text": "in",
+              "key": "in-negative"
+            },
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "ible",
+              "key": "able-adj"
+            }
+          ],
+          "explanation": "in-（不）+ visible；既可表示肉眼看不见，也可表示不易被注意到。",
+          "mnemonic": "把 visible 前面加‘不’，就像无形的线。",
+          "example": "The tiny marks are invisible without a magnifying glass.",
+          "translation": "不用放大镜就看不见这些微小的痕迹。",
+          "collocation": "invisible to；an invisible barrier",
+          "synonyms": [
+            "unseen：对应未被看见义；未必表示无法看见。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/invisible"
+        },
+        {
+          "id": "visibility",
+          "word": "visibility",
+          "pos": "n.",
+          "meaning": "能见度；可见性",
+          "parts": [
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "ibil"
+            },
+            {
+              "text": "ity",
+              "key": "ity-noun"
+            }
+          ],
+          "explanation": "对应 visible 的名词词形，-ible → -ibility；可以指天气能见度，也可指某事被注意到的程度。",
+          "mnemonic": "visible 是看得见，visibility 是能看多清、多远。",
+          "example": "Heavy fog reduced visibility on the road.",
+          "translation": "浓雾降低了道路上的能见度。",
+          "collocation": "poor visibility；improve visibility",
+          "synonyms": [
+            "conspicuousness：对应容易被注意到的程度，不表示气象能见度。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/visibility"
+        },
+        {
+          "id": "visual",
+          "word": "visual",
+          "pos": "adj.",
+          "meaning": "视觉的；可视的",
+          "parts": [
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "ual",
+              "key": "al-adj"
+            }
+          ],
+          "explanation": "历史上来自 visualis（与视觉有关）。-ual 是形容词词尾形式；visual 强调与视觉有关，不完全等同于 visible（看得见）。",
+          "mnemonic": "visual information 是给眼睛看的信息。",
+          "example": "The diagram is a useful visual aid.",
+          "translation": "这张图是有用的视觉辅助材料。",
+          "collocation": "visual information；visual aids",
+          "synonyms": [
+            "optical：在与视觉有关时近义，也可专指光学的。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/visual"
+        },
+        {
+          "id": "visualize",
+          "word": "visualize",
+          "pos": "v.",
+          "meaning": "想象；使形象化；把……可视化",
+          "parts": [
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "ual",
+              "key": "al-adj"
+            },
+            {
+              "text": "ize"
+            }
+          ],
+          "explanation": "现代可识别 visual + -ize，表示在脑中形成图像或以可视形式呈现。英式拼写也可用 visualise。",
+          "mnemonic": "给 visual 加 -ize，把抽象内容变成脑中的画面。",
+          "example": "Try to visualize the route before you leave.",
+          "translation": "出发前试着在脑中想象一下路线。",
+          "collocation": "visualize a scene；visualize data",
+          "synonyms": [
+            "picture：对应在脑中想象义；display visually：对应可视化呈现义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/visualize"
+        },
+        {
+          "id": "visualization",
+          "word": "visualization",
+          "pos": "n.",
+          "meaning": "形象化；可视化；可视化图像",
+          "parts": [
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "ual",
+              "key": "al-adj"
+            },
+            {
+              "text": "iz"
+            },
+            {
+              "text": "ation",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "visualize 的名词词形，去结尾 e 后接 -ation；-ize 呈现 -iz-。英式拼写也可用 visualisation。",
+          "mnemonic": "visualize 的动作或结果，变成 visualization。",
+          "example": "The visualization makes the yearly changes easier to compare.",
+          "translation": "这个可视化图像让年度变化更容易比较。",
+          "collocation": "data visualization；a visualization technique",
+          "synonyms": [
+            "visual representation：对应用图像呈现信息的意义。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/visualization"
+        },
+        {
+          "id": "revise",
+          "word": "revise",
+          "pos": "v.",
+          "meaning": "修订；修改；复习（英式用法）",
+          "parts": [
+            {
+              "text": "re",
+              "key": "re-back"
+            },
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "e"
+            }
+          ],
+          "explanation": "历史上 re-（再次）与‘看’有关，发展为重新查看并修改。现代 revise 也可在英式英语中指复习备考。",
+          "mnemonic": "把文稿再看一遍，找出需要修改的地方。",
+          "example": "Please revise the introduction before submitting the essay.",
+          "translation": "提交文章前，请修改引言。",
+          "collocation": "revise a draft；revise for an exam",
+          "synonyms": [
+            "amend：对应修改文本义；review：在复习义中相关。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/revise"
+        },
+        {
+          "id": "revision",
+          "word": "revision",
+          "pos": "n.",
+          "meaning": "修订；修改；复习（英式用法）",
+          "parts": [
+            {
+              "text": "re",
+              "key": "re-back"
+            },
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 revise 的名词词形，去 e 后与 -ion 对应；历史上二者都与‘再看’有关。",
+          "mnemonic": "revise 是再看并改，revision 是修改过程或版本。",
+          "example": "The editor suggested several revisions to the article.",
+          "translation": "编辑对文章提出了几处修改建议。",
+          "collocation": "a revised edition / a revision；exam revision",
+          "synonyms": [
+            "amendment：对应具体修改义；review：对应复习过程义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/revision"
+        },
+        {
+          "id": "supervise",
+          "word": "supervise",
+          "pos": "v.",
+          "meaning": "监督；管理；指导",
+          "parts": [
+            {
+              "text": "super"
+            },
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "e"
+            }
+          ],
+          "explanation": "历史上 super-（在上方）与 videre（看）结合表示‘查看、监管’。现代常指负责并指导别人完成工作。",
+          "mnemonic": "站在上方观察全局，联想监督工作。",
+          "example": "A senior engineer will supervise the project.",
+          "translation": "一位高级工程师将监督这个项目。",
+          "collocation": "supervise a team；supervise a project",
+          "synonyms": [
+            "oversee：对应监督和负责某项工作义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/supervise"
+        },
+        {
+          "id": "supervision",
+          "word": "supervision",
+          "pos": "n.",
+          "meaning": "监督；管理；指导",
+          "parts": [
+            {
+              "text": "super"
+            },
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 supervise 的名词词形，去 e 后与 -ion 对应；历史上保留 vis- 这一‘看’的词干。",
+          "mnemonic": "supervise 是监督，supervision 是监督过程。",
+          "example": "New staff work under close supervision.",
+          "translation": "新员工在严密监督下工作。",
+          "collocation": "under supervision；close supervision",
+          "synonyms": [
+            "oversight：对应监督管理义；该词另有‘疏忽’义，要看语境。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/supervision"
+        },
+        {
+          "id": "television",
+          "word": "television",
+          "pos": "n.",
+          "meaning": "电视；电视机",
+          "parts": [
+            {
+              "text": "tele"
+            },
+            {
+              "text": "vis",
+              "key": "root-vis"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "tele- 表示‘远’，与 vision（看、视觉）结合，联想在远处看见图像。来源可能是英语构词或借自法语，本图只教词形联系。",
+          "mnemonic": "tele 联想远方，vision 联想看到：远处的画面传到家。",
+          "example": "We watched the documentary on television.",
+          "translation": "我们在电视上看了那部纪录片。",
+          "collocation": "watch television；on television",
+          "synonyms": [
+            "TV：television 的常用缩写。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/television"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:vis",
+          "to": "vision",
+          "label": "历史同根：看与所见",
+          "type": "origin"
+        },
+        {
+          "from": "root:vis",
+          "to": "visible",
+          "label": "历史同根：能够被看见",
+          "type": "origin"
+        },
+        {
+          "from": "visible",
+          "to": "invisible",
+          "label": "+ in-（不）",
+          "type": "analysis"
+        },
+        {
+          "from": "visible",
+          "to": "visibility",
+          "label": "-ible → -ibility（名词）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:vis",
+          "to": "visual",
+          "label": "历史同根：与视觉有关",
+          "type": "origin"
+        },
+        {
+          "from": "visual",
+          "to": "visualize",
+          "label": "+ -ize（动词）",
+          "type": "analysis"
+        },
+        {
+          "from": "visualize",
+          "to": "visualization",
+          "label": "去 e + -ation（名词）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:vis",
+          "to": "revise",
+          "label": "历史同根：重新查看",
+          "type": "origin"
+        },
+        {
+          "from": "revise",
+          "to": "revision",
+          "label": "去 e + -ion（词形对应）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:vis",
+          "to": "supervise",
+          "label": "历史同根：从上方查看",
+          "type": "origin"
+        },
+        {
+          "from": "supervise",
+          "to": "supervision",
+          "label": "去 e + -ion（词形对应）",
+          "type": "analysis"
+        },
+        {
+          "from": "vision",
+          "to": "television",
+          "label": "+ tele-（远）",
+          "type": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "mit",
+      "label": "mit / miss",
+      "meaning": "送；放出；让……去",
+      "description": "来自拉丁语 mittere（送、放出、让走）；mit- 与 miss- 是历史词干变体。在 admit/admission、transmit/transmission 等配对中，可学习 mit → miss 的词形对应。",
+      "words": [
+        {
+          "id": "admit",
+          "word": "admit",
+          "pos": "v.",
+          "meaning": "承认；准许进入；接收",
+          "parts": [
+            {
+              "text": "ad"
+            },
+            {
+              "text": "mit",
+              "key": "root-mit"
+            }
+          ],
+          "explanation": "历史上 ad-（向）+ mittere（让去、送），原义与让人进入有关，后来也表示承认。现代 admit doing/that 是常见结构。",
+          "mnemonic": "让人进门，也可以把事实‘接纳进来’。",
+          "example": "He admitted that he had misunderstood the question.",
+          "translation": "他承认自己误解了问题。",
+          "collocation": "admit a mistake；admit doing something",
+          "synonyms": [
+            "acknowledge：对应承认事实义；allow in：对应准许进入义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/admit"
+        },
+        {
+          "id": "admission",
+          "word": "admission",
+          "pos": "n.",
+          "meaning": "承认；准入；入场费",
+          "parts": [
+            {
+              "text": "ad"
+            },
+            {
+              "text": "miss",
+              "key": "root-mit"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 admit 的名词词形；mit- 变为 miss-，再与 -ion 对应。现代含义包括承认、进入许可和入场费。",
+          "mnemonic": "admit 让进入，admission 可以是门票或入学资格。",
+          "example": "Admission to the museum is free on Sundays.",
+          "translation": "博物馆星期日免费入场。",
+          "collocation": "admission to；an admission of guilt",
+          "synonyms": [
+            "entry：对应进入或准入义；confession：对应承认过错义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/admission"
+        },
+        {
+          "id": "permit",
+          "word": "permit",
+          "pos": "v.",
+          "meaning": "允许",
+          "parts": [
+            {
+              "text": "per"
+            },
+            {
+              "text": "mit",
+              "key": "root-mit"
+            }
+          ],
+          "explanation": "历史上 per-（通过）+ mittere（让去）表示放行。本卡学习动词 permit，即允许某人做某事或允许某事发生。",
+          "mnemonic": "给你放行，让你获准做一件事。",
+          "example": "The rules permit students to use the library after class.",
+          "translation": "规定允许学生课后使用图书馆。",
+          "collocation": "permit someone to do；permit the use of",
+          "synonyms": [
+            "allow：对应允许某人做某事。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/permit",
+          "otherSenses": [
+            {
+              "pos": "n.",
+              "meaning": "许可证"
+            }
+          ]
+        },
+        {
+          "id": "permission",
+          "word": "permission",
+          "pos": "n.",
+          "meaning": "许可；允许",
+          "parts": [
+            {
+              "text": "per"
+            },
+            {
+              "text": "miss",
+              "key": "root-mit"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 permit 的名词词形；mit- → miss- + -ion。permission 通常是不可数名词，具体的许可证用 a permit。",
+          "mnemonic": "permit 可以是一张证，permission 是获得允许。",
+          "example": "You need permission to enter the laboratory.",
+          "translation": "你需要获得许可才能进入实验室。",
+          "collocation": "ask for permission；give permission",
+          "synonyms": [
+            "consent：对应同意义；authorization：对应正式授权义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/permission"
+        },
+        {
+          "id": "submit",
+          "word": "submit",
+          "pos": "v.",
+          "meaning": "提交；服从",
+          "parts": [
+            {
+              "text": "sub"
+            },
+            {
+              "text": "mit",
+              "key": "root-mit"
+            }
+          ],
+          "explanation": "历史上 sub-（在下面）+ mittere（送、放），与置于某种权威之下有关。现代提交资料常用 submit something to。",
+          "mnemonic": "把作业送到审核者手中，联想提交。",
+          "example": "Please submit your application by Friday.",
+          "translation": "请在星期五前提交申请。",
+          "collocation": "submit an application；submit to authority",
+          "synonyms": [
+            "hand in：对应提交文件义；yield：对应屈服或服从义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/submit"
+        },
+        {
+          "id": "submission",
+          "word": "submission",
+          "pos": "n.",
+          "meaning": "提交；提交的材料；服从",
+          "parts": [
+            {
+              "text": "sub"
+            },
+            {
+              "text": "miss",
+              "key": "root-mit"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 submit 的名词词形，mit- → miss- + -ion；可指提交行为，也可指提交的一份材料。",
+          "mnemonic": "submit 做提交，submission 是提交行为或交上去的作品。",
+          "example": "The deadline for submission is noon on Monday.",
+          "translation": "提交截止时间是星期一中午。",
+          "collocation": "a submission deadline；a written submission",
+          "synonyms": [
+            "entry：在竞赛投稿义中近义；compliance：在服从义中近义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/submission"
+        },
+        {
+          "id": "transmit",
+          "word": "transmit",
+          "pos": "v.",
+          "meaning": "传送；传播；发射",
+          "parts": [
+            {
+              "text": "trans",
+              "key": "trans-across"
+            },
+            {
+              "text": "mit",
+              "key": "root-mit"
+            }
+          ],
+          "explanation": "历史上 trans-（跨过）+ mittere（送），表示送到另一处。现代用于信号、信息或疾病的传递。",
+          "mnemonic": "跨过距离，把信号送到另一端。",
+          "example": "The sensor transmits data to a nearby computer.",
+          "translation": "传感器把数据传送到附近的电脑。",
+          "collocation": "transmit data；transmit a signal",
+          "synonyms": [
+            "send：对应传送义，语义更一般；spread：对应传播疾病义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/transmit"
+        },
+        {
+          "id": "transmission",
+          "word": "transmission",
+          "pos": "n.",
+          "meaning": "传送；传播；传动装置",
+          "parts": [
+            {
+              "text": "trans",
+              "key": "trans-across"
+            },
+            {
+              "text": "miss",
+              "key": "root-mit"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 transmit 的名词词形，mit- → miss- + -ion；汽车中的 transmission 指传动系统或变速器，不只表示信息传送。",
+          "mnemonic": "transmit 送信号，transmission 是传送过程。",
+          "example": "The storm interrupted the transmission of the signal.",
+          "translation": "暴风雨中断了信号的传输。",
+          "collocation": "data transmission；signal transmission",
+          "synonyms": [
+            "transfer：对应传递或传输义；gearbox：在汽车装置义中相关。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/transmission"
+        },
+        {
+          "id": "retransmission",
+          "word": "retransmission",
+          "pos": "n.",
+          "meaning": "重传；转播；再次传送",
+          "parts": [
+            {
+              "text": "re",
+              "key": "re-back"
+            },
+            {
+              "text": "trans",
+              "key": "trans-across"
+            },
+            {
+              "text": "miss",
+              "key": "root-mit"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "re-（再次）+ transmission。常用于网络通信；在广播语境中也可指把接收到的内容转播出去。",
+          "mnemonic": "一次没收到，就进行第二次 transmission。",
+          "example": "The system requests retransmission when a data packet is lost.",
+          "translation": "数据包丢失时，系统会请求重传。",
+          "collocation": "request retransmission；packet retransmission",
+          "synonyms": [
+            "resending：对应再次发送义；rebroadcast：对应节目转播或重播义。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/retransmission"
+        },
+        {
+          "id": "commit",
+          "word": "commit",
+          "pos": "v.",
+          "meaning": "犯（错误或罪）；承诺；投入",
+          "parts": [
+            {
+              "text": "com"
+            },
+            {
+              "text": "mit",
+              "key": "root-mit"
+            }
+          ],
+          "explanation": "历史上 com- 与 mittere 结合表示交付、托付等。现代 commit 的常用意义不能由‘送’直接推出，要分别学习 commit a crime 和 commit to。",
+          "mnemonic": "把责任交出去，联想作出承诺；固定搭配另记。",
+          "example": "The organization committed to reducing waste.",
+          "translation": "这个组织承诺减少废物。",
+          "collocation": "commit a crime；commit to doing something",
+          "synonyms": [
+            "pledge：对应郑重承诺义；perpetrate：对应犯下罪行义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/commit"
+        },
+        {
+          "id": "commitment",
+          "word": "commitment",
+          "pos": "n.",
+          "meaning": "承诺；投入；责任",
+          "parts": [
+            {
+              "text": "com"
+            },
+            {
+              "text": "mit",
+              "key": "root-mit"
+            },
+            {
+              "text": "ment",
+              "key": "ment-noun"
+            }
+          ],
+          "explanation": "commit + -ment，名词可表示承诺、投入程度或需要履行的责任。",
+          "mnemonic": "commit 作出承诺，commitment 是要坚持履行的事。",
+          "example": "Her commitment to the project encouraged the whole team.",
+          "translation": "她对项目的投入鼓舞了整个团队。",
+          "collocation": "a commitment to；make a commitment",
+          "synonyms": [
+            "dedication：对应投入和奉献义；promise：对应承诺义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/commitment"
+        },
+        {
+          "id": "emit",
+          "word": "emit",
+          "pos": "v.",
+          "meaning": "排放；发出（光、热、声音等）",
+          "parts": [
+            {
+              "text": "e",
+              "key": "ex-out"
+            },
+            {
+              "text": "mit",
+              "key": "root-mit"
+            }
+          ],
+          "explanation": "历史上 ex-（向外）在本词中呈现 e-，与 mittere（送、放）结合表示向外放出。不能把 e- 当作所有以 e 开头单词的前缀。",
+          "mnemonic": "把能量或气体向外送出去。",
+          "example": "The lamp emits a soft blue light.",
+          "translation": "这盏灯发出柔和的蓝光。",
+          "collocation": "emit light；emit carbon dioxide",
+          "synonyms": [
+            "give off：对应释放光、热、气体等义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/emit"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:mit",
+          "to": "admit",
+          "label": "历史同根：准许进入",
+          "type": "origin"
+        },
+        {
+          "from": "admit",
+          "to": "admission",
+          "label": "mit → miss + -ion",
+          "type": "analysis"
+        },
+        {
+          "from": "root:mit",
+          "to": "permit",
+          "label": "历史同根：放行",
+          "type": "origin"
+        },
+        {
+          "from": "permit",
+          "to": "permission",
+          "label": "mit → miss + -ion",
+          "type": "analysis"
+        },
+        {
+          "from": "root:mit",
+          "to": "submit",
+          "label": "历史同根：交付、服从",
+          "type": "origin"
+        },
+        {
+          "from": "submit",
+          "to": "submission",
+          "label": "mit → miss + -ion",
+          "type": "analysis"
+        },
+        {
+          "from": "root:mit",
+          "to": "transmit",
+          "label": "历史同根：送到另一端",
+          "type": "origin"
+        },
+        {
+          "from": "transmit",
+          "to": "transmission",
+          "label": "mit → miss + -ion",
+          "type": "analysis"
+        },
+        {
+          "from": "transmission",
+          "to": "retransmission",
+          "label": "+ re-（再次）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:mit",
+          "to": "commit",
+          "label": "历史同根：交付、托付",
+          "type": "origin"
+        },
+        {
+          "from": "commit",
+          "to": "commitment",
+          "label": "+ -ment（名词）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:mit",
+          "to": "emit",
+          "label": "历史同根：e- 为 ex- 形式",
+          "type": "origin"
+        }
+      ]
+    },
+    {
+      "id": "duc",
+      "label": "duc / duct",
+      "meaning": "引；带领；带来",
+      "description": "来自拉丁语 ducere（带领、带来）。duc- 与其历史词干 duct- 相关。在 produce/production、reduce/reduction 等配对中，可以学习 -duce 与 -duct- 的词形对应。",
+      "words": [
+        {
+          "id": "produce",
+          "word": "produce",
+          "pos": "v.",
+          "meaning": "生产",
+          "parts": [
+            {
+              "text": "pro"
+            },
+            {
+              "text": "duc",
+              "key": "root-duc"
+            },
+            {
+              "text": "e"
+            }
+          ],
+          "explanation": "历史上 pro-（向前）+ ducere（带来），后来表示产生或生产。本卡学习动词 produce，即制造或生产产品。",
+          "mnemonic": "把东西带出来，联想生产出产品。",
+          "example": "The factory produces parts for electric vehicles.",
+          "translation": "这家工厂生产电动汽车零件。",
+          "collocation": "produce goods；produce car parts",
+          "synonyms": [
+            "manufacture：对应工业制造或生产产品。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/produce",
+          "otherSenses": [
+            {
+              "pos": "v.",
+              "meaning": "产生"
+            },
+            {
+              "pos": "n.",
+              "meaning": "农产品"
+            }
+          ]
+        },
+        {
+          "id": "product",
+          "word": "product",
+          "pos": "n.",
+          "meaning": "产品；产物；乘积",
+          "parts": [
+            {
+              "text": "pro"
+            },
+            {
+              "text": "duct",
+              "key": "root-duc"
+            }
+          ],
+          "explanation": "与 produce 同源，duct- 来自拉丁语相关过去分词词干。product 与 produce 的连线表示历史词干关系，不说 product 是把现代 produce 的字母直接改出来。",
+          "mnemonic": "produce 生产，product 是带来的产物。",
+          "example": "The company tested the product before launch.",
+          "translation": "公司在上市前测试了产品。",
+          "collocation": "a new product；a product of",
+          "synonyms": [
+            "item：在销售商品义中近义；result：在产物义中近义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/product"
+        },
+        {
+          "id": "production",
+          "word": "production",
+          "pos": "n.",
+          "meaning": "生产；制作；产量",
+          "parts": [
+            {
+              "text": "pro"
+            },
+            {
+              "text": "duct",
+              "key": "root-duc"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 produce 的名词词形，-duce → -duct- + -ion；现代既指制造过程，也可指影视制作或产量。",
+          "mnemonic": "produce 是生产动作，production 是生产过程或规模。",
+          "example": "The new equipment increased daily production.",
+          "translation": "新设备提高了日产量。",
+          "collocation": "mass production；film production",
+          "synonyms": [
+            "manufacturing：对应工业生产过程义；output：对应产量义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/production"
+        },
+        {
+          "id": "producer",
+          "word": "producer",
+          "pos": "n.",
+          "meaning": "生产者；制作人",
+          "parts": [
+            {
+              "text": "pro"
+            },
+            {
+              "text": "duc",
+              "key": "root-duc"
+            },
+            {
+              "text": "er",
+              "key": "er-agent"
+            }
+          ],
+          "explanation": "produce 去词尾 e 后加 -er，表示生产或制作的人、机构。-er 的加入使 -duc- 与动词尾 e 的位置发生变化。",
+          "mnemonic": "produce 的人，是 producer。",
+          "example": "The producer brought the documentary team together.",
+          "translation": "制作人召集了纪录片团队。",
+          "collocation": "a film producer；a major producer",
+          "synonyms": [
+            "manufacturer：对应制造商义；制作人的具体职责依行业而异。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/producer"
+        },
+        {
+          "id": "productive",
+          "word": "productive",
+          "pos": "adj.",
+          "meaning": "多产的；富有成效的",
+          "parts": [
+            {
+              "text": "pro"
+            },
+            {
+              "text": "duct",
+              "key": "root-duc"
+            },
+            {
+              "text": "ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "product- 与 -ive 对应形成形容词，表示能产生较多成果或有效结果；不是简单地‘与产品有关’。",
+          "mnemonic": "能不断产生成果的一天，是 productive day。",
+          "example": "We had a productive discussion about the schedule.",
+          "translation": "我们就日程安排进行了富有成效的讨论。",
+          "collocation": "a productive meeting；productive work",
+          "synonyms": [
+            "fruitful：对应带来有用成果义；efficient：更侧重节省时间和资源。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/productive"
+        },
+        {
+          "id": "reduce",
+          "word": "reduce",
+          "pos": "v.",
+          "meaning": "减少；降低",
+          "parts": [
+            {
+              "text": "re",
+              "key": "re-back"
+            },
+            {
+              "text": "duc",
+              "key": "root-duc"
+            },
+            {
+              "text": "e"
+            }
+          ],
+          "explanation": "历史上 re-（回来）+ ducere（带领）表示带回，后发展为减少、降低。现代词义要直接学习，不能把它理解成一般的‘再次带领’。",
+          "mnemonic": "把一个数值‘带回’到更低水平，帮助记住减少。",
+          "example": "We can reduce costs by sharing the equipment.",
+          "translation": "我们可以通过共用设备降低成本。",
+          "collocation": "reduce costs；reduce something by/to",
+          "synonyms": [
+            "decrease：对应减少数量或程度义；lower：对应降低数值义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/reduce"
+        },
+        {
+          "id": "reduction",
+          "word": "reduction",
+          "pos": "n.",
+          "meaning": "减少；降低；缩减量",
+          "parts": [
+            {
+              "text": "re",
+              "key": "re-back"
+            },
+            {
+              "text": "duct",
+              "key": "root-duc"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 reduce 的名词词形，-duce → -duct- + -ion；数值中的 reduction 可指减少的幅度。",
+          "mnemonic": "reduce 做减少，reduction 是减少过程或减少量。",
+          "example": "The plan achieved a reduction in energy use.",
+          "translation": "这个计划实现了能源使用量的下降。",
+          "collocation": "a reduction in；a price reduction",
+          "synonyms": [
+            "decrease：对应数量下降义；cut：对应削减义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/reduction"
+        },
+        {
+          "id": "introduce",
+          "word": "introduce",
+          "pos": "v.",
+          "meaning": "介绍；引入；推出",
+          "parts": [
+            {
+              "text": "intro"
+            },
+            {
+              "text": "duc",
+              "key": "root-duc"
+            },
+            {
+              "text": "e"
+            }
+          ],
+          "explanation": "历史上 intro-（向内）+ ducere（带领），表示带入；现代可引入人物、话题、制度或产品。intro- 不是否定 in-。",
+          "mnemonic": "把新人带进谈话，把新话题带进讨论。",
+          "example": "Let me introduce our new colleague.",
+          "translation": "让我介绍一下我们的新同事。",
+          "collocation": "introduce someone to；introduce a policy",
+          "synonyms": [
+            "present：对应把人或事物介绍给别人义；bring in：对应引入义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/introduce"
+        },
+        {
+          "id": "introduction",
+          "word": "introduction",
+          "pos": "n.",
+          "meaning": "介绍；引入；引言",
+          "parts": [
+            {
+              "text": "intro"
+            },
+            {
+              "text": "duct",
+              "key": "root-duc"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 introduce 的名词词形，-duce → -duct- + -ion。文章的 introduction 把读者带入主题，译为引言。",
+          "mnemonic": "introduction 把读者带进正文。",
+          "example": "The introduction explains the purpose of the study.",
+          "translation": "引言说明了这项研究的目的。",
+          "collocation": "an introduction to；write an introduction",
+          "synonyms": [
+            "opening：对应文章开头部分义；preface：通常指作者序言，并非完全相同。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/introduction"
+        },
+        {
+          "id": "conduct",
+          "word": "conduct",
+          "pos": "v.",
+          "meaning": "开展调查",
+          "parts": [
+            {
+              "text": "con"
+            },
+            {
+              "text": "duct",
+              "key": "root-duc"
+            }
+          ],
+          "explanation": "历史上 con-（一起）+ ducere（带领），保留 duct- 词干。本卡学习 conduct a survey 中的动词义，即组织并开展一项调查。",
+          "mnemonic": "带领一项调查按计划进行，联想开展调查。",
+          "example": "The researchers conducted a survey of local residents.",
+          "translation": "研究人员对当地居民开展了调查。",
+          "collocation": "conduct a survey；conduct research",
+          "synonyms": [
+            "carry out：对应组织并实施调查或研究。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/conduct",
+          "otherSenses": [
+            {
+              "pos": "v.",
+              "meaning": "指挥"
+            },
+            {
+              "pos": "v.",
+              "meaning": "传导"
+            },
+            {
+              "pos": "n.",
+              "meaning": "行为"
+            }
+          ]
+        },
+        {
+          "id": "conductor",
+          "word": "conductor",
+          "pos": "n.",
+          "meaning": "导体",
+          "parts": [
+            {
+              "text": "con"
+            },
+            {
+              "text": "duct",
+              "key": "root-duc"
+            },
+            {
+              "text": "or",
+              "key": "or-agent"
+            }
+          ],
+          "explanation": "与 conduct 配对，-or 可表示发挥某作用的物。本卡学习能传导热或电的材料这一名词义。",
+          "mnemonic": "让电流通过的材料，是 conductor。",
+          "example": "Copper is a good conductor of electricity.",
+          "translation": "铜是良好的电导体。",
+          "collocation": "a good conductor；a conductor of electricity",
+          "synonyms": [
+            "conducting material：对应能传导电或热的材料。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/conductor",
+          "otherSenses": [
+            {
+              "pos": "n.",
+              "meaning": "音乐指挥"
+            },
+            {
+              "pos": "n.",
+              "meaning": "售票员"
+            }
+          ]
+        },
+        {
+          "id": "reproduce",
+          "word": "reproduce",
+          "pos": "v.",
+          "meaning": "复制；再现；繁殖",
+          "parts": [
+            {
+              "text": "re",
+              "key": "re-back"
+            },
+            {
+              "text": "pro"
+            },
+            {
+              "text": "duc",
+              "key": "root-duc"
+            },
+            {
+              "text": "e"
+            }
+          ],
+          "explanation": "re-（再次）+ produce；现代可表示复制内容、再次得到结果或生物繁殖。",
+          "mnemonic": "再 produce 一次，联想复制或繁殖。",
+          "example": "Another laboratory reproduced the results of the experiment.",
+          "translation": "另一家实验室重复得到了这项实验的结果。",
+          "collocation": "reproduce results；reproduce an image",
+          "synonyms": [
+            "replicate：对应重复得到结果或复制义；breed：对应繁殖义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/reproduce"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:duc",
+          "to": "produce",
+          "label": "历史同根：带来、产生",
+          "type": "origin"
+        },
+        {
+          "from": "produce",
+          "to": "product",
+          "label": "历史词干：duc- / duct-",
+          "type": "origin"
+        },
+        {
+          "from": "produce",
+          "to": "production",
+          "label": "-duce → -duct- + -ion",
+          "type": "analysis"
+        },
+        {
+          "from": "produce",
+          "to": "producer",
+          "label": "去 e + -er（人或机构）",
+          "type": "analysis"
+        },
+        {
+          "from": "product",
+          "to": "productive",
+          "label": "+ -ive（形容词词形）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:duc",
+          "to": "reduce",
+          "label": "历史同根：带回、降低",
+          "type": "origin"
+        },
+        {
+          "from": "reduce",
+          "to": "reduction",
+          "label": "-duce → -duct- + -ion",
+          "type": "analysis"
+        },
+        {
+          "from": "root:duc",
+          "to": "introduce",
+          "label": "历史同根：向内带入",
+          "type": "origin"
+        },
+        {
+          "from": "introduce",
+          "to": "introduction",
+          "label": "-duce → -duct- + -ion",
+          "type": "analysis"
+        },
+        {
+          "from": "root:duc",
+          "to": "conduct",
+          "label": "历史同根：带领、传导",
+          "type": "origin"
+        },
+        {
+          "from": "root:duc",
+          "to": "conductor",
+          "label": "历史同根：传导者、导体",
+          "type": "origin"
+        },
+        {
+          "from": "produce",
+          "to": "reproduce",
+          "label": "+ re-（再次）",
+          "type": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "press",
+      "label": "press",
+      "meaning": "压；按；挤",
+      "description": "来自拉丁语 premere（压），press- 与其历史过去分词词干有关。以‘压’联想挤压、印象、表达和情绪低落；本组 impress 的 im- 表示进入，不是否定。",
+      "words": [
+        {
+          "id": "press",
+          "word": "press",
+          "pos": "v.",
+          "meaning": "按下",
+          "parts": [
+            {
+              "text": "press",
+              "key": "root-press"
+            }
+          ],
+          "explanation": "本卡学习表示按、压的动词 press，用于按下按钮等动作。它与拉丁语表示压的词族相关；历史上的‘强征入伍’一义另有来源。",
+          "mnemonic": "手指向下按一个按钮。",
+          "example": "Press the green button to start the machine.",
+          "translation": "按绿色按钮启动机器。",
+          "collocation": "press a button；press a key",
+          "synonyms": [
+            "push：在推动按钮使其动作时近义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/press",
+          "otherSenses": [
+            {
+              "pos": "v.",
+              "meaning": "压"
+            },
+            {
+              "pos": "v.",
+              "meaning": "催促"
+            },
+            {
+              "pos": "n.",
+              "meaning": "新闻界"
+            }
+          ]
+        },
+        {
+          "id": "pressure",
+          "word": "pressure",
+          "pos": "n.",
+          "meaning": "心理压力",
+          "parts": [
+            {
+              "text": "press",
+              "key": "root-press"
+            },
+            {
+              "text": "ure"
+            }
+          ],
+          "explanation": "与 press 有历史同根关系，来自表示‘压的作用’的拉丁语形式。本卡学习任务或处境带来的心理压力。-ure 是本词保留的词尾，不是可以自由添加的规则。",
+          "mnemonic": "事情像在心里压着一块石头，联想心理压力。",
+          "example": "She stayed calm under pressure.",
+          "translation": "她在压力下保持冷静。",
+          "collocation": "under pressure；put pressure on",
+          "synonyms": [
+            "stress：对应心理或工作压力。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/pressure",
+          "otherSenses": [
+            {
+              "pos": "n.",
+              "meaning": "压力（物理意义）"
+            },
+            {
+              "pos": "v.",
+              "meaning": "向……施压"
+            }
+          ]
+        },
+        {
+          "id": "impress",
+          "word": "impress",
+          "pos": "v.",
+          "meaning": "给……留下深刻印象",
+          "parts": [
+            {
+              "text": "im",
+              "key": "in-inside"
+            },
+            {
+              "text": "press",
+              "key": "root-press"
+            }
+          ],
+          "explanation": "历史上 im- 是 in-（进入）的同化形式，表示把痕迹压进某处，后来比喻影响人的心。这里的 im- 不表示‘不’。",
+          "mnemonic": "把一个好表现‘压进’别人的记忆中。",
+          "example": "Her careful preparation impressed the interviewers.",
+          "translation": "她的认真准备给面试官留下了深刻印象。",
+          "collocation": "impress someone with；be impressed by",
+          "synonyms": [
+            "make an impression on：对应使人形成深刻印象义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/impress"
+        },
+        {
+          "id": "impression",
+          "word": "impression",
+          "pos": "n.",
+          "meaning": "印象；印记",
+          "parts": [
+            {
+              "text": "im",
+              "key": "in-inside"
+            },
+            {
+              "text": "press",
+              "key": "root-press"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 impress 配对，-ion 表示相关结果或过程。历史上既指压出的印记，也指心中形成的印象。",
+          "mnemonic": "impress 留下影响，impression 是脑中的印象。",
+          "example": "The bright entrance gave visitors a good first impression.",
+          "translation": "明亮的入口给访客留下了良好的第一印象。",
+          "collocation": "a first impression；make an impression",
+          "synonyms": [
+            "perception：对应对人或事形成的看法，通常范围更广。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/impression"
+        },
+        {
+          "id": "impressive",
+          "word": "impressive",
+          "pos": "adj.",
+          "meaning": "令人印象深刻的；令人赞叹的",
+          "parts": [
+            {
+              "text": "im",
+              "key": "in-inside"
+            },
+            {
+              "text": "press",
+              "key": "root-press"
+            },
+            {
+              "text": "ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "impress + -ive，在现代词形上表示能使人留下深刻印象的；im- 仍与进入有关，不是否定。",
+          "mnemonic": "能 impress 别人的成就，就是 impressive。",
+          "example": "The students presented an impressive final project.",
+          "translation": "学生们展示了一个令人赞叹的最终项目。",
+          "collocation": "an impressive achievement；impressive results",
+          "synonyms": [
+            "remarkable：对应值得注意或赞叹义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/impressive"
+        },
+        {
+          "id": "impressively",
+          "word": "impressively",
+          "pos": "adv.",
+          "meaning": "令人赞叹地；出色地",
+          "parts": [
+            {
+              "text": "im",
+              "key": "in-inside"
+            },
+            {
+              "text": "press",
+              "key": "root-press"
+            },
+            {
+              "text": "ive",
+              "key": "ive-adj"
+            },
+            {
+              "text": "ly",
+              "key": "ly-adverb"
+            }
+          ],
+          "explanation": "impressive + -ly，副词用来说明表现或程度；与 impressive 的形容词用法对照学习。",
+          "mnemonic": "impressive 形容表现，impressively 描述做得如何。",
+          "example": "The young speaker handled the questions impressively.",
+          "translation": "这位年轻演讲者出色地应对了提问。",
+          "collocation": "perform impressively；impressively clear",
+          "synonyms": [
+            "remarkably：对应表现出众或值得注意的方式。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/impressive"
+        },
+        {
+          "id": "express",
+          "word": "express",
+          "pos": "v.",
+          "meaning": "表达",
+          "parts": [
+            {
+              "text": "ex",
+              "key": "ex-out"
+            },
+            {
+              "text": "press",
+              "key": "root-press"
+            }
+          ],
+          "explanation": "表达义历史上与‘压出、显现’有关，ex- 表示向外。本卡学习动词 express，即把观点、感受或谢意表达出来。",
+          "mnemonic": "把心里的想法向外表达出来。",
+          "example": "The letter expressed gratitude to all the volunteers.",
+          "translation": "这封信向所有志愿者表达了感谢。",
+          "collocation": "express an opinion；express gratitude",
+          "synonyms": [
+            "convey：对应传达信息、观点或感受。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/express",
+          "otherSenses": [
+            {
+              "pos": "adj.",
+              "meaning": "明确的"
+            },
+            {
+              "pos": "adj.",
+              "meaning": "快速的"
+            }
+          ]
+        },
+        {
+          "id": "expression",
+          "word": "expression",
+          "pos": "n.",
+          "meaning": "表达；表情；措辞",
+          "parts": [
+            {
+              "text": "ex",
+              "key": "ex-out"
+            },
+            {
+              "text": "press",
+              "key": "root-press"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 express 配对，-ion 表示表达行为或表达形式；脸上的 expression 是表情。",
+          "mnemonic": "express 说出来，expression 也可以写在脸上。",
+          "example": "Her expression changed when she heard the news.",
+          "translation": "她听到消息时，表情发生了变化。",
+          "collocation": "facial expression；freedom of expression",
+          "synonyms": [
+            "look：对应脸上表情义；phrase：对应语言中的表达措辞义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/expression"
+        },
+        {
+          "id": "depress",
+          "word": "depress",
+          "pos": "v.",
+          "meaning": "使沮丧；降低；按下",
+          "parts": [
+            {
+              "text": "de"
+            },
+            {
+              "text": "press",
+              "key": "root-press"
+            }
+          ],
+          "explanation": "历史上 de-（向下）+ 与压有关的词干，表示压低；现代可用于情绪、经济水平或按钮。de- 不属于这里已登记的否定前缀。",
+          "mnemonic": "把情绪或数值往下压，联想 depress。",
+          "example": "The gloomy weather depressed everyone's spirits.",
+          "translation": "阴沉的天气使大家情绪低落。",
+          "collocation": "depress someone's spirits；depress prices",
+          "synonyms": [
+            "discourage：对应使情绪低落义；lower：对应压低数值义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/depress"
+        },
+        {
+          "id": "depression",
+          "word": "depression",
+          "pos": "n.",
+          "meaning": "沮丧；抑郁症；经济萧条",
+          "parts": [
+            {
+              "text": "de"
+            },
+            {
+              "text": "press",
+              "key": "root-press"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "对应 depress 的名词词形，可表示低落的状态；临床疾病义和经济萧条义必须结合上下文，不能把日常沮丧都等同于疾病。",
+          "mnemonic": "depress 是压低，depression 可以是经济陷入低谷。",
+          "example": "The country experienced a long economic depression.",
+          "translation": "这个国家经历了长期的经济萧条。",
+          "collocation": "economic depression；a period of depression",
+          "synonyms": [
+            "slump：对应严重经济低迷义；sadness：只对应日常悲伤，不能替代疾病名称。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/depression"
+        },
+        {
+          "id": "compress",
+          "word": "compress",
+          "pos": "v.",
+          "meaning": "压缩；压紧",
+          "parts": [
+            {
+              "text": "com"
+            },
+            {
+              "text": "press",
+              "key": "root-press"
+            }
+          ],
+          "explanation": "历史上 com-（一起）+ 与压有关的词干，表示把东西压在一起；现代也可表示压缩文件或精简内容。",
+          "mnemonic": "把分散的东西压到一起，占用空间更小。",
+          "example": "Compress the images before sending the file.",
+          "translation": "发送文件前先压缩图片。",
+          "collocation": "compress a file；compress air",
+          "synonyms": [
+            "squeeze：对应物理挤压义；condense：对应精简内容义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/compress"
+        },
+        {
+          "id": "compression",
+          "word": "compression",
+          "pos": "n.",
+          "meaning": "压缩；压紧",
+          "parts": [
+            {
+              "text": "com"
+            },
+            {
+              "text": "press",
+              "key": "root-press"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 compress 配对，-ion 表示压缩过程或状态；数字文件中的 compression 指数据压缩。",
+          "mnemonic": "compress 做压缩，compression 是压缩过程。",
+          "example": "Image compression reduced the size of the attachment.",
+          "translation": "图像压缩减小了附件大小。",
+          "collocation": "data compression；compression ratio",
+          "synonyms": [
+            "compaction：对应把材料压密的意义，不泛指文件压缩。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/compression"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:press",
+          "to": "press",
+          "label": "历史同根：按压",
+          "type": "origin"
+        },
+        {
+          "from": "press",
+          "to": "pressure",
+          "label": "历史同根：压的作用",
+          "type": "origin"
+        },
+        {
+          "from": "root:press",
+          "to": "impress",
+          "label": "历史同根：im- 表示进入",
+          "type": "origin"
+        },
+        {
+          "from": "impress",
+          "to": "impression",
+          "label": "+ -ion（名词词形）",
+          "type": "analysis"
+        },
+        {
+          "from": "impress",
+          "to": "impressive",
+          "label": "+ -ive（形容词）",
+          "type": "analysis"
+        },
+        {
+          "from": "impressive",
+          "to": "impressively",
+          "label": "+ -ly（副词）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:press",
+          "to": "express",
+          "label": "历史同根：ex- 表示向外",
+          "type": "origin"
+        },
+        {
+          "from": "express",
+          "to": "expression",
+          "label": "+ -ion（名词词形）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:press",
+          "to": "depress",
+          "label": "历史同根：向下压",
+          "type": "origin"
+        },
+        {
+          "from": "depress",
+          "to": "depression",
+          "label": "+ -ion（名词词形）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:press",
+          "to": "compress",
+          "label": "历史同根：压到一起",
+          "type": "origin"
+        },
+        {
+          "from": "compress",
+          "to": "compression",
+          "label": "+ -ion（名词词形）",
+          "type": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "rupt",
+      "label": "rupt",
+      "meaning": "破；断；裂",
+      "description": "来自拉丁语 rumpere（打破）的历史词干 rupt-。把‘断裂’与打断、爆发、破坏联系起来。bankrupt 经意大利语传入；图谱不把它当作英语词 bank 的普通后缀派生。",
+      "words": [
+        {
+          "id": "interrupt",
+          "word": "interrupt",
+          "pos": "v.",
+          "meaning": "打断；中断",
+          "parts": [
+            {
+              "text": "inter",
+              "key": "inter-between"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            }
+          ],
+          "explanation": "历史上 inter-（在中间）+ 与破裂有关的词干，表示把过程打断；现代可打断人说话，也可中断活动。",
+          "mnemonic": "在一句话中间插入声音，把它截断。",
+          "example": "Please do not interrupt while she is speaking.",
+          "translation": "她说话时，请不要打断。",
+          "collocation": "interrupt someone；interrupt a conversation",
+          "synonyms": [
+            "break in：对应插话义；stop：对应使过程暂时停止义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/interrupt"
+        },
+        {
+          "id": "interruption",
+          "word": "interruption",
+          "pos": "n.",
+          "meaning": "打断；中断；干扰",
+          "parts": [
+            {
+              "text": "inter",
+              "key": "inter-between"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 interrupt 配对，-ion 表示打断或中断行为，也可指一次中断事件。",
+          "mnemonic": "interrupt 做打断，interruption 是打断发生的那一下。",
+          "example": "We finished the recording without interruption.",
+          "translation": "我们没有受到打断，完成了录音。",
+          "collocation": "without interruption；a brief interruption",
+          "synonyms": [
+            "break：对应过程中的短暂停顿义；disruption：往往强调秩序受扰。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/interruption"
+        },
+        {
+          "id": "disrupt",
+          "word": "disrupt",
+          "pos": "v.",
+          "meaning": "扰乱；打乱；中断",
+          "parts": [
+            {
+              "text": "dis",
+              "key": "dis-apart"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            }
+          ],
+          "explanation": "历史上 dis-（分开）+ 与破裂有关的词干表示分裂；现代通常指打乱正常活动或运行秩序。",
+          "mnemonic": "把原本连贯的安排拆散，秩序就被打乱。",
+          "example": "The road closure disrupted bus services.",
+          "translation": "道路封闭打乱了公交服务。",
+          "collocation": "disrupt services；disrupt a meeting",
+          "synonyms": [
+            "disturb：对应扰乱正常状态义；interrupt：更侧重中途停止。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/disrupt"
+        },
+        {
+          "id": "disruption",
+          "word": "disruption",
+          "pos": "n.",
+          "meaning": "扰乱；中断；混乱",
+          "parts": [
+            {
+              "text": "dis",
+              "key": "dis-apart"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 disrupt 共用 disrupt- 词干，-ion 为名词词尾。历史上 disruption 可能早于动词，因此这里只作现代词形配对。",
+          "mnemonic": "disrupt 的结果，是运行中的 disruption。",
+          "example": "The team kept disruption to a minimum during the move.",
+          "translation": "搬迁期间，团队把干扰降到了最低。",
+          "collocation": "cause disruption；minimize disruption",
+          "synonyms": [
+            "disturbance：对应秩序或活动受到扰乱义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/disruption"
+        },
+        {
+          "id": "disruptive",
+          "word": "disruptive",
+          "pos": "adj.",
+          "meaning": "扰乱秩序的；造成中断的",
+          "parts": [
+            {
+              "text": "dis",
+              "key": "dis-apart"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            },
+            {
+              "text": "ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "与 disrupt/disruption 共用词干，-ive 表示性质。学习时可对照 -ion 名词与 -ive 形容词，不表示该形容词历史上由名词产生。",
+          "mnemonic": "能 disrupt 正常活动的行为，就是 disruptive。",
+          "example": "Disruptive noise made the discussion difficult.",
+          "translation": "扰乱性的噪声使讨论难以进行。",
+          "collocation": "disruptive behavior；a disruptive effect",
+          "synonyms": [
+            "disturbing：在造成干扰时近义，也常指令人不安。"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/disruptive"
+        },
+        {
+          "id": "erupt",
+          "word": "erupt",
+          "pos": "v.",
+          "meaning": "喷发；突然爆发",
+          "parts": [
+            {
+              "text": "e",
+              "key": "ex-out"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            }
+          ],
+          "explanation": "历史上 ex-（向外）在本词中呈现 e-，与表示破裂的词干结合为向外爆发；常用于火山或突然爆发的冲突。",
+          "mnemonic": "从内部破开并喷到外面。",
+          "example": "The volcano erupted after several quiet years.",
+          "translation": "这座火山平静数年后喷发了。",
+          "collocation": "a volcano erupts；violence erupts",
+          "synonyms": [
+            "burst out：对应突然爆发义；火山喷发通常直接用 erupt。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/erupt"
+        },
+        {
+          "id": "eruption",
+          "word": "eruption",
+          "pos": "n.",
+          "meaning": "喷发；爆发",
+          "parts": [
+            {
+              "text": "e",
+              "key": "ex-out"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 erupt 配对，-ion 表示喷发或爆发事件；e- 保留 ex-（向外）的历史关系。",
+          "mnemonic": "erupt 爆发，eruption 是那次喷发事件。",
+          "example": "The eruption sent ash high into the air.",
+          "translation": "这次喷发把火山灰送到了高空。",
+          "collocation": "a volcanic eruption；an eruption of violence",
+          "synonyms": [
+            "outburst：对应情绪或冲突的突然爆发义，不专指火山喷发。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/eruption"
+        },
+        {
+          "id": "corrupt",
+          "word": "corrupt",
+          "pos": "adj.",
+          "meaning": "腐败的",
+          "parts": [
+            {
+              "text": "cor"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            }
+          ],
+          "explanation": "历史上 cor- 是 com- 的同化形式，在此可能表示加强；与打破、损坏有关。本卡学习形容词 corrupt，指利用权力谋取不正当利益等腐败行为。",
+          "mnemonic": "把原来完整、正直的东西破坏掉，联想腐化。",
+          "example": "A corrupt official accepted money for favors.",
+          "translation": "一个腐败官员收钱为人办事。",
+          "collocation": "a corrupt official；a corrupt government",
+          "synonyms": [
+            "dishonest：对应行为不诚实；corrupt 常进一步涉及权力滥用或贿赂。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/corrupt",
+          "otherSenses": [
+            {
+              "pos": "v.",
+              "meaning": "使腐化"
+            },
+            {
+              "pos": "v.",
+              "meaning": "损坏（数据）"
+            }
+          ]
+        },
+        {
+          "id": "corruption",
+          "word": "corruption",
+          "pos": "n.",
+          "meaning": "腐败；腐化；数据损坏",
+          "parts": [
+            {
+              "text": "cor"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            },
+            {
+              "text": "ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 corrupt 配对，-ion 表示腐化的过程或状态。数据中的 corruption 是内容损坏，不是人的道德腐败。",
+          "mnemonic": "corrupt 是腐化，corruption 是制度或数据受到破坏的状态。",
+          "example": "The report exposed corruption in the organization.",
+          "translation": "这份报告揭露了该组织内部的腐败。",
+          "collocation": "fight corruption；data corruption",
+          "synonyms": [
+            "dishonesty：对应不诚实行为义，范围比贿赂腐败更广。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/corruption"
+        },
+        {
+          "id": "bankrupt",
+          "word": "bankrupt",
+          "pos": "adj.",
+          "meaning": "破产的",
+          "parts": [
+            {
+              "text": "bank"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            }
+          ],
+          "explanation": "源于意大利语 banca rotta（破了的长凳或柜台），英语词尾按拉丁语 rupt- 调整。关于真把长凳打断的故事证据不充分，不把它当成确定事实。",
+          "mnemonic": "用‘柜台破了，生意无法偿债’的画面记词；这是助记。",
+          "example": "The company went bankrupt after years of losses.",
+          "translation": "多年亏损后，这家公司破产了。",
+          "collocation": "go bankrupt；be declared bankrupt",
+          "synonyms": [
+            "insolvent：侧重无力偿债，与本卡的破产状态相关。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/bankrupt",
+          "otherSenses": [
+            {
+              "pos": "v.",
+              "meaning": "使破产"
+            }
+          ]
+        },
+        {
+          "id": "bankruptcy",
+          "word": "bankruptcy",
+          "pos": "n.",
+          "meaning": "破产",
+          "parts": [
+            {
+              "text": "bank"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            },
+            {
+              "text": "cy"
+            }
+          ],
+          "explanation": "bankrupt 对应的名词形式，词尾为 -cy；拼写保留 t，形成 bankruptcy。可用这组词对照记住形容词与名词的区别。",
+          "mnemonic": "bankrupt 是破产的，bankruptcy 是破产状态或程序。",
+          "example": "The firm filed for bankruptcy last month.",
+          "translation": "这家公司上个月申请了破产。",
+          "collocation": "file for bankruptcy；declare bankruptcy",
+          "synonyms": [
+            "insolvency：对应无力偿债状态义；不必然等同于正式破产程序。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/bankruptcy"
+        },
+        {
+          "id": "abrupt",
+          "word": "abrupt",
+          "pos": "adj.",
+          "meaning": "突然的；唐突的",
+          "parts": [
+            {
+              "text": "ab"
+            },
+            {
+              "text": "rupt",
+              "key": "root-rupt"
+            }
+          ],
+          "explanation": "历史上 ab-（离开、脱离）+ 与破裂有关的词干表示断开，后来指突然、不连贯或态度唐突。",
+          "mnemonic": "事情像突然被截断一样，缺少过渡。",
+          "example": "The discussion came to an abrupt end.",
+          "translation": "讨论突然结束了。",
+          "collocation": "an abrupt change；an abrupt end",
+          "synonyms": [
+            "sudden：对应突然发生义；curt：对应说话态度简短唐突义。"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/abrupt"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:rupt",
+          "to": "interrupt",
+          "label": "历史同根：在中间打断",
+          "type": "origin"
+        },
+        {
+          "from": "interrupt",
+          "to": "interruption",
+          "label": "+ -ion（名词词形）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:rupt",
+          "to": "disrupt",
+          "label": "历史同根：打破、分开",
+          "type": "origin"
+        },
+        {
+          "from": "disrupt",
+          "to": "disruption",
+          "label": "+ -ion（名词词形）",
+          "type": "analysis"
+        },
+        {
+          "from": "disruption",
+          "to": "disruptive",
+          "label": "同词干：-ion ↔ -ive",
+          "type": "analysis"
+        },
+        {
+          "from": "root:rupt",
+          "to": "erupt",
+          "label": "历史同根：e- 为 ex- 形式",
+          "type": "origin"
+        },
+        {
+          "from": "erupt",
+          "to": "eruption",
+          "label": "+ -ion（名词词形）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:rupt",
+          "to": "corrupt",
+          "label": "历史同根：破坏、腐化",
+          "type": "origin"
+        },
+        {
+          "from": "corrupt",
+          "to": "corruption",
+          "label": "+ -ion（名词词形）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:rupt",
+          "to": "bankrupt",
+          "label": "历史借词：意大利语词尾英语化",
+          "type": "origin"
+        },
+        {
+          "from": "bankrupt",
+          "to": "bankruptcy",
+          "label": "+ -cy（名词，保留 t）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:rupt",
+          "to": "abrupt",
+          "label": "历史同根：断开、突然",
+          "type": "origin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "batch": "m",
+  "reviewedAt": "2026-10-09",
+  "scope": "8族109词已逐条编写现代义、词性、词形/词源说明与两条原创双语例，完成字段、独立ID、分组精确覆盖、有效边与根连通性验证。主来源定向核验如下高风险路线、术语、角色与历史派生关系；不声称109词全部逐页逐义独立二审或有完整IPA。",
+  "counts": {"families":8,"uniqueWords":109,"originalBilingualExamples":218,"mater":12,"pater":20,"frater":11,"famil":12,"juven":8,"sen":10,"mort":16,"vit":20},
+  "canonicalReview": "本批109个ID内部无重复；交叉扫描当前families-c至l整批资产未发现重复。当前dist已集成89个同一m资产的分批词条；vit20为最后完整族。普通rejuvenated/rejuvenating屈折、英美拼写、mortgager变体等未作为独立canonical计数。",
+  "checks": [
+    {
+      "familyId":"mater",
+      "wordIds":["matriarch","matron","matrilineal","matrilineally","matrix"],
+      "decision":"matriarch由Latin matri-与Greek -arch相关组合形成，不称纯Latin直接派生；matron按主词典保存学校等女主管与传统已婚妇女称谓，标拓展；matrilineal是沿母系追溯血统，不能与matriarchal掌权混同；matrix真实来自mater/matrix的孕育来源路线，但现代矩阵技术义另外记。",
+      "sources":["https://www.etymonline.com/word/matriarch","https://www.etymonline.com/word/matron","https://www.merriam-webster.com/dictionary/matron","https://www.merriam-webster.com/dictionary/matrilineal","https://www.etymonline.com/word/matrix"]
+    },
+    {
+      "familyId":"pater",
+      "wordIds":["paternal","paternalism","patriarch","patrimony","patron","patriot","repatriate"],
+      "decision":"Latin paternal、patrimony、patron与Greek patriarch/patriot路线分别说明；patrimony -mony不是money；patronize两个现代义项以例句区分，patronizing只接居高临下义。repatriate为Latin patria相关回本国词形，不能假教re-+English patriot。父权结构与父系血统分开。",
+      "sources":["https://www.etymonline.com/word/paternal","https://www.etymonline.com/word/patriarch","https://www.etymonline.com/word/patrimony","https://www.etymonline.com/word/patron","https://www.etymonline.com/word/patriot","https://www.etymonline.com/word/repatriate"]
+    },
+    {
+      "familyId":"frater",
+      "wordIds":["fraternal","fraternally","fraternity","fraternize","confraternity","confrere","friar","fratricide","fratricidal"],
+      "decision":"fraternity较早的English记录与fraternal是同源关系边，不画英语简单先后派生；friar/confrere确经French frère相关词形联系Latin frater；confraternity主词典支持宗教/慈善社团；fratricide主卡为行为，fratricidal为相关形容词，保留文学/历史语境。",
+      "sources":["https://www.etymonline.com/word/fraternal","https://www.etymonline.com/word/fraternize","https://www.merriam-webster.com/dictionary/confraternity","https://www.etymonline.com/word/confrere","https://www.etymonline.com/word/friar","https://www.etymonline.com/word/fratricide"]
+    },
+    {
+      "familyId":"famil",
+      "wordIds":["family","familial","familiar","familiarity","familiarization","overfamiliar","defamiliarize","defamiliarization"],
+      "decision":"family来自Latin familia的家庭成员路线，familiar整体借入而非English family+-ar。familiarity的English记录早于familiar，最后复核已将边改为同源熟悉程度名词并明确说明时间顺序。familiarly/overfamiliar连人际亲近义；defamiliarize/defamiliarization为有主词典支持的文学艺术陌生化术语。",
+      "sources":["https://www.etymonline.com/word/family","https://www.merriam-webster.com/dictionary/familial","https://www.etymonline.com/word/familiar","https://www.etymonline.com/word/familiarity","https://www.etymonline.com/word/familiarization","https://www.merriam-webster.com/dictionary/overfamiliar","https://www.merriam-webster.com/dictionary/defamiliarize"]
+    },
+    {
+      "familyId":"juven",
+      "wordIds":["juvenility","juvenilia","junior","juvenescence","juvenescent","rejuvenate","rejuvenation"],
+      "decision":"仅8可靠词，普通分词不凑独立词。junior来自Latin iuvenis的比较级iunior，不是English suffix猜法；juvenilia是整体复数名词。juvenescence/juvenescent主词典支持年轻/变年轻状态，但较少见标拓展；rejuvenate是re-+Latin年轻词形+-ate的English造词，通用比喻例句为社区/项目恢复活力。",
+      "sources":["https://www.merriam-webster.com/dictionary/juvenility","https://www.merriam-webster.com/dictionary/juvenilia","https://www.etymonline.com/word/junior","https://www.merriam-webster.com/dictionary/juvenescence","https://www.etymonline.com/word/rejuvenate"]
+    },
+    {
+      "familyId":"sen",
+      "wordIds":["senior","senate","senesce","senile","senility"],
+      "decision":"sen-年老与sent/sens感觉不同；senior年龄/资历维度分开，senate历史长老词源不能推断现代议员年龄，-ate在此为名词词形。senesce主词典确认不及物变老及Latin senescere来源。senile/senility主词典明确用人心智衰退义可能冒犯且医学表述通常避免，本卡保留语用限制、不将正常老龄化当疾病。",
+      "sources":["https://www.etymonline.com/word/senior","https://www.etymonline.com/word/senate","https://www.merriam-webster.com/dictionary/senesce","https://www.merriam-webster.com/dictionary/senile","https://www.merriam-webster.com/dictionary/senility"]
+    },
+    {
+      "familyId":"mort",
+      "wordIds":["immortalization","mortuary","mortician","mortify","mortification","mortgage","mortgagor","mortgagee","postmortem","moribund"],
+      "decision":"immortalization主词典给French借词路线，所以连同源边；mortuary主卡是名词场所，mortician是殡葬职业。mortification现代窘迫义与死亡历史义分开，保留同源关系而不伪造名词造词先后。mortgagor为提供财产抵押的一方、mortgagee为接收抵押的一方，角色不是语义反义词。mortgage历史dead pledge不可直译现代贷款，postmortem来源Latin post mortem，mortem为格变化，现代事后分析为比喻。moribund来源mori，不是mortar同形猜法。",
+      "sources":["https://www.merriam-webster.com/dictionary/immortalization","https://www.merriam-webster.com/dictionary/mortuary","https://www.merriam-webster.com/dictionary/mortician","https://www.etymonline.com/word/mortify","https://www.etymonline.com/word/mortgage","https://www.merriam-webster.com/dictionary/mortgagor","https://www.merriam-webster.com/dictionary/mortgagee","https://www.etymonline.com/word/post-mortem","https://www.merriam-webster.com/dictionary/moribund"]
+    },
+    {
+      "familyId":"vit",
+      "wordIds":["vital","vitalize","vitalization","vitamin","multivitamin","vivacious","vivacity","vivid","revive","revival","survive","survival","survivor"],
+      "decision":"vita与vivere真实同源，vit/viv在同族按路线分组；vivid/vivacious来自活的路线，不来自看见vis/vid。vivacity早于vivacious，边为同源名词。vital主卡重要义到vitality/vitalize的边明确生命/活力义。vitamin早期vita+amine命名后删e，表面-min不是常用可猜义后缀，不误教所有维生素是胺；multivitamin主卡noun两例对应制剂。revival/survival的-al是名词后缀；survive来自super+vivere经French词形，词尾-e不赋予独立词义。",
+      "sources":["https://www.etymonline.com/word/vital","https://www.merriam-webster.com/dictionary/vitalize","https://www.etymonline.com/word/vitamin","https://www.merriam-webster.com/dictionary/multivitamin","https://www.etymonline.com/word/vivacious","https://www.etymonline.com/word/vivacity","https://www.etymonline.com/word/revive","https://www.etymonline.com/word/survive"]
+    }
+  ],
+  "limitations":["全部218条例句为本批原创，主词典链接支持词义/词性而不是这些原创句子的逐字出处。","IPA为空未猜填；语境近反义仅在注释限定维度适用，无合适对应时留空。","没有手写CET或IELTS闭表覆盖标签；等级由现有官方CET匹配和精编范围逻辑处理。","不是所有初级词根都有20–50可靠常用词；juven8/frater11/sen10保留实数，稀有词或拼写变体不凑数量。"]
+}

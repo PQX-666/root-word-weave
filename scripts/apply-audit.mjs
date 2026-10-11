@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const file=new URL('../data/content-overrides.json',import.meta.url),v=JSON.parse(fs.readFileSync(file,'utf8'));
+v.words.infectious={explanation:'词源资料将 infectious 联系于 infection 与形容词后缀 -ous。记忆时可观察 infection → infectious 的词尾变化，本词由 -ion 对应到 -ious；不要把这当作所有名词或动词都能套用的造词规则。现代义为传染性的，笑声等富感染力的比喻义另记。',morphologyKind:'mixed'};
+v.edges=[{family:'fac',to:'infectious',from:'infection',label:'infection / -ous：形容词词形联系',type:'origin'}];
+v.senses={conduct:{behaviour:{ipa:{uk:'/ˈkɒn.dʌkt/',us:'/ˈkɑːn.dʌkt/'},synonyms:['behaviour'],synonymsDetailed:[{word:'behaviour',meaning:'行为',usage:'这一义项中接近；conduct 较正式，常用于行为准则或评价。'}]}}};
+fs.writeFileSync(file,JSON.stringify(v,null,2));
+const compiler=new URL('./prepare-library.mjs',import.meta.url);let s=fs.readFileSync(compiler,'utf8');
+if(!s.includes('overrides.edges'))s=s.replace("for(const c of [...read('knowledge.json').cards", "for(const patch of overrides.edges||[]){const f=families.find(f=>f.id===patch.family),edge=f?.edges.find(e=>e.to===patch.to);if(edge)Object.assign(edge,{from:patch.from,label:patch.label,type:patch.type});}\nfor(const w of Object.values(words))for(const sense of w.senses||[])Object.assign(sense,overrides.senses?.[w.id]?.[sense.id]||{});\nfor(const c of [...read('knowledge.json').cards");
+if(!s.includes('typeof x===\'object\''))s=s.replace('if(w.ipa)for(',"for(const kind of ['synonyms','antonyms']){const xs=w[kind]||[];if(xs.some(x=>typeof x==='object')){w[kind+'Detailed']=w[kind+'Detailed']||xs.map(x=>typeof x==='object'?x:{word:x});w[kind]=xs.map(x=>typeof x==='object'?x.word:x);}}\n  if(w.ipa)for(");
+fs.writeFileSync(compiler,s);console.log('Audited content corrections applied');

@@ -1,0 +1,1258 @@
+{
+  "cards": [
+    {
+      "id": "ad-toward",
+      "label": "ad-／ac-／ag-／ap-",
+      "kind": "prefix",
+      "meaning": "向；朝；靠近，有时加强含义",
+      "role": "识别拉丁语来源词中的方向与同化变体",
+      "inputPos": "历史拉丁语词干；现代词性需查词条",
+      "outputPos": "不由前缀单独决定",
+      "explanation": "ad- 在拉丁语构词中表示向、朝。它常随后续辅音发生同化，可见 ac-、ag-、ap- 等形式；这些通常是历史构词线索。",
+      "spelling": "拉丁语同化可产生 ac-、af-、ag-、al-、ap-、ar-、as-、at- 等，常出现双写辅音；现代英语沿用约定拼写。",
+      "exceptions": "不能看到 ac、ag、ap 就断定存在这个前缀，也不能给任意英语词添加这些形式。现代词义可能偏离字面。",
+      "examples": [
+        {
+          "word": "acquire",
+          "meaning": "获得"
+        },
+        {
+          "word": "aggression",
+          "meaning": "侵略；攻击行为"
+        },
+        {
+          "word": "apply",
+          "meaning": "申请；应用"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/ad-",
+      "question": {
+        "prompt": "ad- 在拉丁语来源的词中常与后续辅音同化。哪组可以作为它的变体来学习？",
+        "options": [
+          "ac-、ag-、ap-",
+          "un-、non-、mis-",
+          "-ness、-ment、-ity",
+          "pre-、post-、fore-"
+        ],
+        "answer": 0,
+        "explanation": "ad- 可同化为 ac-、ag-、ap- 等。这里识别的是同一来源的前缀变体，不是任何相同开头都适用。"
+      }
+    },
+    {
+      "id": "ab-away",
+      "label": "ab-／abs-",
+      "kind": "prefix",
+      "meaning": "离开；离；分离",
+      "role": "识别历史词源中离开或分离的方向",
+      "inputPos": "常与拉丁语词干结合",
+      "outputPos": "不单独决定词性",
+      "explanation": "ab- 来源于拉丁语，常表达离开、分离。可以用抽离或带离的画面联想具体词，但仍要记住现代词义。",
+      "spelling": "在部分历史词形中可见 abs-，如 abstract、absent；词形变化应随具体词学习。",
+      "exceptions": "abandon 等以 ab 开头的词不能机械按 ab- 拆解；ab- 也不等于一般否定前缀 un-。",
+      "examples": [
+        {
+          "word": "abduct",
+          "meaning": "绑架；带走"
+        },
+        {
+          "word": "abstract",
+          "meaning": "抽象的；抽取"
+        },
+        {
+          "word": "absent",
+          "meaning": "缺席的"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/ab-",
+      "question": {
+        "prompt": "学习 ab- 的历史核心含义时，最合适的画面是什么？",
+        "options": [
+          "再次重复同一动作",
+          "从某处离开或分离",
+          "使某物数量变为很多",
+          "给动词加一个名词后缀"
+        ],
+        "answer": 1,
+        "explanation": "ab- 的核心线索是离开、分离；完整词义不能只由这个线索推断。"
+      }
+    },
+    {
+      "id": "con-together",
+      "label": "con-／com-／co-",
+      "kind": "prefix",
+      "meaning": "共同；一起，有时加强含义",
+      "role": "联系历史同化形式与现代共同参与的构词",
+      "inputPos": "常见动词、名词及历史词干",
+      "outputPos": "通常保留词基词性；具体查词条",
+      "explanation": "con-、com- 联系拉丁语“共同、一起”。现代英语常使用 co- 表示共同参与，如 coauthor；connect、combine 等可通过历史同源关系理解。",
+      "spelling": "历史上 com- 在不同辅音前可有 con-、col-、cor- 等形式。co- 是否使用连字符应查看词典。",
+      "exceptions": "不是所有 con 开头的词都能按共同来解释；有的前缀只加强原义，现代 co- 也不能随意替换已有 con-/com-。",
+      "examples": [
+        {
+          "word": "connect",
+          "meaning": "连接"
+        },
+        {
+          "word": "combine",
+          "meaning": "结合"
+        },
+        {
+          "word": "cooperate",
+          "meaning": "合作"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/con-",
+      "question": {
+        "prompt": "coauthor 表示“共同作者”。这里的 co- 给出的核心线索是什么？",
+        "options": [
+          "在事情发生之前",
+          "动作做得错误",
+          "共同参与",
+          "某个动作已经停止"
+        ],
+        "answer": 2,
+        "explanation": "co- 在这里表达共同参与；词性仍要根据 coauthor 的具体名词或动词用法判断。"
+      }
+    },
+    {
+      "id": "sub-under",
+      "label": "sub-",
+      "kind": "prefix",
+      "meaning": "在下；下级；次级；再分出的部分",
+      "role": "改变位置、层级或分区含义",
+      "inputPos": "常见名词、形容词及历史词干",
+      "outputPos": "不单独决定词性",
+      "explanation": "sub- 可以表示在下面，也可表示下一级或一个细分部分。submarine 联系水下，subgroup 表示较大群体中的子组。",
+      "spelling": "现代构词多保留 sub-；subgroup 中保留 b 和 g。历史词中可发生同化，如 support 的 sup-。",
+      "exceptions": "subject、suspect 等现代词义不能由“在下”直接算出；历史同化关系与现代透明构词要分开看。",
+      "examples": [
+        {
+          "word": "submarine",
+          "meaning": "潜艇；水下的"
+        },
+        {
+          "word": "subgroup",
+          "meaning": "子组"
+        },
+        {
+          "word": "subdivision",
+          "meaning": "细分部分；分区"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/sub-",
+      "question": {
+        "prompt": "a subgroup of students 中，sub- 最接近什么含义？",
+        "options": [
+          "比所有学生都优秀",
+          "完全没有学生",
+          "学生的职业名称",
+          "较大群体中的子部分"
+        ],
+        "answer": 3,
+        "explanation": "subgroup 是大组中的子组。sub- 在这里表示细分部分，不表示质量更差。"
+      }
+    },
+    {
+      "id": "super-above",
+      "label": "super-",
+      "kind": "prefix",
+      "meaning": "在上；超过；超出一般程度",
+      "role": "增加位置、程度或能力范围的含义",
+      "inputPos": "常见名词、形容词及历史词干",
+      "outputPos": "不单独决定词性",
+      "explanation": "super- 可表示超过通常范围或程度，如 superhuman 表示超出常人能力；也可参与表示位置在上的历史构词。",
+      "spelling": "现代词多直接添加 super-，如 supercomputer；连字符写法以词典为准。",
+      "exceptions": "super- 不是所有词中的“超级好”；supermarket 是超市的约定名称，superficial 要学习整体含义。",
+      "examples": [
+        {
+          "word": "superhuman",
+          "meaning": "超出常人能力的"
+        },
+        {
+          "word": "supercomputer",
+          "meaning": "超级计算机"
+        },
+        {
+          "word": "superpower",
+          "meaning": "超级大国；超强能力"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/super-",
+      "question": {
+        "prompt": "superhuman strength 中，super- 表达什么？",
+        "options": [
+          "超出普通人的能力范围",
+          "力量不足",
+          "力量再次出现",
+          "使力量变成副词"
+        ],
+        "answer": 0,
+        "explanation": "superhuman 这里是形容词，描述超出普通人的力量。super- 提供程度线索，不单独决定词性。"
+      }
+    },
+    {
+      "id": "anti-against",
+      "label": "anti-",
+      "kind": "prefix",
+      "meaning": "反对；对抗；防止",
+      "role": "表达反对某事物或抵抗某作用",
+      "inputPos": "常见名词、形容词及组合形式",
+      "outputPos": "不单独决定词性",
+      "explanation": "anti- 常表达对抗或反对，如 antiwar 是反战的，antibacterial 是抗菌的。先辨认被对抗的对象，再理解整个词。",
+      "spelling": "可连写或用连字符，如 antibacterial、anti-war；是否缩为 ant- 取决于已形成的词。",
+      "exceptions": "anticipate、antique 中的历史成分不是此处的“反对”；词缀形似不意味着来源或含义相同。",
+      "examples": [
+        {
+          "word": "antiwar",
+          "meaning": "反战的"
+        },
+        {
+          "word": "antibacterial",
+          "meaning": "抗菌的"
+        },
+        {
+          "word": "antisocial",
+          "meaning": "不合群的；反社会的"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/anti-",
+      "question": {
+        "prompt": "antibacterial soap 中，anti- 指向什么含义？",
+        "options": [
+          "含有大量细菌",
+          "抵抗或抑制细菌",
+          "细菌生长之前",
+          "由细菌共同制作"
+        ],
+        "answer": 1,
+        "explanation": "anti- 在 antibacterial 中表达抗菌。anti- 可以提供意义线索，但完整用途仍须看语境。"
+      }
+    },
+    {
+      "id": "over-excess",
+      "label": "over-",
+      "kind": "prefix",
+      "meaning": "过度；超过；在上方",
+      "role": "改变数量、程度或空间关系",
+      "inputPos": "常见动词、形容词、名词",
+      "outputPos": "通常保留词基词性；具体查词条",
+      "explanation": "over- 常表示超过合理程度，如 overestimate 是估计过高，overwork 是工作过度。另有空间或覆盖含义。",
+      "spelling": "通常与原词连写，保留原词开头：over + react → overreact。",
+      "exceptions": "overcome、overlook 等有约定的整体含义；不能统一解释为“过度”。over- 与 under- 也不是每对词都能自由替换。",
+      "examples": [
+        {
+          "word": "overestimate",
+          "meaning": "高估"
+        },
+        {
+          "word": "overreact",
+          "meaning": "反应过度"
+        },
+        {
+          "word": "overwork",
+          "meaning": "工作过度"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/over-",
+      "question": {
+        "prompt": "We overestimated the cost. 中，overestimate 的意思是什么？",
+        "options": [
+          "把成本估计得过低",
+          "拒绝估计成本",
+          "把成本估计得过高",
+          "重新准确估计成本"
+        ],
+        "answer": 2,
+        "explanation": "estimate 是估计；over- 在这里表示超过实际或合理程度，形成动词 overestimate。"
+      }
+    },
+    {
+      "id": "under-below",
+      "label": "under-",
+      "kind": "prefix",
+      "meaning": "在下；低于；不足",
+      "role": "改变位置或未达到标准的含义",
+      "inputPos": "常见动词、名词、形容词",
+      "outputPos": "通常保留词基词性；具体查词条",
+      "explanation": "under- 可以表示在下面，或数量、程度不足。underestimate 是估计过低，underpaid 指报酬偏低。",
+      "spelling": "通常直接加 under-，如 under + estimate → underestimate。",
+      "exceptions": "understand 不宜用“在下面站着”解释；underground 也可有地下组织等引申义，需要结合语境。",
+      "examples": [
+        {
+          "word": "underestimate",
+          "meaning": "低估"
+        },
+        {
+          "word": "underpaid",
+          "meaning": "报酬偏低的"
+        },
+        {
+          "word": "underground",
+          "meaning": "地下的；在地下"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/underestimate",
+      "question": {
+        "prompt": "We underestimated the time needed. 这句话说明什么？",
+        "options": [
+          "实际所需时间比原先估计的更少",
+          "完全没有做过时间估计",
+          "所有时间估计都正确",
+          "实际所需时间比原先估计的更多"
+        ],
+        "answer": 3,
+        "explanation": "underestimate 在这里是低估：预计时间低于实际需求。under- 提供不足的线索。"
+      }
+    },
+    {
+      "id": "out-surpass",
+      "label": "out-",
+      "kind": "prefix",
+      "meaning": "超过；向外；在外",
+      "role": "表达胜过他人或空间向外的关系",
+      "inputPos": "常见动词、名词、形容词",
+      "outputPos": "超过用法常形成动词；其他需查语境",
+      "explanation": "out- 在 outperform、outnumber 中表示胜过或数量超过；在 outdoor 等词中与外部位置有关。",
+      "spelling": "通常直接连写，如 out + perform → outperform。",
+      "exceptions": "outcome、outlook 等要按整个词学习；不是所有 out- 词都表示超过。outstanding 的常见含义也需单独记忆。",
+      "examples": [
+        {
+          "word": "outperform",
+          "meaning": "表现优于"
+        },
+        {
+          "word": "outnumber",
+          "meaning": "数量超过"
+        },
+        {
+          "word": "outdoor",
+          "meaning": "户外的"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/out-",
+      "question": {
+        "prompt": "Team A outperformed Team B. 最合适的理解是哪一项？",
+        "options": [
+          "A队表现优于B队",
+          "A队在户外表演",
+          "A队没有表现",
+          "A队重新加入B队"
+        ],
+        "answer": 0,
+        "explanation": "out- 在 outperform 中表示表现超过。它在其他词中还可以表达向外、在外等意义。"
+      }
+    },
+    {
+      "id": "fore-before",
+      "label": "fore-",
+      "kind": "prefix",
+      "meaning": "事先；在前；前部",
+      "role": "联系时间在前或空间前部的含义",
+      "inputPos": "常见名词、动词及历史组合词",
+      "outputPos": "不单独决定词性",
+      "explanation": "fore- 可以表示事先，如 foresee；也可表示前部，如 forehead。不同词分别体现时间或空间的线索。",
+      "spelling": "通常连写：foresee 保留 fore- 的 e 和 see 的 s；fore- 与 for- 不可随意替换。",
+      "exceptions": "foreign 不宜拆为 fore-；foreclose 的历史来源和现代意义也不能只由这个前缀确定。",
+      "examples": [
+        {
+          "word": "foresee",
+          "meaning": "预见"
+        },
+        {
+          "word": "forecast",
+          "meaning": "预测；预报"
+        },
+        {
+          "word": "forehead",
+          "meaning": "额头"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/fore-",
+      "question": {
+        "prompt": "foresee a problem 中，fore- 表示什么？",
+        "options": [
+          "在问题发生后才察觉",
+          "在问题发生前就察觉",
+          "让问题再次发生",
+          "问题的相反性质"
+        ],
+        "answer": 1,
+        "explanation": "foresee 是预见。fore- 在这里提供时间在前的线索；forehead 则主要体现空间前部。"
+      }
+    },
+    {
+      "id": "en-make",
+      "label": "en-／em-",
+      "kind": "prefix",
+      "meaning": "使成为；使进入；置于其中",
+      "role": "可将名词或形容词变为动词",
+      "inputPos": "常见名词、形容词及历史词干",
+      "outputPos": "常形成动词；具体词形需核对",
+      "explanation": "en- 可表达使成为某种状态或使进入其中，如 enrich 是使更丰富，enable 是使能够。em- 是部分词中的同化形式。",
+      "spelling": "在部分 b、p、m 等音前可见 em-，如 empower；但变体取决于既定单词，不能自行替换。",
+      "exceptions": "en- 并不保证所有 en 开头的词都是动词；energy 不能按 en- + ergy 学习。部分历史词中的意义已不透明。",
+      "examples": [
+        {
+          "word": "enable",
+          "meaning": "使能够"
+        },
+        {
+          "word": "enrich",
+          "meaning": "使丰富"
+        },
+        {
+          "word": "empower",
+          "meaning": "赋予权力；使有能力"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/en-",
+      "question": {
+        "prompt": "enrich the soil 中，en- 的作用最接近哪一项？",
+        "options": [
+          "表示土壤不丰富",
+          "将土壤变为一个名词",
+          "使土壤变得更丰富或肥沃",
+          "表示土壤处于更早时期"
+        ],
+        "answer": 2,
+        "explanation": "rich 是形容词；enrich 是动词，表达使变得丰富。这里既有意义变化，也有词性变化。"
+      }
+    },
+    {
+      "id": "de-reverse",
+      "label": "de-",
+      "kind": "prefix",
+      "meaning": "撤销；去除；降低；历史上也有向下义",
+      "role": "改变动作方向或撤销、去除某物",
+      "inputPos": "常见动词及历史词干",
+      "outputPos": "撤销用法常形成或保留动词",
+      "explanation": "现代 de- 常表示撤销某个动作或去除某物，如 deactivate 停用、defrost 除霜；在历史词中还可有向下或加强等意义。",
+      "spelling": "多数直接加 de-，但 de-escalate 等可有连字符，拼写依词条。",
+      "exceptions": "de- 不总表示否定；describe、delight 等不能按“撤销”机械解释。",
+      "examples": [
+        {
+          "word": "deactivate",
+          "meaning": "停用；使失效"
+        },
+        {
+          "word": "defrost",
+          "meaning": "除霜；解冻"
+        },
+        {
+          "word": "de-escalate",
+          "meaning": "降低程度；缓和"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/de-",
+      "question": {
+        "prompt": "deactivate an account 中，de- 的作用是什么？",
+        "options": [
+          "再次激活账号",
+          "让账号数量更多",
+          "使账号变成形容词",
+          "撤销或停止账号的激活状态"
+        ],
+        "answer": 3,
+        "explanation": "activate 是激活；deactivate 这里表示使不再处于激活状态，仍是动词。"
+      }
+    },
+    {
+      "id": "mis-wrong",
+      "label": "mis-",
+      "kind": "prefix",
+      "meaning": "错误地；不当地；不良",
+      "role": "改变动作或事物的正确性",
+      "inputPos": "常见动词、名词",
+      "outputPos": "通常保留词基词性",
+      "explanation": "mis- 常表示把动作做错，如 misunderstand 是理解错，misuse 是使用不当。它侧重错误，不等于完全没有做。",
+      "spelling": "通常直接添加并保留词基，如 mis + spell → misspell，其中两个 s 都保留。",
+      "exceptions": "mistake、mischief 等有历史构词背景，不必硬拆成现代独立词。mis- 与 un- 的含义不同。",
+      "examples": [
+        {
+          "word": "misunderstand",
+          "meaning": "误解"
+        },
+        {
+          "word": "misuse",
+          "meaning": "误用；滥用"
+        },
+        {
+          "word": "misspell",
+          "meaning": "拼错"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/mis-",
+      "question": {
+        "prompt": "misunderstand 的 mis- 表示什么？",
+        "options": [
+          "理解得错误",
+          "完全没有理解这个动作",
+          "再理解一次",
+          "提前理解"
+        ],
+        "answer": 0,
+        "explanation": "misunderstand 表示误解。mis- 提供错误或不当的线索，不单纯表示动作没有发生。"
+      }
+    },
+    {
+      "id": "non-not",
+      "label": "non-",
+      "kind": "prefix",
+      "meaning": "非；不是；没有",
+      "role": "表达不属于某类或不具有某性质",
+      "inputPos": "常见名词、形容词",
+      "outputPos": "通常保留词基词性",
+      "explanation": "non- 常表达非某类或缺少某性质，如 nonverbal 是非言语的，nonsmoker 是不吸烟的人。它往往只是排除，不必是强烈相反。",
+      "spelling": "可连写或加连字符，如 nonsmoker、non-fiction；实际拼写遵循词典及使用习惯。",
+      "exceptions": "non- 与 un-、in- 并不可以任意替换；nonflammable 的整体拼写要记住，不能由开头字母直接创造新词。",
+      "examples": [
+        {
+          "word": "nonverbal",
+          "meaning": "非言语的"
+        },
+        {
+          "word": "nonsmoker",
+          "meaning": "不吸烟的人"
+        },
+        {
+          "word": "nonfiction",
+          "meaning": "非虚构作品"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/non-",
+      "question": {
+        "prompt": "nonverbal communication 中，non- 最合适的解释是什么？",
+        "options": [
+          "以相反的言语进行",
+          "不通过言语形式进行",
+          "错误地说话",
+          "在说话之后进行"
+        ],
+        "answer": 1,
+        "explanation": "nonverbal 表示非言语的。non- 主要排除某性质，整个短语指不以言语为主要形式的沟通。"
+      }
+    },
+    {
+      "id": "semi-half",
+      "label": "semi-",
+      "kind": "prefix",
+      "meaning": "半；部分；不完全",
+      "role": "表达一半、部分程度或某些阶段",
+      "inputPos": "常见名词、形容词",
+      "outputPos": "不单独决定词性",
+      "explanation": "semi- 常表示半或部分，如 semicircle 是半圆，semiautomatic 是半自动的。其具体程度由整个词约定。",
+      "spelling": "通常保留 semi-，可连写或用连字符，如 semicircle、semi-final。",
+      "exceptions": "semifinal 是半决赛的固定名称，不代表比赛只进行一半；semiannual 表示一年两次，不能与 biennial 混淆。",
+      "examples": [
+        {
+          "word": "semicircle",
+          "meaning": "半圆"
+        },
+        {
+          "word": "semiautomatic",
+          "meaning": "半自动的"
+        },
+        {
+          "word": "semifinal",
+          "meaning": "半决赛"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/semi-",
+      "question": {
+        "prompt": "semicircle 中，semi- 表达什么？",
+        "options": [
+          "两个完整圆",
+          "完全没有圆",
+          "完整圆的一半",
+          "位于圆下方"
+        ],
+        "answer": 2,
+        "explanation": "semicircle 是半圆，semi- 在这个词中直接表达一半。其他词里的部分程度应按整体词义理解。"
+      }
+    },
+    {
+      "id": "multi-many",
+      "label": "multi-",
+      "kind": "prefix",
+      "meaning": "多；多个；多种",
+      "role": "增加数量或多种并存的含义",
+      "inputPos": "常见名词、形容词和组合形式",
+      "outputPos": "不单独决定词性",
+      "explanation": "multi- 表示多，如 multilingual 指使用多种语言，multinational 指涉及多个国家。",
+      "spelling": "通常保留 multi-，部分词可有连字符；multimedia 等已有固定拼写。",
+      "exceptions": "多个不等于无限，也不保证复杂程度更高。multi- 与词基结合后的词性依整个词确定。",
+      "examples": [
+        {
+          "word": "multilingual",
+          "meaning": "使用多种语言的"
+        },
+        {
+          "word": "multinational",
+          "meaning": "跨国的；涉及多个国家的"
+        },
+        {
+          "word": "multimedia",
+          "meaning": "多媒体"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/multi-",
+      "question": {
+        "prompt": "multilingual students 指怎样的学生？",
+        "options": [
+          "只使用一种语言的学生",
+          "反对语言学习的学生",
+          "学习语言有误的学生",
+          "能使用多种语言的学生"
+        ],
+        "answer": 3,
+        "explanation": "multi- 提供多个、多种的线索。multilingual 这里作形容词，描述学生。"
+      }
+    },
+    {
+      "id": "post-after",
+      "label": "post-",
+      "kind": "prefix",
+      "meaning": "在……之后；后",
+      "role": "增加时间在后的含义",
+      "inputPos": "常见名词、形容词及历史词干",
+      "outputPos": "不单独决定词性",
+      "explanation": "post- 表示在某事件或阶段之后，如 postwar 是战后的，postgraduate 与完成本科阶段后的学习有关。",
+      "spelling": "可连写或用连字符，如 postgraduate、post-war；具体拼写依词条。",
+      "exceptions": "post 作独立词可表示邮寄、岗位等，不都等于这个前缀；postpone 也要记忆整体词义。",
+      "examples": [
+        {
+          "word": "postwar",
+          "meaning": "战后的"
+        },
+        {
+          "word": "postgraduate",
+          "meaning": "研究生；研究生阶段的"
+        },
+        {
+          "word": "postdate",
+          "meaning": "把日期写晚；晚于"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/post-",
+      "question": {
+        "prompt": "postwar reconstruction 中，post- 表示什么？",
+        "options": [
+          "战争结束之后",
+          "战争发生之前",
+          "再次发动战争",
+          "反对所有重建"
+        ],
+        "answer": 0,
+        "explanation": "postwar 表示战后的。post- 在这里表达时间在后，不能与 pre- 混淆。"
+      }
+    },
+    {
+      "id": "counter-against",
+      "label": "counter-",
+      "kind": "prefix",
+      "meaning": "对抗；反向；回应",
+      "role": "表达抵抗某作用或采取相应回应",
+      "inputPos": "常见动词、名词、形容词",
+      "outputPos": "通常保留词基词性；具体查词条",
+      "explanation": "counter- 常表示对抗或抵消，如 counteract 是抵消某种作用，counterargument 是反驳的论点。",
+      "spelling": "通常保留 counter-；连写或连字符形式按词典，如 counteract、counter-argument。",
+      "exceptions": "counter 作名词还可以是柜台、计数器等，不是前缀的所有意思；counter- 也并非所有场合都表达简单否定。",
+      "examples": [
+        {
+          "word": "counteract",
+          "meaning": "抵消；对抗"
+        },
+        {
+          "word": "counterargument",
+          "meaning": "反驳的论点"
+        },
+        {
+          "word": "counterattack",
+          "meaning": "反击"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/counter-",
+      "question": {
+        "prompt": "counteract the effect 中，counter- 最接近什么含义？",
+        "options": [
+          "使影响无限增强",
+          "采取相反作用以抵消影响",
+          "事先预测影响",
+          "给影响加名词后缀"
+        ],
+        "answer": 1,
+        "explanation": "counteract 指抵消或对抗影响。counter- 表达相对、对抗的作用。"
+      }
+    },
+    {
+      "id": "pro-forward",
+      "label": "pro-",
+      "kind": "prefix",
+      "meaning": "向前；事先；支持，具体依词",
+      "role": "提供方向、时间或立场线索",
+      "inputPos": "常见名词、形容词及历史词干",
+      "outputPos": "不单独决定词性",
+      "explanation": "pro- 有多个来源相关的用法：proceed 联系向前，proactive 联系事先主动采取行动；现代 pro-democracy 的 pro- 表示支持。",
+      "spelling": "许多历史词连写；现代立场词常用连字符，如 pro-democracy。不能把既定 pro- 词任意改成 pre-。",
+      "exceptions": "proactive 的 pro- 不是“支持活跃”；problem 等词的现代含义也不能按向前机械解释。",
+      "examples": [
+        {
+          "word": "proceed",
+          "meaning": "继续进行；前进"
+        },
+        {
+          "word": "proactive",
+          "meaning": "主动预先采取行动的"
+        },
+        {
+          "word": "pro-democracy",
+          "meaning": "支持民主的"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/pro-",
+      "question": {
+        "prompt": "pro-democracy campaign 中，pro- 表示什么？",
+        "options": [
+          "民主出现之前的时间",
+          "反对民主的立场",
+          "支持民主的立场",
+          "错误地理解民主"
+        ],
+        "answer": 2,
+        "explanation": "pro- 在这个现代立场词中表示支持。它在 proactive、proceed 等词中有不同侧重，必须结合具体词。"
+      }
+    },
+    {
+      "id": "auto-self",
+      "label": "auto-",
+      "kind": "prefix",
+      "meaning": "自己；自身；自动",
+      "role": "联系自身进行或自动发生的含义",
+      "inputPos": "常见名词、形容词和组合形式",
+      "outputPos": "不单独决定词性",
+      "explanation": "auto- 常联系自己或自身，如 autobiography 是自传，autofocus 是自动对焦。部分词还使用 automobile 的缩略意义。",
+      "spelling": "常直接连写，部分写法可用连字符，如 autofocus、auto-focus；具体查词典。",
+      "exceptions": "automobile 虽含自行动作的历史线索，整体意思是汽车；autograph 指签名，不能仅按“自己写”推断全部用法。",
+      "examples": [
+        {
+          "word": "autobiography",
+          "meaning": "自传"
+        },
+        {
+          "word": "autofocus",
+          "meaning": "自动对焦"
+        },
+        {
+          "word": "automatic",
+          "meaning": "自动的"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/auto-",
+      "question": {
+        "prompt": "autobiography 最合适的理解是什么？",
+        "options": [
+          "一个人反对传记",
+          "多个人共同写所有人的生平",
+          "发生在传记之前的事件",
+          "一个人写自己的生平"
+        ],
+        "answer": 3,
+        "explanation": "auto- 联系自身，biography 是传记，autobiography 是自传。它不是所有 auto- 词的唯一解释模板。"
+      }
+    },
+    {
+      "id": "al-noun",
+      "label": "-al（名词）",
+      "kind": "suffix",
+      "meaning": "某动作、过程或其结果",
+      "role": "由部分动词形成名词",
+      "inputPos": "常见特定动词",
+      "outputPos": "名词",
+      "explanation": "-al 既有形容词用法，也有形成动作或结果名词的用法。approve → approval、propose → proposal 展示这里的名词用法。",
+      "spelling": "这些例词去词尾不发音的 e 再加 -al：approve → approval，propose → proposal，refuse → refusal。具体词形不能一律套用。",
+      "exceptions": "personal、natural 等的 -al 是形容词后缀；不能只看到 al 就判定名词，也不能给所有动词都加 -al。",
+      "examples": [
+        {
+          "word": "approval",
+          "meaning": "批准；赞同"
+        },
+        {
+          "word": "proposal",
+          "meaning": "提议；方案"
+        },
+        {
+          "word": "refusal",
+          "meaning": "拒绝"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-al",
+      "question": {
+        "prompt": "They accepted the proposal. 句中的 proposal 最合适的分析是什么？",
+        "options": [
+          "名词，表示提议或方案",
+          "形容词，表示提议的性质",
+          "副词，表示提议地",
+          "动词，表示正在提议"
+        ],
+        "answer": 0,
+        "explanation": "proposal 在 accepted 后作宾语，是名词。这里的 -al 是名词用法；personal 的 -al 则是形容词用法。"
+      }
+    },
+    {
+      "id": "ance-ence-noun",
+      "label": "-ance／-ence",
+      "kind": "suffix",
+      "meaning": "动作、状态、性质或事实",
+      "role": "常用于名词形成及相关词形配对",
+      "inputPos": "常见动词、形容词或历史词干",
+      "outputPos": "名词",
+      "explanation": "-ance、-ence 常见于表示动作、状态或性质的名词。可结合 accept/acceptance、different/difference 等词形配对学习。",
+      "spelling": "acceptance 用 -ance；difference 用 -ence，相关形容词是 different。词尾拼写来自具体词形，不能只按发音判断。",
+      "exceptions": "这两种拼写不能自由互换；existence、importance 等有自己的既定形式。看到前面字母相似，也不能把每对词都当成现代直接派生。",
+      "examples": [
+        {
+          "word": "acceptance",
+          "meaning": "接受；认可"
+        },
+        {
+          "word": "difference",
+          "meaning": "差异"
+        },
+        {
+          "word": "confidence",
+          "meaning": "信心"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-ance",
+      "question": {
+        "prompt": "Their acceptance surprised me. 句中的 acceptance 是什么？",
+        "options": [
+          "动词，表示接受",
+          "名词，表示接受这一行为或结果",
+          "副词，表示接受地",
+          "形容词，表示可接受的"
+        ],
+        "answer": 1,
+        "explanation": "acceptance 在 their 后作名词，表示接受；其后缀是 -ance。acceptable 则是相关形容词。"
+      }
+    },
+    {
+      "id": "hood-noun",
+      "label": "-hood",
+      "kind": "suffix",
+      "meaning": "状态；身份；人生阶段；某种集合",
+      "role": "构成状态、身份或阶段名词",
+      "inputPos": "常见名词，少数形容词",
+      "outputPos": "名词",
+      "explanation": "-hood 常表示某种身份、状态或阶段，如 childhood 是童年，adulthood 是成年阶段；也可见集合或地域引申。",
+      "spelling": "常直接添加：child + -hood → childhood，adult + -hood → adulthood。neighborhood 与 neighbourhood 依词基的英美拼写不同。",
+      "exceptions": "独立词 hood 可以表示帽兜，不等于后缀。likelihood、livelihood 等要学习完整词形，不能随意造出类似词。",
+      "examples": [
+        {
+          "word": "childhood",
+          "meaning": "童年"
+        },
+        {
+          "word": "adulthood",
+          "meaning": "成年时期"
+        },
+        {
+          "word": "neighborhood",
+          "meaning": "街区；附近地区"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-hood",
+      "question": {
+        "prompt": "during her childhood 中，-hood 主要表示什么？",
+        "options": [
+          "儿童的某次动作",
+          "儿童再次出现",
+          "作为儿童的人生阶段",
+          "儿童这一身份的否定"
+        ],
+        "answer": 2,
+        "explanation": "childhood 是童年，-hood 在这里表示人生阶段，整个词为名词。"
+      }
+    },
+    {
+      "id": "ship-noun",
+      "label": "-ship",
+      "kind": "suffix",
+      "meaning": "关系；身份；职位；技能或状态",
+      "role": "构成关系、身份或技能等抽象名词",
+      "inputPos": "常见名词",
+      "outputPos": "名词",
+      "explanation": "-ship 常连接某种关系或身份，如 friendship 是友谊，membership 是成员身份；leadership 还可表示领导能力。",
+      "spelling": "通常直接加在词基后：friend + -ship → friendship，member + -ship → membership。",
+      "exceptions": "后缀 -ship 不等于独立名词 ship“船”；scholarship 有奖学金、学术研究等整体义项，需结合语境。",
+      "examples": [
+        {
+          "word": "friendship",
+          "meaning": "友谊"
+        },
+        {
+          "word": "membership",
+          "meaning": "成员身份；会员资格"
+        },
+        {
+          "word": "leadership",
+          "meaning": "领导能力；领导层"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-ship",
+      "question": {
+        "prompt": "membership in a club 中，-ship 最接近什么含义？",
+        "options": [
+          "成员乘坐的船",
+          "成员的相反身份",
+          "成为成员之前的时间",
+          "成员身份或资格"
+        ],
+        "answer": 3,
+        "explanation": "membership 是成员身份或资格。这里使用的是构词后缀 -ship，与独立词 ship“船”不同。"
+      }
+    },
+    {
+      "id": "dom-noun",
+      "label": "-dom",
+      "kind": "suffix",
+      "meaning": "状态；领域；统治范围",
+      "role": "构成状态或领域名词",
+      "inputPos": "常见名词、形容词或历史词基",
+      "outputPos": "名词",
+      "explanation": "-dom 常表示状态或领域，如 freedom 是自由，kingdom 是王国；具体范围取决于词基和约定词义。",
+      "spelling": "freedom 保留 free 的两个 e；kingdom 直接连接 king 与 -dom。boredom 的拼写随整个词记忆。",
+      "exceptions": "wisdom 有历史词形变化，不能用现代 wise + dom 简单拼写；random 的词尾不是这里的后缀。",
+      "examples": [
+        {
+          "word": "freedom",
+          "meaning": "自由"
+        },
+        {
+          "word": "kingdom",
+          "meaning": "王国"
+        },
+        {
+          "word": "boredom",
+          "meaning": "无聊；厌倦"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-dom",
+      "question": {
+        "prompt": "freedom 中的 -dom 主要构成哪类意思？",
+        "options": [
+          "自由这一状态的名词",
+          "自由地这一副词",
+          "自由这一动作的动词",
+          "不自由这一否定义"
+        ],
+        "answer": 0,
+        "explanation": "free 是词形基础，freedom 是表示自由状态的名词。-dom 并不是任意词的通用后缀。"
+      }
+    },
+    {
+      "id": "ism-noun",
+      "label": "-ism",
+      "kind": "suffix",
+      "meaning": "主义；体系；实践；特定状态",
+      "role": "形成体系、实践或状态名词",
+      "inputPos": "名词、形容词或历史词干",
+      "outputPos": "名词",
+      "explanation": "-ism 常见于体系、主义、实践，也可表示某种状态或倾向。capitalism、tourism、optimism 的含义分别要按具体词学习。",
+      "spelling": "常直接连接词基，部分词有词干变化，如 optimistic 与 optimism 的联系需整体学习。",
+      "exceptions": "不是所有 -ism 词都表示政治主义；不能把所有 -ism 名词都机械改为 -ist 表示某个人。",
+      "examples": [
+        {
+          "word": "capitalism",
+          "meaning": "资本主义"
+        },
+        {
+          "word": "tourism",
+          "meaning": "旅游业；旅游活动"
+        },
+        {
+          "word": "optimism",
+          "meaning": "乐观；乐观主义"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-ism",
+      "question": {
+        "prompt": "Her optimism encouraged us. 句中的 optimism 是什么？",
+        "options": [
+          "副词，表示乐观地",
+          "名词，表示乐观的态度或倾向",
+          "动词，表示使人乐观",
+          "形容词，表示乐观的"
+        ],
+        "answer": 1,
+        "explanation": "optimism 在 her 后作名词，表示乐观态度；对应常见形容词为 optimistic。-ism 的具体意思依词而定。"
+      }
+    },
+    {
+      "id": "ist-person",
+      "label": "-ist",
+      "kind": "suffix",
+      "meaning": "从事某活动的人；某类专家；某主张的支持者",
+      "role": "常形成人物称呼，也可有形容词用法",
+      "inputPos": "常见名词及历史词干",
+      "outputPos": "常为表示人的名词；部分词也作形容词",
+      "explanation": "-ist 常标记从业者、研究者或某主张的支持者，如 artist、scientist、activist；词干拼写可能变化。",
+      "spelling": "artist 来自 art + -ist；scientist 与 science 相关，但词形不是把 -ist 简单接在 science 后。",
+      "exceptions": "有的 -ist 词也能作形容词，如 socialist；不是任何学科名称加 -ist 都成为约定的职业名。",
+      "examples": [
+        {
+          "word": "artist",
+          "meaning": "艺术家"
+        },
+        {
+          "word": "scientist",
+          "meaning": "科学家"
+        },
+        {
+          "word": "activist",
+          "meaning": "积极倡议者；活动人士"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-ist",
+      "question": {
+        "prompt": "She is a scientist. 句中的 scientist 最合适的分析是什么？",
+        "options": [
+          "表示科学的副词",
+          "表示科学的形容词",
+          "表示人的名词：科学家",
+          "表示进行科学实验的动词"
+        ],
+        "answer": 2,
+        "explanation": "scientist 在 a 后表示一个人，是名词。-ist 提供从业或研究者的线索，science 与 scientist 的拼写需配对记忆。"
+      }
+    },
+    {
+      "id": "ate-verb",
+      "label": "-ate（动词）",
+      "kind": "suffix",
+      "meaning": "使成为；使发生；进行某动作，具体依词",
+      "role": "常见于动词形成或历史拉丁词干的动词词形",
+      "inputPos": "名词、形容词或历史词干",
+      "outputPos": "动词用法；同形词可能另作形容词或名词",
+      "explanation": "-ate 的一种重要用法是形成动词，如 activate“使激活”、motivate“激励”。许多词经过拉丁语和法语传入，不能一律当作现代直接加后缀。",
+      "spelling": "active → activate 是常见教学词形配对，不能写成 activeate。具体词干、重音和发音以词条为准。",
+      "exceptions": "-ate 还出现在形容词和名词中，如 separate 可作形容词，candidate 是名词；末尾字母相同并不保证是动词。",
+      "examples": [
+        {
+          "word": "activate",
+          "meaning": "激活"
+        },
+        {
+          "word": "motivate",
+          "meaning": "激励"
+        },
+        {
+          "word": "differentiate",
+          "meaning": "区分；使有差别"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-ate",
+      "question": {
+        "prompt": "Please activate the device. 句中的 activate 起什么作用？",
+        "options": [
+          "名词，表示活动本身",
+          "形容词，表示活跃的设备",
+          "副词，表示积极地",
+          "动词，表示激活设备"
+        ],
+        "answer": 3,
+        "explanation": "activate 在祈使句中作动词。这里学习的是 -ate 的动词用法，不能推广成所有 ate 结尾都是动词。"
+      }
+    },
+    {
+      "id": "en-verb",
+      "label": "-en（动词）",
+      "kind": "suffix",
+      "meaning": "使变得；变得",
+      "role": "常由形容词或名词构成动词",
+      "inputPos": "常见形容词，也见名词",
+      "outputPos": "动词",
+      "explanation": "动词后缀 -en 常表示使变得或变得，如 darken 是变暗或使变暗，weaken 是变弱或使变弱。",
+      "spelling": "常见直接连接：weak → weaken，dark → darken；strength → strengthen 用 strength 这一词形基础。",
+      "exceptions": "wooden、golden 的 -en 是形容词用法；不能把所有 en 结尾词都判成动词，也不能给任意形容词加 -en。",
+      "examples": [
+        {
+          "word": "darken",
+          "meaning": "变暗；使变暗"
+        },
+        {
+          "word": "weaken",
+          "meaning": "变弱；使变弱"
+        },
+        {
+          "word": "strengthen",
+          "meaning": "增强；加强"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-en",
+      "question": {
+        "prompt": "The clouds may darken the sky. 这里 darken 的词性与含义是什么？",
+        "options": [
+          "动词：使天空变暗",
+          "形容词：黑暗的天空",
+          "名词：黑暗这一状态",
+          "副词：黑暗地"
+        ],
+        "answer": 0,
+        "explanation": "darken 在 may 后作动词，表示使变暗。wooden 中的 -en 则属于另一种形容词用法。"
+      }
+    },
+    {
+      "id": "ize-verb",
+      "label": "-ize／-ise（动词）",
+      "kind": "suffix",
+      "meaning": "使成为；进行；使具有某性质，具体依词",
+      "role": "常由名词或形容词构成动词",
+      "inputPos": "常见名词、形容词及历史词干",
+      "outputPos": "动词",
+      "explanation": "-ize 常构成动词，如 modernize“使现代化”、legalize“使合法化”。某些词也允许 -ise 拼法，依地区和编辑习惯而异。",
+      "spelling": "modernize/modernise 可作拼写变体；legal → legalize。具体词的词干与拼写须核对，不能给所有词自由加这个后缀。",
+      "exceptions": "英国英语也使用许多 -ize 拼法；advertise、surprise 等不能任意改成 z，也不能都当成同一个构词后缀。",
+      "examples": [
+        {
+          "word": "modernize",
+          "meaning": "使现代化"
+        },
+        {
+          "word": "legalize",
+          "meaning": "使合法化"
+        },
+        {
+          "word": "organize",
+          "meaning": "组织"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-ize",
+      "question": {
+        "prompt": "They plan to modernize the library. modernize 最合适的分析是什么？",
+        "options": [
+          "名词：图书馆的现代性",
+          "动词：使图书馆现代化",
+          "副词：以现代方式",
+          "形容词：现代的图书馆"
+        ],
+        "answer": 1,
+        "explanation": "modernize 在 to 后作动词，-ize 在这里表达使现代化。可用的 -ise 变体须按具体词及写作习惯选择。"
+      }
+    },
+    {
+      "id": "ic-adj",
+      "label": "-ic（形容词）",
+      "kind": "suffix",
+      "meaning": "与……有关；具有……性质",
+      "role": "常构成相关性质的形容词",
+      "inputPos": "常见名词及历史词干",
+      "outputPos": "常为形容词；同形词可能另有名词用法",
+      "explanation": "-ic 常给出与某事物有关或具有某性质的线索，如 historic、artistic、scientific。词干可能变化，宜配对学习。",
+      "spelling": "history → historic、science → scientific、art → artistic 都有各自词形，不能简单把字母 ic 接在原词末尾。",
+      "exceptions": "music、public 等不能仅凭末尾 ic 硬拆；economic 与 economical 也有不同常用含义，后缀相近不等于同义。",
+      "examples": [
+        {
+          "word": "historic",
+          "meaning": "有历史意义的"
+        },
+        {
+          "word": "artistic",
+          "meaning": "艺术的；有艺术才能的"
+        },
+        {
+          "word": "scientific",
+          "meaning": "科学的"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-ic",
+      "question": {
+        "prompt": "a scientific explanation 中，scientific 起什么作用？",
+        "options": [
+          "动词，表示解释动作",
+          "副词，表示科学地",
+          "形容词，修饰 explanation",
+          "名词，表示一位科学家"
+        ],
+        "answer": 2,
+        "explanation": "scientific 修饰名词 explanation，是形容词。-ic 在这个词中提供与科学有关的线索，词干变化要单独记忆。"
+      }
+    },
+    {
+      "id": "y-adj",
+      "label": "-y（形容词）",
+      "kind": "suffix",
+      "meaning": "充满；具有；以……为特征",
+      "role": "常由名词构成性质或状态形容词",
+      "inputPos": "常见名词，也见动词等",
+      "outputPos": "形容词用法；词尾 y 不普遍决定词性",
+      "explanation": "形容词后缀 -y 常表示具有某特征，如 rainy 是有雨的，cloudy 是多云的。这里学习的是形容词用法。",
+      "spelling": "rain → rainy 常直接加 y；sun → sunny 双写 n；noise → noisy 去末尾 e。拼写规则需结合具体词。",
+      "exceptions": "city、family 等 y 结尾名词不属于这一形容词后缀用法；happy 也不必硬拆成独立词基加 y。",
+      "examples": [
+        {
+          "word": "rainy",
+          "meaning": "有雨的"
+        },
+        {
+          "word": "cloudy",
+          "meaning": "多云的"
+        },
+        {
+          "word": "noisy",
+          "meaning": "吵闹的"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-y",
+      "question": {
+        "prompt": "a rainy afternoon 中，rainy 最合适的分析是什么？",
+        "options": [
+          "名词，表示一场雨",
+          "动词，表示正在下雨",
+          "副词，表示下雨地",
+          "形容词，描述下午有雨"
+        ],
+        "answer": 3,
+        "explanation": "rain 是名词，rainy 在这里是修饰 afternoon 的形容词。不能因为有些 y 结尾词是形容词就推广到全部。"
+      }
+    },
+    {
+      "id": "ward-direction",
+      "label": "-ward／-wards",
+      "kind": "suffix",
+      "meaning": "朝向；向某方向",
+      "role": "形成表示方向或趋向的词",
+      "inputPos": "常见表示方向、位置等的词基",
+      "outputPos": "常见副词，部分 -ward 词也作形容词",
+      "explanation": "-ward、-wards 常表示朝某个方向，如 northward“向北”、upwards“向上”。有些 -ward 词还能修饰名词。",
+      "spelling": "northward/northwards 等可有约定变体；upward movement 中用形容词 upward。-wards 通常用于副词，具体看词典。",
+      "exceptions": "toward/towards 常作介词；awkward 要记忆笨拙等整体含义。不能把所有 ward 字母都当成方向后缀。",
+      "examples": [
+        {
+          "word": "northward",
+          "meaning": "向北；朝北的"
+        },
+        {
+          "word": "upwards",
+          "meaning": "向上"
+        },
+        {
+          "word": "homeward",
+          "meaning": "向家的；向家"
+        }
+      ],
+      "source": "https://www.etymonline.com/word/-ward",
+      "question": {
+        "prompt": "The birds flew northward. northward 提供哪条线索？",
+        "options": [
+          "飞行方向朝北",
+          "飞行发生在很久以前",
+          "鸟的数量非常多",
+          "鸟并没有飞行"
+        ],
+        "answer": 0,
+        "explanation": "northward 在这里说明 flew 的方向，是向北。-ward 提供方向线索，其他词性仍须结合句法判断。"
+      }
+    }
+  ]
+}

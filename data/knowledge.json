@@ -1,0 +1,580 @@
+{
+  "cards": [
+    {
+      "id": "un-negative",
+      "label": "un-（否定）",
+      "kind": "prefix",
+      "meaning": "不；与原义相反",
+      "role": "主要改变含义，常保留词基的词性",
+      "inputPos": "常见形容词或分词，也见于名词",
+      "outputPos": "常见形容词；具体词性查词条与语境",
+      "explanation": "unhappy 是不快乐的，unfair 是不公平的。先识别原词，再判断否定后的整体含义；前缀本身不能决定整个词的词性。",
+      "spelling": "通常直接加 un-，原词开头的字母保留：natural → unnatural。",
+      "exceptions": "un- 另有撤销动作的用法，如 unlock（开锁）。un- 与 in- 的选择取决于已形成的单词，不能随意替换。",
+      "examples": [
+        { "word": "unhappy", "meaning": "不快乐的" },
+        { "word": "unfair", "meaning": "不公平的" },
+        { "word": "unusual", "meaning": "不寻常的" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/un-",
+      "question": {
+        "prompt": "The result was unfair. 句中的 unfair 最合适的分析是哪一项？",
+        "options": ["形容词，表示不公平的", "名词，表示公平性", "副词，表示公平地", "动词，表示再次公平对待"],
+        "answer": 0,
+        "explanation": "fair 在这里是形容词；un- 添加否定义。unfair 仍作形容词，在 was 后描述结果。"
+      }
+    },
+    {
+      "id": "in-negative",
+      "label": "in-（否定）",
+      "kind": "prefix",
+      "meaning": "不；非",
+      "role": "添加否定义，常不改变词基词性",
+      "inputPos": "常见形容词词基",
+      "outputPos": "常见形容词及其派生形式",
+      "explanation": "incorrect 表示不正确的，inactive 表示不活跃的。这一否定前缀与表示进入或在内的 in- 不同，不能看到 in 就一律译成不。",
+      "spelling": "否定 in- 通常在 l 前变为 il-，在 b、m、p 前变为 im-，在 r 前变为 ir-：illogical、imbalance、immoral、impossible、irregular。",
+      "exceptions": "这些是既有词中的常见形式，不是给任何词制造反义词的万能公式；例如 unhappy 采用 un-。各变体不能任意互换。",
+      "examples": [
+        { "word": "incorrect", "meaning": "不正确的" },
+        { "word": "inactive", "meaning": "不活跃的" },
+        { "word": "incomplete", "meaning": "不完整的" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/in-",
+      "question": {
+        "prompt": "The answer is incorrect. incorrect 中的 in- 最接近哪种含义？",
+        "options": ["进入答案里面", "不；非", "在答案之间", "再次作答"],
+        "answer": 1,
+        "explanation": "correct 表示正确的；这里的 in- 是否定前缀，因此 incorrect 表示不正确的，仍是形容词。"
+      }
+    },
+    {
+      "id": "im-negative",
+      "label": "im-（否定变体）",
+      "kind": "prefix",
+      "meaning": "不；非",
+      "role": "否定 in- 的常见拼写形式",
+      "inputPos": "常见以 b、m、p 开头的形容词词基",
+      "outputPos": "常见形容词；也见于相关名词",
+      "explanation": "impossible 与 impolite 中的 im- 表示否定，是 in- 在特定词中的形式。把 possible 与 impossible 成对记忆，比任意套用前缀更可靠。",
+      "spelling": "常见于 b、m、p 前，如 imbalance、immature、impossible；m 开头词基保留 m，因此 immature 有两个 m。",
+      "exceptions": "以 im 开头不保证是否定，如 import（进口）涉及向内的含义。im-、il-、ir- 不能自行替换。",
+      "examples": [
+        { "word": "impossible", "meaning": "不可能的" },
+        { "word": "impolite", "meaning": "不礼貌的" },
+        { "word": "immature", "meaning": "不成熟的" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/in-",
+      "question": {
+        "prompt": "The task is impossible. 哪个选项准确说明 impossible？",
+        "options": ["副词：可能地", "名词：可能性", "形容词：不可能的", "动词：使成为可能"],
+        "answer": 2,
+        "explanation": "possible 是形容词；否定 in- 在 p 前采用 im-，形成形容词 impossible。不能写成 inpossible。"
+      }
+    },
+    {
+      "id": "in-inside",
+      "label": "in-（进入／在内）",
+      "kind": "prefix",
+      "meaning": "在内；进入；向内",
+      "role": "表示方向或位置关系",
+      "inputPos": "词基或历史词根，许多并非独立英语单词",
+      "outputPos": "常见动词及其派生词；由整个词决定",
+      "explanation": "inject 的词源含有向内投送的关系，现代词义为注射、注入。这种 in- 与否定 in- 同形异义，需要结合整词及词源区分。",
+      "spelling": "历史构词中也可见 im- 等同化形式，如 import；这不代表 import 是否定词。按词典中的既有拼写记忆。",
+      "exceptions": "不能把所有 in 开头的词硬拆成前缀加独立单词，也不能把这一 in- 解释为不。词源线索用于辅助理解。",
+      "examples": [
+        { "word": "inject", "meaning": "注射；注入" },
+        { "word": "inhale", "meaning": "吸入；吸气" },
+        { "word": "import", "meaning": "进口；导入" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/in-",
+      "question": {
+        "prompt": "inject 的意思是注射、注入。它所含的 in- 最适合用哪种关系来理解？",
+        "options": ["没有进行注射", "再次进行注射", "在两次注射之间", "向内；进入"],
+        "answer": 3,
+        "explanation": "inject 的词源包含向内的方向义；这里不是否定 in-。现代词义要作为整个单词记忆。"
+      }
+    },
+    {
+      "id": "re-back",
+      "label": "re-",
+      "kind": "prefix",
+      "meaning": "再次；重新；向回",
+      "role": "改变动作的重复或返回含义",
+      "inputPos": "常见动词词基，也见于其他词基",
+      "outputPos": "通常保留词基词性，常见动词",
+      "explanation": "rewrite 表示重新写，rebuild 表示重建；recall 可表达召回或回忆。re- 有再次和向回两组常见含义，不能只记其中一组。",
+      "spelling": "常直接连接，如 rewrite；某些词为避免歧义使用连字符，如 re-cover（重新覆盖）与 recover（恢复）应分别查词条。",
+      "exceptions": "recent、real 等词开头的 re 不宜按重新机械解释。整词的现代含义可能已不等于各部分的字面相加。",
+      "examples": [
+        { "word": "rewrite", "meaning": "重写；改写" },
+        { "word": "rebuild", "meaning": "重建" },
+        { "word": "recall", "meaning": "回忆；召回" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/re-",
+      "question": {
+        "prompt": "Please rewrite the paragraph. rewrite 在这里是什么意思？",
+        "options": ["重新写这段文字", "停止写这段文字", "提前阅读这段文字", "在段落之间添加文字"],
+        "answer": 0,
+        "explanation": "write 表示写；re- 在 rewrite 中表示重新。rewrite 在这句祈使句中是动词。"
+      }
+    },
+    {
+      "id": "inter-between",
+      "label": "inter-",
+      "kind": "prefix",
+      "meaning": "在……之间；相互",
+      "role": "添加群体、事物或位置之间的关系",
+      "inputPos": "形容词、动词词基或历史词根",
+      "outputPos": "常保留词基词性；见于形容词、动词等",
+      "explanation": "international 表示国家之间的，即国际的；interact 表示相互作用。理解时应找出参与关系的双方或多个对象。",
+      "spelling": "通常写作 inter- 加词基，如 national → international；是否使用连字符以词条为准。",
+      "exceptions": "inter- 与 intra-（在内部）不同。单独的 inter 还有埋葬的动词用法，不能仅凭字母串判断词义。",
+      "examples": [
+        { "word": "international", "meaning": "国际的" },
+        { "word": "interact", "meaning": "相互作用；互动" },
+        { "word": "interdependent", "meaning": "相互依赖的" }
+      ],
+      "source": "https://dictionary.cambridge.org/us/dictionary/english/inter",
+      "question": {
+        "prompt": "international cooperation 中的 international 最合适的理解是？",
+        "options": ["某一国家内部的", "国家之间的；国际的", "国家出现之前的", "不属于国家的"],
+        "answer": 1,
+        "explanation": "inter- 表示之间；international 是形容词，修饰 cooperation，指国家之间的合作。"
+      }
+    },
+    {
+      "id": "trans-across",
+      "label": "trans-",
+      "kind": "prefix",
+      "meaning": "横越；穿过；转移或改变",
+      "role": "表示跨越边界或从一种状态到另一种状态",
+      "inputPos": "词基或历史词根",
+      "outputPos": "见于动词、形容词及其派生名词",
+      "explanation": "transatlantic 表示跨大西洋的；transport 涉及运输、转移，transform 涉及改变形式。由跨越联想到转移很有帮助，但要保留具体词义。",
+      "spelling": "不少单词采用 trans-，如 transform；某些借词的历史形式有所变化，不能据规则自行改拼写。",
+      "exceptions": "trans- 不只表示空间上的横穿，也可表示转变。它本身不能保证整词是动词。",
+      "examples": [
+        { "word": "transport", "meaning": "运输；运送" },
+        { "word": "transform", "meaning": "使改变；转变" },
+        { "word": "transatlantic", "meaning": "跨大西洋的" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/trans-",
+      "question": {
+        "prompt": "a transatlantic flight 中的 transatlantic 最接近哪个意思？",
+        "options": ["大西洋内部的", "大西洋形成以前的", "跨大西洋的", "再次飞向大西洋的"],
+        "answer": 2,
+        "explanation": "trans- 在这里表示横越、跨越；transatlantic 是修饰 flight 的形容词。"
+      }
+    },
+    {
+      "id": "dis-apart",
+      "label": "dis-",
+      "kind": "prefix",
+      "meaning": "分开；离开；否定或撤销",
+      "role": "改变含义，表达分离、反向动作或否定",
+      "inputPos": "常见动词、形容词词基，也见于历史词根",
+      "outputPos": "常保留词基词性；具体用法看整词",
+      "explanation": "disconnect 表示断开连接，discard 表示丢弃；dishonest 则是不诚实的。分开是词源线索，否定和撤销也是常见用法。",
+      "spelling": "现成英语词中常直接加 dis-，如 connect → disconnect。历史借词还可能出现不同形式，不据此自行造词。",
+      "exceptions": "dis- 不保证每个词都表示简单的分开；词义须结合整词。不能把它与 un-、in- 任意替换。",
+      "examples": [
+        { "word": "disconnect", "meaning": "断开；切断联系" },
+        { "word": "discard", "meaning": "丢弃；抛弃" },
+        { "word": "dishonest", "meaning": "不诚实的" }
+      ],
+      "source": "https://www.etymonline.com/word/dis-",
+      "question": {
+        "prompt": "Disconnect the cable before cleaning. disconnect 在句中表示什么？",
+        "options": ["再次连接电缆", "在电缆之间操作", "提前连接电缆", "断开电缆的连接"],
+        "answer": 3,
+        "explanation": "connect 表示连接；dis- 在 disconnect 中添加分离或撤销连接的含义，整词仍为动词。"
+      }
+    },
+    {
+      "id": "pre-before",
+      "label": "pre-",
+      "kind": "prefix",
+      "meaning": "在……之前；预先",
+      "role": "添加时间先后或事先准备的关系",
+      "inputPos": "常见动词、形容词或名词词基",
+      "outputPos": "常保留词基词性，部分组合另有派生用法",
+      "explanation": "prepay 表示预先付款，preview 表示预览；prehistoric 表示史前的。阅读时可以用在某事之前来检查理解是否符合语境。",
+      "spelling": "通常连写，如 prepay；有些组合带连字符，如 pre-war，按词典与使用场景记忆。",
+      "exceptions": "pre- 也有位于前面的空间义；并非所有 pre 开头的词都能按预先拆解。preview 可作名词或动词。",
+      "examples": [
+        { "word": "prepay", "meaning": "预先付款" },
+        { "word": "preview", "meaning": "预览；预告" },
+        { "word": "prehistoric", "meaning": "史前的" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/pre-",
+      "question": {
+        "prompt": "Guests must prepay for the room. prepay 表示哪种付款方式？",
+        "options": ["预先付款", "重新付款", "取消付款", "相互付款"],
+        "answer": 0,
+        "explanation": "pay 是动词；pre- 表示事先，因此 prepay 表示预先付款，句中仍作动词。"
+      }
+    },
+    {
+      "id": "ex-out",
+      "label": "ex-",
+      "kind": "prefix",
+      "meaning": "向外；从……出来；前任的",
+      "role": "表示向外的方向或曾经的身份",
+      "inputPos": "词基或历史词根；身份用法常接名词",
+      "outputPos": "见于动词、名词及其他派生词",
+      "explanation": "export 涉及向外运送，即出口；extract 涉及取出。ex-president 则表示前总统，使用的是曾经担任的含义。",
+      "spelling": "export、extract 通常连写；表示前任身份时常见 ex- 加连字符，如 ex-president。",
+      "exceptions": "ex- 不是统一的否定前缀，也不保证整词是动词。词源上的向外不能代替 export 等词的现代完整释义。",
+      "examples": [
+        { "word": "export", "meaning": "出口；输出" },
+        { "word": "extract", "meaning": "取出；提取" },
+        { "word": "ex-president", "meaning": "前总统" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/ex-",
+      "question": {
+        "prompt": "export goods 中的 export 与 import（进口）形成方向上的对照。ex- 的词源线索是什么？",
+        "options": ["向内", "向外", "再次", "在……之间"],
+        "answer": 1,
+        "explanation": "ex- 在 export 中包含向外的方向线索；export goods 表示出口货物。ex-president 中的 ex- 则表示前任。"
+      }
+    },
+    {
+      "id": "ness-noun",
+      "label": "-ness",
+      "kind": "suffix",
+      "meaning": "某种性质、状态或程度",
+      "role": "常把形容词转为抽象名词",
+      "inputPos": "常见形容词",
+      "outputPos": "名词",
+      "explanation": "kind → kindness 表示从友善的性质得到友善这一名词。判断句中需要性质名称时，-ness 是常见的名词线索。",
+      "spelling": "通常直接添加，如 kind → kindness；辅音字母加 y 的词常改 y 为 i，如 happy → happiness。",
+      "exceptions": "dry → dryness、shy → shyness 保留 y；不是每个形容词的常用名词都采用 -ness，仍须查词。",
+      "examples": [
+        { "word": "kindness", "meaning": "友善；善意" },
+        { "word": "happiness", "meaning": "快乐；幸福" },
+        { "word": "darkness", "meaning": "黑暗" }
+      ],
+      "source": "https://dictionary.cambridge.org/us/dictionary/english/ness",
+      "question": {
+        "prompt": "Thank you for your ____. 若要表达感谢你的善意，应填哪一个词？",
+        "options": ["kind", "kindly", "kindness", "kinder"],
+        "answer": 2,
+        "explanation": "your 后需要这里表示性质的名词；kind 加 -ness 得到 kindness。kind 是形容词，kindly 在不同语境有其他词性用法，kinder 是比较级。"
+      }
+    },
+    {
+      "id": "ment-noun",
+      "label": "-ment",
+      "kind": "suffix",
+      "meaning": "动作、过程、结果或由动作产生的状态",
+      "role": "常从动词形成名词",
+      "inputPos": "常见动词词基",
+      "outputPos": "名词",
+      "explanation": "develop → development，improve → improvement。-ment 形成的名词既可能指过程，也可能指结果或状态，具体中文含义由整词决定。",
+      "spelling": "不少词直接添加并保留 e，如 improve → improvement；argue → argument 则去掉 e，须单独记。",
+      "exceptions": "不是任何动词都能加 -ment。government 可指政府这一机构，不能每次只译成治理的动作。",
+      "examples": [
+        { "word": "development", "meaning": "发展；开发" },
+        { "word": "improvement", "meaning": "改善；改进" },
+        { "word": "agreement", "meaning": "协议；同意" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-ment",
+      "question": {
+        "prompt": "The team made an ____. 若意思是团队达成了协议，应填哪个词？",
+        "options": ["agree", "agreeable", "agreeably", "agreement"],
+        "answer": 3,
+        "explanation": "an 后在此需要单数名词；agree 的相关名词是 agreement，表示协议。-ment 在此提供名词线索。"
+      }
+    },
+    {
+      "id": "ion-noun",
+      "label": "-ion／-tion／-sion",
+      "kind": "suffix",
+      "meaning": "动作、过程、结果或状态",
+      "role": "常形成与动词有关的名词",
+      "inputPos": "常见动词词基或历史词干",
+      "outputPos": "名词",
+      "explanation": "act → action、educate → education、decide → decision 都是常见词族关系。这类结尾可帮助识别名词，但派生时常涉及词干与拼写变化。",
+      "spelling": "常见结尾包括 -tion、-sion、-ation；不能把它们当成可任意互换的拼写。把 educate／education、decide／decision 成对记。",
+      "exceptions": "不能统一按原词直接加 tion 造词。独立单词 ion（离子）也不是本卡的后缀用法。",
+      "examples": [
+        { "word": "action", "meaning": "行动；行为" },
+        { "word": "education", "meaning": "教育" },
+        { "word": "decision", "meaning": "决定；决策" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-ion",
+      "question": {
+        "prompt": "We need to make a ____. 若要表达作出决定，应填哪个词？",
+        "options": ["decision", "decide", "decisive", "decisively"],
+        "answer": 0,
+        "explanation": "make a decision 是作出决定；这里需要名词 decision。decide 是动词，decisive 是形容词，decisively 是副词。"
+      }
+    },
+    {
+      "id": "ity-noun",
+      "label": "-ity",
+      "kind": "suffix",
+      "meaning": "性质、状态或程度",
+      "role": "常从形容词形成抽象名词",
+      "inputPos": "常见形容词词基或历史词干",
+      "outputPos": "名词",
+      "explanation": "equal → equality、active → activity、responsible → responsibility 都呈现形容词与名词的关系。词义有时进一步具体化，如 activity 也可指某项活动。",
+      "spelling": "可能出现词干变化，如 active → activity；-able、-ible 的相关名词常有 -ability、-ibility 结尾，如 responsibility。",
+      "exceptions": "并非所有形容词都选用 -ity；发音和重音也可能改变。拼写与具体释义应随整个词一起记。",
+      "examples": [
+        { "word": "equality", "meaning": "平等" },
+        { "word": "activity", "meaning": "活动；活跃状态" },
+        { "word": "responsibility", "meaning": "责任" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-ity",
+      "question": {
+        "prompt": "Everyone should take ____. 若意思是每个人都应承担责任，应填哪个词？",
+        "options": ["responsible", "responsibility", "responsibly", "irresponsible"],
+        "answer": 1,
+        "explanation": "take responsibility 表示承担责任；responsibility 是名词。responsible 与 irresponsible 是形容词，responsibly 是副词。"
+      }
+    },
+    {
+      "id": "ive-adj",
+      "label": "-ive",
+      "kind": "suffix",
+      "meaning": "具有某种作用或倾向的",
+      "role": "常构成形容词",
+      "inputPos": "常见动词词基或历史词干",
+      "outputPos": "常见形容词；部分整词另有名词用法",
+      "explanation": "attract → attractive 表示有吸引力的；create → creative 表示有创造力的。-ive 往往把动作联系到某种性质、作用或倾向。",
+      "spelling": "有时直接加，如 attract → attractive；有时改变词尾，如 create → creative。不同词族按既有形式记。",
+      "exceptions": "并非每个动词都能加 -ive；某些 -ive 词还可作名词，实际词性应结合句子判断。",
+      "examples": [
+        { "word": "active", "meaning": "活跃的；积极的" },
+        { "word": "attractive", "meaning": "有吸引力的" },
+        { "word": "creative", "meaning": "有创造力的" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-ive",
+      "question": {
+        "prompt": "The plan sounds ____. 若要表达计划听起来很有吸引力，应填哪个词？",
+        "options": ["attract", "attraction", "attractive", "attractively"],
+        "answer": 2,
+        "explanation": "sounds 在这里是系动词，后面用形容词 attractive 描述 plan。attract 是动词，attraction 是名词，attractively 是副词。"
+      }
+    },
+    {
+      "id": "able-adj",
+      "label": "-able／-ible",
+      "kind": "suffix",
+      "meaning": "能够被……的；适合……的；具有某种倾向的",
+      "role": "常构成形容词",
+      "inputPos": "常见动词词基，也见于其他词基",
+      "outputPos": "常见形容词",
+      "explanation": "readable 表示可读的、易读的，acceptable 表示可接受的。能被某动作作用是常见线索，但 comfortable 等词的完整含义须另外记。",
+      "spelling": "-able 与 -ible 的选择由既有单词决定，如 acceptable、accessible。read → readable；use → usable 可涉及去掉 e。",
+      "exceptions": "不能任意互换 -able 与 -ible，也不能把所有例词逐字译成能够被……。是否保留词尾字母须查词。",
+      "examples": [
+        { "word": "readable", "meaning": "可读的；易读的" },
+        { "word": "acceptable", "meaning": "可接受的" },
+        { "word": "accessible", "meaning": "可进入的；易获取的" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-able",
+      "question": {
+        "prompt": "The article is readable. readable 最合适的解释是哪一项？",
+        "options": ["名词：一次阅读", "动词：再次阅读", "副词：阅读地", "形容词：易读的"],
+        "answer": 3,
+        "explanation": "readable 由 read 的相关词基加 -able 构成，表示可读、易读；句中位于 is 后，是形容词。"
+      }
+    },
+    {
+      "id": "al-adj",
+      "label": "-al（形容词）",
+      "kind": "suffix",
+      "meaning": "与……有关的；具有……特征的",
+      "role": "常构成表示关系的形容词",
+      "inputPos": "常见名词词基或历史词干",
+      "outputPos": "常见形容词",
+      "explanation": "nation → national 表示国家的；culture → cultural 表示文化的。-al 常把某个事物名称变成描述相关性质的词。",
+      "spelling": "部分直接加，如 nation → national；部分去掉词尾 e，如 culture → cultural。按词族记忆拼写。",
+      "exceptions": "-al 另有名词后缀用法，如 arrival、refusal。本卡讲形容词用法，不能只凭 al 结尾断定整词是形容词。",
+      "examples": [
+        { "word": "national", "meaning": "国家的；全国的" },
+        { "word": "cultural", "meaning": "文化的" },
+        { "word": "personal", "meaning": "个人的" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-al",
+      "question": {
+        "prompt": "cultural differences 中的 cultural 起什么作用？",
+        "options": ["形容词，表示文化的并修饰 differences", "名词，表示一种文化", "副词，表示有文化地", "动词，表示培养"],
+        "answer": 0,
+        "explanation": "culture 是名词；cultural 是相关形容词，在这里修饰名词 differences，表示文化差异。"
+      }
+    },
+    {
+      "id": "ly-adverb",
+      "label": "-ly（副词）",
+      "kind": "suffix",
+      "meaning": "以某种方式；在某种程度或时间上",
+      "role": "常把形容词转为副词",
+      "inputPos": "常见形容词",
+      "outputPos": "常见副词",
+      "explanation": "slow → slowly、careful → carefully 常用来说明动作如何进行。副词也可修饰形容词或其他副词，具体功能看句子。",
+      "spelling": "通常加 -ly；happy → happily 常改 y 为 i；comfortable → comfortably 使用 -bly 结尾；public → publicly 要单独注意。",
+      "exceptions": "-ly 也有形容词用法。friendly、lovely、lonely 常作形容词；在 a friendly teacher 中，friendly 修饰名词。fast 也可直接作副词。",
+      "examples": [
+        { "word": "slowly", "meaning": "缓慢地" },
+        { "word": "carefully", "meaning": "仔细地" },
+        { "word": "happily", "meaning": "快乐地" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-ly",
+      "question": {
+        "prompt": "She is a friendly teacher. 这句话中 friendly 的词性是什么？",
+        "options": ["副词，因为它以 ly 结尾", "形容词，因为它修饰 teacher", "动词，因为它表示交朋友", "名词，因为它表示友谊"],
+        "answer": 1,
+        "explanation": "friendly 在这里表示友好的，是修饰 teacher 的形容词。-ly 常构成副词，但不能仅凭结尾决定整词词性。"
+      }
+    },
+    {
+      "id": "er-agent",
+      "label": "-er（人／物）",
+      "kind": "suffix",
+      "meaning": "做某动作的人或物；与某事相关的人",
+      "role": "常从动词构成人或工具的名词",
+      "inputPos": "常见动词；部分名词或形容词词基",
+      "outputPos": "名词",
+      "explanation": "teach → teacher 指教书的人，print → printer 可指打印机。-er 的动作执行者既可能是人，也可能是工具或设备。",
+      "spelling": "teach → teacher 直接加；write → writer 去掉 e；run → runner 双写 n。变化按具体词条记忆。",
+      "exceptions": "taller 中的 -er 是比较级，功能不同；不是所有 er 结尾都是执行者。-er 与 -or 不能任意替换。",
+      "examples": [
+        { "word": "teacher", "meaning": "教师" },
+        { "word": "worker", "meaning": "工作者；工人" },
+        { "word": "printer", "meaning": "打印机；印刷工人" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-er",
+      "question": {
+        "prompt": "The printer is broken. 句中的 printer 最合适的分析是哪一项？",
+        "options": ["表示更会打印的比较级形容词", "表示打印过程的副词", "表示打印设备的名词", "表示正在打印的动词"],
+        "answer": 2,
+        "explanation": "这里 printer 表示打印机，是名词。动作执行者后缀 -er 不只指人，也可指执行动作的设备。"
+      }
+    },
+    {
+      "id": "or-agent",
+      "label": "-or（人／物）",
+      "kind": "suffix",
+      "meaning": "做某动作的人或物",
+      "role": "常构成执行者的名词",
+      "inputPos": "常见动词词基或历史词干",
+      "outputPos": "名词",
+      "explanation": "act → actor 表示演员，direct → director 表示主管或导演。-or 与 -er 的执行者含义相近，但哪个拼写存在由具体词决定。",
+      "spelling": "常见关系有 act → actor、direct → director；translate → translator 涉及去掉 e。不能仅凭声音猜 -er 或 -or。",
+      "exceptions": "elevator 是设备，说明 -or 不限于人。另有其他历史 -or 用法，不能把所有 or 结尾都解释为执行者。",
+      "examples": [
+        { "word": "actor", "meaning": "演员" },
+        { "word": "director", "meaning": "主管；导演" },
+        { "word": "translator", "meaning": "译者；翻译器" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-or",
+      "question": {
+        "prompt": "She works as a translator. translator 在这句话中指什么？",
+        "options": ["翻译这项动作", "可以翻译的性质", "以翻译方式进行", "从事翻译的人"],
+        "answer": 3,
+        "explanation": "translator 在这里是表示职业的名词，指译者；相关动词是 translate。-or 提供执行动作的人这一线索。"
+      }
+    },
+    {
+      "id": "ful-adj",
+      "label": "-ful（形容词）",
+      "kind": "suffix",
+      "meaning": "充满……的；具有……特征的；有……作用的",
+      "role": "常从名词或动词词基构成形容词",
+      "inputPos": "常见名词，也见于动词词基",
+      "outputPos": "常见形容词",
+      "explanation": "careful 表示小心的、仔细的，helpful 表示有帮助的。-ful 的充满是记忆线索，不要求每个词都用充满……逐字翻译。",
+      "spelling": "后缀 -ful 只有一个 l：useful、careful；构成副词时加 -ly，careful → carefully 才出现连续两个 l。",
+      "exceptions": "handful 中的 -ful 构成表示数量的名词。awful 等词的现代含义需要整体记忆，不能机械套用。",
+      "examples": [
+        { "word": "careful", "meaning": "仔细的；小心的" },
+        { "word": "helpful", "meaning": "有帮助的" },
+        { "word": "useful", "meaning": "有用的" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-ful",
+      "question": {
+        "prompt": "This guide is useful. useful 最合适的分析是哪一项？",
+        "options": ["形容词：有用的", "名词：使用者", "副词：有用地", "动词：重新使用"],
+        "answer": 0,
+        "explanation": "useful 在 is 后描述 guide，是形容词，表示有用的。-ful 在这个词中提供具有用途的线索，拼写只有一个 l。"
+      }
+    },
+    {
+      "id": "less-adj",
+      "label": "-less",
+      "kind": "suffix",
+      "meaning": "没有……的；缺乏……的",
+      "role": "常构成带缺乏含义的形容词",
+      "inputPos": "常见名词词基，也见于动词词基",
+      "outputPos": "常见形容词",
+      "explanation": "careless 表示粗心的，homeless 表示无家可归的，hopeless 表示没有希望的。根据词义可与部分 -ful 词对照记忆。",
+      "spelling": "常直接加 -less，如 care → careless，保留 care 的 e；不要因为其他后缀会去 e 就一律去掉。",
+      "exceptions": "-less 与 -ful 不总能构成直接反义词；priceless 常表示极珍贵的，而不是毫无价值的。独立单词 less 也有自己的用法。",
+      "examples": [
+        { "word": "careless", "meaning": "粗心的" },
+        { "word": "homeless", "meaning": "无家可归的" },
+        { "word": "hopeless", "meaning": "没有希望的" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-less",
+      "question": {
+        "prompt": "A careless mistake 中的 careless 是什么意思？",
+        "options": ["仔细的", "粗心的", "更仔细的", "仔细地"],
+        "answer": 1,
+        "explanation": "careless 是形容词，修饰 mistake；-less 在这里提供缺乏小心的线索，形成粗心的含义。"
+      }
+    },
+    {
+      "id": "er-comparative",
+      "label": "-er（比较级）",
+      "kind": "suffix",
+      "meaning": "更……；程度更高",
+      "role": "形成部分形容词或副词的比较级",
+      "inputPos": "许多单音节形容词、副词及部分双音节词",
+      "outputPos": "形容词或副词的比较级形式",
+      "explanation": "tall → taller 表示更高；fast → faster 可用于形容词或副词的比较。这是程度变化，与 teacher 中构成名词的 -er 不同。",
+      "spelling": "常直接加 -er；nice → nicer 只加 r；big → bigger 双写 g；happy → happier 改 y 为 i。",
+      "exceptions": "不是每个形容词都加 -er；beautiful 通常用 more beautiful。good → better、bad → worse 属不规则形式。",
+      "examples": [
+        { "word": "taller", "meaning": "更高的" },
+        { "word": "happier", "meaning": "更快乐的" },
+        { "word": "faster", "meaning": "更快的；更快地" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-er",
+      "question": {
+        "prompt": "This building is taller than that one. taller 中的 -er 表示什么？",
+        "options": ["从事建筑的人", "高度这一抽象性质", "更高的程度", "没有高度"],
+        "answer": 2,
+        "explanation": "taller 是 tall 的比较级，句中用于比较两座建筑的高度；此处 -er 不构成表示人的名词。"
+      }
+    },
+    {
+      "id": "ous-adj",
+      "label": "-ous",
+      "kind": "suffix",
+      "meaning": "具有……性质的；充满……的",
+      "role": "常构成形容词",
+      "inputPos": "常见名词词基或历史词干",
+      "outputPos": "常见形容词",
+      "explanation": "danger → dangerous 表示危险的，poison → poisonous 表示有毒的。-ous 常提供具有某种特征的线索，完整释义仍由单词决定。",
+      "spelling": "danger → dangerous 可直接加；fame → famous 去 e；各词族也可能出现 -ious 等不同拼写，需一起记。",
+      "exceptions": "并非每个名词都能加 -ous。-ous 在某些化学名称中另有专门含义，本卡侧重常见的一般形容词用法。",
+      "examples": [
+        { "word": "dangerous", "meaning": "危险的" },
+        { "word": "poisonous", "meaning": "有毒的" },
+        { "word": "famous", "meaning": "著名的" }
+      ],
+      "source": "https://www.merriam-webster.com/dictionary/-ous",
+      "question": {
+        "prompt": "The road is dangerous. dangerous 最合适的分析是哪一项？",
+        "options": ["名词：危险", "副词：危险地", "动词：使陷入危险", "形容词：危险的"],
+        "answer": 3,
+        "explanation": "danger 是名词；dangerous 是相关形容词，在句中位于 is 后，描述 road 的性质。"
+      }
+    }
+  ]
+}

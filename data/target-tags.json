@@ -1,0 +1,3238 @@
+{
+  "edition": "2016 revised",
+  "generatedAt": "2026-10-08T12:30:06.285028+00:00",
+  "sourceUrl": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+  "complete": false,
+  "words": {
+    "act": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 22,
+          "printedPage": 17,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "act",
+          "sourceDerivatives": "action acting",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "action": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 22,
+          "printedPage": 17,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "act",
+          "sourceDerivatives": "action acting",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "active": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 22,
+          "printedPage": 17,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "active",
+          "sourceDerivatives": "activity activist",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "activity": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 22,
+          "printedPage": 17,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "active",
+          "sourceDerivatives": "activity activist",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "actor": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 22,
+          "printedPage": 17,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "actor",
+          "sourceDerivatives": "actress",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "react": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 113,
+          "printedPage": 108,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "react",
+          "sourceDerivatives": "reaction reactionary",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "reaction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 113,
+          "printedPage": 108,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "react",
+          "sourceDerivatives": "reaction reactionary",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "interact": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 82,
+          "printedPage": 77,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "interact",
+          "sourceDerivatives": "interaction interactive",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "interaction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 82,
+          "printedPage": 77,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "interact",
+          "sourceDerivatives": "interaction interactive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "activate": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 22,
+          "printedPage": 17,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "activate",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "portable": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 108,
+          "printedPage": 103,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "port",
+          "sourceDerivatives": "portable porter",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "transport": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 139,
+          "printedPage": 134,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "transport",
+          "sourceDerivatives": "transportation",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "transportation": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 139,
+          "printedPage": 134,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "transport",
+          "sourceDerivatives": "transportation",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "import": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 80,
+          "printedPage": 75,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "import",
+          "sourceDerivatives": "importation",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "export": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 64,
+          "printedPage": 59,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "export",
+          "sourceDerivatives": "exportation",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "report": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 116,
+          "printedPage": 111,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "report",
+          "sourceDerivatives": "reporter",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "reporter": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 116,
+          "printedPage": 111,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "report",
+          "sourceDerivatives": "reporter",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "support": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 132,
+          "printedPage": 127,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "support",
+          "sourceDerivatives": "supportive supporter",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "supporter": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 132,
+          "printedPage": 127,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "support",
+          "sourceDerivatives": "supportive supporter",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "supportive": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 132,
+          "printedPage": 127,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "support",
+          "sourceDerivatives": "supportive supporter",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "inspect": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 82,
+          "printedPage": 77,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "inspect",
+          "sourceDerivatives": "inspection inspector",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "inspection": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 82,
+          "printedPage": 77,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "inspect",
+          "sourceDerivatives": "inspection inspector",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "inspector": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 82,
+          "printedPage": 77,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "inspect",
+          "sourceDerivatives": "inspection inspector",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "respect": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 116,
+          "printedPage": 111,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "respect",
+          "sourceDerivatives": "respectable respectful",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "respectful": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 116,
+          "printedPage": 111,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "respect",
+          "sourceDerivatives": "respectable respectful",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "suspect": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 133,
+          "printedPage": 128,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "suspect",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "suspicion": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 133,
+          "printedPage": 128,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "suspicion",
+          "sourceDerivatives": "suspicious",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "spectator": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 127,
+          "printedPage": 122,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "spectator",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "spectacle": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 127,
+          "printedPage": 122,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "spectacle",
+          "sourceDerivatives": "spectacular",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "prospect": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 111,
+          "printedPage": 106,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "prospect",
+          "sourceDerivatives": "prospective",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "perspective": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 105,
+          "printedPage": 100,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "perspective",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "dictate": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 55,
+          "printedPage": 50,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "dictate",
+          "sourceDerivatives": "dictation dictator",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "dictation": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 55,
+          "printedPage": 50,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "dictate",
+          "sourceDerivatives": "dictation dictator",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "dictator": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 55,
+          "printedPage": 50,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "dictate",
+          "sourceDerivatives": "dictation dictator",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "dictionary": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 55,
+          "printedPage": 50,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "dictionary",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "predict": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 109,
+          "printedPage": 104,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "predict",
+          "sourceDerivatives": "prediction predictable",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "prediction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 109,
+          "printedPage": 104,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "predict",
+          "sourceDerivatives": "prediction predictable",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "predictable": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 109,
+          "printedPage": 104,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "predict",
+          "sourceDerivatives": "prediction predictable",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "contradict": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 47,
+          "printedPage": 42,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "contradict",
+          "sourceDerivatives": "contradiction contradictory",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "contradiction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 47,
+          "printedPage": 42,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "contradict",
+          "sourceDerivatives": "contradiction contradictory",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "verdict": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 143,
+          "printedPage": 138,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "verdict",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 85,
+          "printedPage": 80,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "jurisdiction",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "attract": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 28,
+          "printedPage": 23,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "attract",
+          "sourceDerivatives": "attraction attractive",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "attraction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 28,
+          "printedPage": 23,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "attract",
+          "sourceDerivatives": "attraction attractive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "attractive": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 28,
+          "printedPage": 23,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "attract",
+          "sourceDerivatives": "attraction attractive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "distract": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 57,
+          "printedPage": 52,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "distract",
+          "sourceDerivatives": "distraction",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "distraction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 57,
+          "printedPage": 52,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "distract",
+          "sourceDerivatives": "distraction",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "extract": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 65,
+          "printedPage": 60,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "extract",
+          "sourceDerivatives": "extraction",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "extraction": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 65,
+          "printedPage": 60,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "extract",
+          "sourceDerivatives": "extraction",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "contract": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 47,
+          "printedPage": 42,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "contract１",
+          "sourceDerivatives": "contractor",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        },
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 47,
+          "printedPage": 42,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "contract２",
+          "sourceDerivatives": "contraction",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "contraction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 47,
+          "printedPage": 42,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "contract２",
+          "sourceDerivatives": "contraction",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "abstract": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 21,
+          "printedPage": 16,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "abstract",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "reject": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 115,
+          "printedPage": 110,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "reject",
+          "sourceDerivatives": "rejection",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "rejection": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 115,
+          "printedPage": 110,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "reject",
+          "sourceDerivatives": "rejection",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "project": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 110,
+          "printedPage": 105,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "project１",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        },
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 110,
+          "printedPage": 105,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "project２",
+          "sourceDerivatives": "projector projection",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "projection": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 110,
+          "printedPage": 105,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "project２",
+          "sourceDerivatives": "projector projection",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "inject": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 81,
+          "printedPage": 76,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "inject",
+          "sourceDerivatives": "injection",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "injection": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 81,
+          "printedPage": 76,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "inject",
+          "sourceDerivatives": "injection",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "subject": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 131,
+          "printedPage": 126,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "subject１",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        },
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 131,
+          "printedPage": 126,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "subject２",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "subjective": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 131,
+          "printedPage": 126,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "subjective",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "object": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 99,
+          "printedPage": 94,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "object１",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        },
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 99,
+          "printedPage": 94,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "object２",
+          "sourceDerivatives": "objection",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "objection": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 99,
+          "printedPage": 94,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "object２",
+          "sourceDerivatives": "objection",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "objective": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 99,
+          "printedPage": 94,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "objective",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "form": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 69,
+          "printedPage": 64,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "form",
+          "sourceDerivatives": "formation",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "formal": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 69,
+          "printedPage": 64,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "formal",
+          "sourceDerivatives": "formality",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "formation": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 69,
+          "printedPage": 64,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "form",
+          "sourceDerivatives": "formation",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "reform": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 114,
+          "printedPage": 109,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "reform",
+          "sourceDerivatives": "reformation reformist",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "transform": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 139,
+          "printedPage": 134,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "transform",
+          "sourceDerivatives": "transformation",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "transformation": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 139,
+          "printedPage": 134,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "transform",
+          "sourceDerivatives": "transformation",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "inform": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 81,
+          "printedPage": 76,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "inform",
+          "sourceDerivatives": "information informative informant",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "information": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 81,
+          "printedPage": 76,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "inform",
+          "sourceDerivatives": "information informative informant",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "informative": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 81,
+          "printedPage": 76,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "inform",
+          "sourceDerivatives": "information informative informant",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "conform": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 46,
+          "printedPage": 41,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "conform",
+          "sourceDerivatives": "conformity",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "structure": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 131,
+          "printedPage": 126,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "structure",
+          "sourceDerivatives": "structural",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "structural": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 131,
+          "printedPage": 126,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "structure",
+          "sourceDerivatives": "structural",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "construct": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 47,
+          "printedPage": 42,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "construct",
+          "sourceDerivatives": "construction",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "construction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 47,
+          "printedPage": 42,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "construct",
+          "sourceDerivatives": "construction",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "instruct": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 82,
+          "printedPage": 77,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "instruct",
+          "sourceDerivatives": "instruction instructor instructive",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "instruction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 82,
+          "printedPage": 77,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "instruct",
+          "sourceDerivatives": "instruction instructor instructive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "instructor": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 82,
+          "printedPage": 77,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "instruct",
+          "sourceDerivatives": "instruction instructor instructive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "destruction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 54,
+          "printedPage": 49,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "destroy",
+          "sourceDerivatives": "destruction destructive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "destructive": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 54,
+          "printedPage": 49,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "destroy",
+          "sourceDerivatives": "destruction destructive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "credit": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 50,
+          "printedPage": 45,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "credit",
+          "sourceDerivatives": "creditable",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "credible": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 49,
+          "printedPage": 44,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "credible",
+          "sourceDerivatives": "credibility",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "incredible": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 80,
+          "printedPage": 75,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "incredible",
+          "sourceDerivatives": "incredibly",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "credibility": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 49,
+          "printedPage": 44,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "credible",
+          "sourceDerivatives": "credibility",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "incredibly": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 80,
+          "printedPage": 75,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "incredible",
+          "sourceDerivatives": "incredibly",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "credential": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 49,
+          "printedPage": 44,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "credential",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "describe": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 54,
+          "printedPage": 49,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "describe",
+          "sourceDerivatives": "description descriptive",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "description": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 54,
+          "printedPage": 49,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "describe",
+          "sourceDerivatives": "description descriptive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "descriptive": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 54,
+          "printedPage": 49,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "describe",
+          "sourceDerivatives": "description descriptive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "prescribe": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 109,
+          "printedPage": 104,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "prescribe",
+          "sourceDerivatives": "prescription",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "prescription": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 109,
+          "printedPage": 104,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "prescribe",
+          "sourceDerivatives": "prescription",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "script": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 120,
+          "printedPage": 115,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "script",
+          "sourceDerivatives": "scripture",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "manuscript": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 91,
+          "printedPage": 86,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "manuscript",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "transcript": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 138,
+          "printedPage": 133,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "transcript",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "subscribe": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 131,
+          "printedPage": 126,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "subscribe",
+          "sourceDerivatives": "subscription subscriber",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "subscription": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 131,
+          "printedPage": 126,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "subscribe",
+          "sourceDerivatives": "subscription subscriber",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "audio": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 29,
+          "printedPage": 24,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "audio",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "audience": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 29,
+          "printedPage": 24,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "audience",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "audit": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 29,
+          "printedPage": 24,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "audit",
+          "sourceDerivatives": "auditing auditor",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "auditor": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 29,
+          "printedPage": 24,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "audit",
+          "sourceDerivatives": "auditing auditor",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "auditorium": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 29,
+          "printedPage": 24,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "auditorium",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "vision": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 144,
+          "printedPage": 139,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "vision",
+          "sourceDerivatives": "visionary",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "visible": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 144,
+          "printedPage": 139,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "visible",
+          "sourceDerivatives": "visibility",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "invisible": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 83,
+          "printedPage": 78,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "invisible",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "visibility": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 144,
+          "printedPage": 139,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "visible",
+          "sourceDerivatives": "visibility",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "visual": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 144,
+          "printedPage": 139,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "visual",
+          "sourceDerivatives": "visualize/Ｇise",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "visualize": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 144,
+          "printedPage": 139,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "visual",
+          "sourceDerivatives": "visualize/Ｇise",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "revise": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 117,
+          "printedPage": 112,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "revise",
+          "sourceDerivatives": "revision",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "revision": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 117,
+          "printedPage": 112,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "revise",
+          "sourceDerivatives": "revision",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "supervise": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 132,
+          "printedPage": 127,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "supervise",
+          "sourceDerivatives": "supervision supervisor",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "supervision": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 132,
+          "printedPage": 127,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "supervise",
+          "sourceDerivatives": "supervision supervisor",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "television": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 134,
+          "printedPage": 129,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "television/TV",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "admit": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 22,
+          "printedPage": 17,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "admit",
+          "sourceDerivatives": "admission admittance admittedly",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "admission": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 22,
+          "printedPage": 17,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "admit",
+          "sourceDerivatives": "admission admittance admittedly",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "permit": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 105,
+          "printedPage": 100,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "permit",
+          "sourceDerivatives": "permission permissible permissive",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "permission": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 105,
+          "printedPage": 100,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "permit",
+          "sourceDerivatives": "permission permissible permissive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "submit": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 131,
+          "printedPage": 126,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "submit",
+          "sourceDerivatives": "submission submissive",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "submission": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 131,
+          "printedPage": 126,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "submit",
+          "sourceDerivatives": "submission submissive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "transmit": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 139,
+          "printedPage": 134,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "transmit",
+          "sourceDerivatives": "transmission transmitter",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "transmission": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 139,
+          "printedPage": 134,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "transmit",
+          "sourceDerivatives": "transmission transmitter",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "commit": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 44,
+          "printedPage": 39,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "commit",
+          "sourceDerivatives": "commitment",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "commitment": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 44,
+          "printedPage": 39,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "commit",
+          "sourceDerivatives": "commitment",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "emit": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 61,
+          "printedPage": 56,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "emit",
+          "sourceDerivatives": "emission",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "produce": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 110,
+          "printedPage": 105,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "produce",
+          "sourceDerivatives": "production productive productivity",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "product": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 110,
+          "printedPage": 105,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "product",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "production": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 110,
+          "printedPage": 105,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "produce",
+          "sourceDerivatives": "production productive productivity",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "productive": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 110,
+          "printedPage": 105,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "produce",
+          "sourceDerivatives": "production productive productivity",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "reduce": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 114,
+          "printedPage": 109,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "reduce",
+          "sourceDerivatives": "reduction",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "reduction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 114,
+          "printedPage": 109,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "reduce",
+          "sourceDerivatives": "reduction",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "introduce": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 83,
+          "printedPage": 78,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "introduce",
+          "sourceDerivatives": "introduction introductory",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "introduction": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 83,
+          "printedPage": 78,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "introduce",
+          "sourceDerivatives": "introduction introductory",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "conduct": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 46,
+          "printedPage": 41,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "conduct",
+          "sourceDerivatives": "conductor",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "conductor": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 46,
+          "printedPage": 41,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "conduct",
+          "sourceDerivatives": "conductor",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "reproduce": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 116,
+          "printedPage": 111,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "reproduce",
+          "sourceDerivatives": "reproduction reproductive",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "press": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 109,
+          "printedPage": 104,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "press１",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        },
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 109,
+          "printedPage": 104,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "press２",
+          "sourceDerivatives": "pressure pressing",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "pressure": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 109,
+          "printedPage": 104,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "press２",
+          "sourceDerivatives": "pressure pressing",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "impress": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 80,
+          "printedPage": 75,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "impress",
+          "sourceDerivatives": "impression impressive",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "impression": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 80,
+          "printedPage": 75,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "impress",
+          "sourceDerivatives": "impression impressive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "impressive": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 80,
+          "printedPage": 75,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "impress",
+          "sourceDerivatives": "impression impressive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "express": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 64,
+          "printedPage": 59,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "express",
+          "sourceDerivatives": "expression expressive",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "expression": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 64,
+          "printedPage": 59,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "express",
+          "sourceDerivatives": "expression expressive",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "depress": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 53,
+          "printedPage": 48,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "depress",
+          "sourceDerivatives": "depression",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "depression": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 53,
+          "printedPage": 48,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "depress",
+          "sourceDerivatives": "depression",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "compress": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 45,
+          "printedPage": 40,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "compress",
+          "sourceDerivatives": "compression",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "compression": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 45,
+          "printedPage": 40,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "compress",
+          "sourceDerivatives": "compression",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "interrupt": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 83,
+          "printedPage": 78,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "interrupt",
+          "sourceDerivatives": "interruption",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "interruption": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 83,
+          "printedPage": 78,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "interrupt",
+          "sourceDerivatives": "interruption",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "disrupt": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 56,
+          "printedPage": 51,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "disrupt",
+          "sourceDerivatives": "disruptive disruption",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "disruption": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 56,
+          "printedPage": 51,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "disrupt",
+          "sourceDerivatives": "disruptive disruption",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "disruptive": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 56,
+          "printedPage": 51,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "disrupt",
+          "sourceDerivatives": "disruptive disruption",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "erupt": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 62,
+          "printedPage": 57,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "erupt",
+          "sourceDerivatives": "eruption",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "eruption": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 62,
+          "printedPage": 57,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "erupt",
+          "sourceDerivatives": "eruption",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "corrupt": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 48,
+          "printedPage": 43,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "corrupt",
+          "sourceDerivatives": "corruption",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "corruption": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 48,
+          "printedPage": 43,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "corrupt",
+          "sourceDerivatives": "corruption",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "bankrupt": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 30,
+          "printedPage": 25,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "bankrupt",
+          "sourceDerivatives": "bankruptcy",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "bankruptcy": {
+      "targets": [
+        "cet4",
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 30,
+          "printedPage": 25,
+          "sourceLevel": "cet4",
+          "sourceHeadword": "bankrupt",
+          "sourceDerivatives": "bankruptcy",
+          "matchKind": "literal-listed-derivative",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    },
+    "abrupt": {
+      "targets": [
+        "cet6"
+      ],
+      "evidence": [
+        {
+          "source": "全国大学英语四、六级考试大纲（2016年修订版）",
+          "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+          "pdfPage": 21,
+          "printedPage": 16,
+          "sourceLevel": "cet6",
+          "sourceHeadword": "abrupt",
+          "sourceDerivatives": "",
+          "matchKind": "literal-headword-token",
+          "cet6Basis": "union of unstarred CET4 entries and starred CET6 increment entries",
+          "verification": "positive literal table occurrence; source extraction under final QA"
+        }
+      ]
+    }
+  },
+  "counts": {
+    "appWords": 190,
+    "positiveMatches": 159,
+    "cet4": 137,
+    "cet6": 159,
+    "unmatchedNotNegativelyClassified": 31
+  },
+  "notes": [
+    "仅正向匹配；未匹配不等于非考试词。",
+    "六级目标采用四级基础及★标六级增量的并集，sourceLevel保留大纲原始分级。",
+    "IELTS标签未生成：雅思精选范围须另行声明并核验，不假定存在对应的官方闭合词表。"
+  ]
+}

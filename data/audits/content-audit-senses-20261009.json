@@ -1,0 +1,139 @@
+{
+  "auditDate": "2026-10-09",
+  "scope": "当前12独立义项的现代词性/释义/例句/基本音标与构词误导风险阅读检查，Oxford原始词典逐义项核验；produce/conduct/conductor来源发展另查Etymonline。不是全573词重新逐源审核。",
+  "examTagsCaveat": "义项保留单独targets与进度，考试词目不自动证明该拓展义为基础熟词。",
+  "examplesFile": "examples-senses-extra.json",
+  "examplesCount": 4,
+  "reviewed": [
+    {
+      "studyId": "contract::contract-sense-shrink",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/contract_2",
+      "result": "动词收缩/缩小义、后重音、expand对照与原卡一致。"
+    },
+    {
+      "studyId": "contract::contract-sense-illness",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/contract_2",
+      "result": "及物动词患病义、正式语域、contract a disease搭配与原卡一致。注意这两个特定义项是后重音，但同页签订法律约定的其它动词义可前重音，不能泛化为所有contract动词一律后重音。"
+    },
+    {
+      "studyId": "abstract::abstract-sense-summary",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/abstract_2",
+      "result": "名词摘要义、前重音、summary对照与原卡一致。原Cambridge链接本轮403，采用Oxford名词第二义交叉核验，没有说原链接失效或删改来源。"
+    },
+    {
+      "studyId": "project::project-sense-forecast",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/project_2",
+      "result": "动词预测/估计未来规模金额义，后重音、常用被动、forecast对照与原卡一致。"
+    },
+    {
+      "studyId": "subject::subject-sense-topic",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/subject_1",
+      "result": "名词讨论研究对象即话题，subject of搭配与前重音正确。"
+    },
+    {
+      "studyId": "subject::subject-sense-liable",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/subject_2",
+      "result": "形容词subject to的可能受影响和以条件为基础两个用法，常見change/approval，前重音正确。"
+    },
+    {
+      "studyId": "object::object-sense-thing",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/object_1",
+      "result": "物体名词义，非生命、可见可触，前重音UK/US均有来源；不是反对动词义。"
+    },
+    {
+      "studyId": "credit::credit-sense-praise",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/credit_1",
+      "result": "不可数名词功劳/肯定义第8义，give credit for、deserve credit对应原卡；没有继承信贷义解释。"
+    },
+    {
+      "studyId": "produce::agricultural-goods",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/produce_2",
+      "result": "不可数名词农产品、fresh/local/seasonal搭配与前重音正确。Oxford列美音长o与ɑ变体，未把变体错判；原Cambridge UK /dʒ/与本轮Oxford /dj/表记不完全相同，未独立复核Cambridge原音标字符串，不凭这个差异改音标。"
+    },
+    {
+      "studyId": "conduct::transmit-heat-electricity",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/conduct_1",
+      "result": "动词第5义为材料传热/电，与原卡释义、后重音正确。原Cambridge页本轮403，用Oxford核验。"
+    },
+    {
+      "studyId": "conduct::behaviour",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/conduct_2",
+      "result": "正式不可数名词行为方式、code of conduct与professional conduct、前重音正确。"
+    },
+    {
+      "studyId": "conductor::music-director",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/conductor",
+      "result": "乐团或合唱团前方指挥表演的职业者，当前定义、重音与职业联想正确，与导体义分开。"
+    }
+  ],
+  "sourceValidatedMorphology": [
+    {
+      "url": "https://www.etymonline.com/word/produce",
+      "result": "名词由动词转用后形成农产品专门义；pro-/duc词源线索不是给动词加隐藏名词后缀。"
+    },
+    {
+      "url": "https://www.etymonline.com/word/conduct",
+      "result": "传导动词与行为名词均有后续语义发展，现卡已把学习联想标明；不从带领的词根逐字推出现代所有义。"
+    },
+    {
+      "url": "https://www.etymonline.com/word/conductor",
+      "result": "历史带领者后来有乐团指挥、物理导体等专门义，二者不应互相做派生链。"
+    }
+  ],
+  "issues": [
+    {
+      "issueId": "object-summary-example-origin",
+      "severity": "low",
+      "studyId": "object::object-sense-thing",
+      "problem": "首例scanner/metal object与所引Oxford物体义例句几乎一致，仅增加small。语言正确，但建议在界面统一标原创时改成更独立的学习例句；这里不指控抄袭，也不将常用短句判为语言错误。",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/object_1",
+      "replacement": {
+        "examples": [
+          {
+            "text": "During the exercise, she identified each object by touch.",
+            "translation": "练习中，她通过触摸辨认每个物体。"
+          },
+          {
+            "text": "Do not place heavy objects on the glass shelf.",
+            "translation": "不要把重物放在玻璃架上。"
+          }
+        ]
+      }
+    },
+    {
+      "issueId": "conduct-short-common-example-origin",
+      "severity": "info",
+      "studyId": "conduct::transmit-heat-electricity",
+      "problem": "首例关于铜导电的5词常见句与Oxford例句完全相同。短常用句相同不能证明来源复制；为使“原创学习例句”标注稳妥，可替换或注明来自词典。",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/conduct_1",
+      "replacement": {
+        "examples": [
+          {
+            "text": "The students tested how well the wire conducted electricity.",
+            "translation": "学生们测试了这根导线传导电流的性能。"
+          },
+          {
+            "text": "The demonstration showed that this material conducts heat slowly.",
+            "translation": "演示表明，这种材料传导热量的速度较慢。"
+          }
+        ]
+      }
+    }
+  ],
+  "optionalSensesPatches": {
+    "produce::agricultural-goods": {
+      "etymologyNote": "produce 的历史动词联系拉丁 pro-（向前）与 ducere（引导、带来）；英语农产品名词后来由动词转用。词根直译不能代替农产品这一现代义，名词重音要单独记。"
+    },
+    "conduct::transmit-heat-electricity": {
+      "etymologyNote": "conduct 的历史线索联系拉丁 conducere（引导、带到一起）。传热、传电是后续形成的专门义，可用“引导通过材料”联想，但不能将其它动词用法套进本义项。"
+    },
+    "conduct::behaviour": {
+      "etymologyNote": "conduct 的历史线索联系带领、管理；行为名词可联系如何管理自己、如何行事。这里学习正式的行为方式义，名词前重音，与开展活动的动词后重音分别记。"
+    },
+    "conductor::music-director": {
+      "etymologyNote": "词源联系拉丁 conductor 与 conducere 的带领线索，英语后来发展出乐团或合唱团指挥等专门义。它与导体是同一词的不同用法，不能把导体义加词缀推成指挥。"
+    }
+  },
+  "integration": "例句文件的键为完整study id。集成时先拆wordId与senseId，再写入对应sense的examples；勿将full id作为canonical words新词或覆盖同词基础义。保留本轮新增12项总数及所有用户进度ID。",
+  "conclusion": "未发现需要更改12义项词性/现代核心释义的实质错误。构词警示总体合理；可补4条义项专属词源说明，加强为什么同词有不同读法/用法的解释。"
+}

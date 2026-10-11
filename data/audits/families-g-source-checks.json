@@ -1,0 +1,65 @@
+{
+  "reviewedAt": "2026-10-09",
+  "scope": "g 批内容的原始词典与词源核对记录，不是考试收录认证",
+  "part1": {
+    "meaningChecked": "generate generation generator regenerate regeneration degenerate degeneration general generally generalize generalization generic generous generosity gender gene genetic genetics native nature natural naturally unnatural unnaturally naturalize naturalization nation national nationality nationalize international internationally nationalist nationalism natal innate prenatal cognition cognitive recognize recognition recognizable unrecognizable cognizance cognizant incognito ignorant ignorance ignore agnostic diagnosis diagnose diagnostic prognosis acquaint acquaintance durable durability durably endure endurance enduring endurable unendurable duration during obdurate obduracy",
+    "meaningSourceTemplate": "https://www.merriam-webster.com/dictionary/{word}",
+    "method": "逐词通过网页读取词典正文；核对所选词性、具体义项与例句搭配。unnaturally 在 unnatural 页面附属词形中列出；未把形容词释义误当成副词词性。",
+    "etymologyChecked": "generate generation generator regenerate regeneration degenerate degeneration general generally generalize generalization generic generous generosity gender gene genetic genetics native nature natural naturally unnatural naturalize naturalization nation national nationality nationalize international nationalist nationalism natal innate prenatal cognition cognitive recognize recognition recognizable unrecognizable cognizance cognizant incognito ignorant ignorance ignore agnostic diagnosis diagnose diagnostic prognosis acquaint acquaintance durable durability endure endurance enduring endurable unendurable duration during obdurate obduracy",
+    "etymologySourceTemplate": "https://www.etymonline.com/word/{word}",
+    "etymologyFallbacks": {
+      "unnaturally": "unnatural 词条相关词形＋现代 -ly 构词",
+      "internationally": "international 词条构词基础＋现代 -ly 构词",
+      "durably": "durable 词条明确列出相关副词 Durably"
+    },
+    "correctionsFromSources": [
+      "generation 的英语历史早于 generate，使用同源线而非伪造动词先造名词",
+      "regeneration 的英语名词早于现代 regenerate 动词",
+      "gene 是德语科学造词借入，追溯希腊 genea；genetic 的词形早于 gene，不画 gene＋-tic 的链",
+      "generous、generosity 的慷慨义为语义发展，不能逐字硬译出生义",
+      "innate 中 in- 表示在内而非否定",
+      "nationalism 关联 nationalist 历史词形，不混同一般爱国情感",
+      "cognizant 为 cognizance 的逆构；diagnose 为 diagnosis 的逆构",
+      "ignorance 与 ignorant 同源而非 ignore 的现代动作名词",
+      "during 来自已不用的 duren 分词，现代词性是介词",
+      "Etymonline cognitive 页面词性标签显示 adv.，与原始词典正文 adjective 不符，按原始词典采用 adj."
+    ]
+  },
+  "part2": {
+    "meaningChecked": "value valuable invaluable valueless valuation evaluate evaluation revalue revaluation valid validity validate validation invalidate invalidation invalid prevalent prevail valiant equivalent equal equality equally unequal inequality unequally equate equation equivalence equivocal unequivocal equilibrium equitable equity inequitable equidistant equalize equalization number numeral numerical numerically numerous outnumber renumber enumerate enumeration innumerable numeracy numerate innumerate innumeracy preserve preservation preservative reserve reservation reserved reservoir conserve conservation conservationist conservative conservatively conservatism observe observation observer observant observable observatory",
+    "meaningSourceTemplate": "https://www.merriam-webster.com/dictionary/{word}",
+    "method": "逐词读取 Merriam-Webster 词典正文，核对卡片当前义项。对多词性 value、number 和多义 reservation 另读动词与疑虑条目。每词两原创例句，不复制词典句子。",
+    "etymologyChecked": "value valuable invaluable valueless valuation evaluate evaluation revalue revaluation valid validity validate validation invalidate invalidation invalid prevalent prevail valiant equivalent equal equality equally unequal inequality equate equation equivalence equivocal unequivocal equilibrium equitable equity inequitable equidistant equalize equalization number numeral numerical numerous outnumber renumber enumerate enumeration innumerable numeracy numerate innumerate preserve preservation preservative reserve reservation reserved reservoir conserve conservation conservationist conservative conservatism observe observation observer observant observable observatory",
+    "etymologySourceTemplate": "https://www.etymonline.com/word/{word}",
+    "etymologyFallbacks": {
+      "unequally": "unequal 词条 Related: Unequally，与现代 -ly 构词一致",
+      "numerically": "numerical 词条 Related: Numerically，与现代 -ly 构词一致",
+      "innumeracy": "innumerate 词条 Related: Innumeracy",
+      "conservatively": "conservative 构词基础与现代 -ly 副词"
+    },
+    "correctionsFromSources": [
+      "evaluate 的英语名词 evaluation 更早，使用逆构或同源法语解释",
+      "revaluation 由 re- 与 valuation 名词构成，不强制画 revalue 动词加词尾的历史链",
+      "validity 英语名词早于 valid，标为同源词形",
+      "invaluable 的否定是难以估价，现代义是极其宝贵，不等于 valueless",
+      "invalidate 来自 invalid 加 -ate，不简单断言 in- 否定 validate",
+      "equivalent 同时有 equ 与 val 来源，只创建一个 canonical 词条",
+      "equivocal 与 equ＋voc 声音有关；equine 的马来源排除",
+      "equity 的公平义与金融股权义分开，本卡未混入金融搭配",
+      "enumeration 英语名词早于 enumerate 英语动词",
+      "numeracy、innumerate 的现代能力义属于 literacy 类比构词，不教成任意 -acy 造词规则",
+      "保留与观察来自 servare；服务的 servire 不混入",
+      "conserve 的 con- 可能为加强，而非必须表示共同",
+      "preservative 为历史形容词转名词，显式词性提示，不绑定 -ive 形容词知识键",
+      "reservoir 由法语借入，不能教英语 reserve 任意添加 -oir",
+      "reserved 性格矜持义与座位预订义分开",
+      "reservation 另列疑虑义，两个双语例句和复数搭配独立",
+      "observe、prenatal、inequitable 首次读取部分缓存失败，经 Etymonline 搜索正文再次核对"
+    ],
+    "additionalSenses": ["value::appraise", "value::esteem", "number::label", "reservation::doubt"]
+  },
+  "ipa": "未猜测音标；Merriam-Webster 的自有注音体系未机械改写为 IPA",
+  "examTags": "未猜测四级、六级或雅思收录。由主代理的官方来源编译流程匹配。",
+  "examples": "每词两条自行撰写的英文例句与中文译文，不复制词典例句",
+  "relatedWords": "近反义仅在卡片当前义项与标明语境成立；无合适单词时留空"
+}

@@ -1,0 +1,133 @@
+{
+  "reviewedAt": "2026-10-08",
+  "words": {
+    "refine": {
+      "parts": [
+        {
+          "text": "re-"
+        },
+        {
+          "text": "fine"
+        }
+      ],
+      "explanation": "由 re- 与旧动词 fine‘使精纯’联系；此处 re- 可能起加强作用，不能机械理解为再次。fine 的历史语义与完成、完善有关；本卡聚焦改进方法、使更精确。"
+    },
+    "infer": {
+      "explanation": "来自拉丁语 in‘向内’与 ferre‘带来’，发展为把结论带入推理。in- 在此不是否定；infer 指根据证据或信息得出推断，imply 指间接暗示，推断并不限于读者。"
+    },
+    "transport": {
+      "collocation": "transport goods; transport passengers"
+    },
+    "project": {
+      "collocation": "carry out a project; work on a project"
+    },
+    "object": {
+      "collocation": "object to something; object to doing something"
+    },
+    "volume": {
+      "parts": [
+        {
+          "text": "volume"
+        }
+      ],
+      "explanation": "来自拉丁语 volumen‘卷轴、书卷’，历史上由书卷的大小发展出体积。现代英语不把末尾 e 当成有独立意义的词缀；体积义整体记，另有音量和书册义。"
+    },
+    "expenditure": {
+      "explanation": "与中世纪拉丁语 expenditus（expendere 的不规则分词形式）及 -ure 相关，表示支出、花费。可用 expend 作记忆联系，但不是现代英语给任何动词直接加 -iture 的造词规则。"
+    },
+    "infectious": {
+      "explanation": "词源资料将 infectious 联系于 infection 与形容词后缀 -ous。记忆时可观察 infection → infectious 的词尾变化，本词由 -ion 对应到 -ious；不要把这当作所有名词或动词都能套用的造词规则。现代义为传染性的，笑声等富感染力的比喻义另记。",
+      "morphologyKind": "mixed"
+    },
+    "undergraduate": {
+      "example": "The undergraduate joined a research project in her second year.",
+      "translation": "这位本科生在二年级加入了一个研究项目。",
+      "collocation": "an undergraduate; a first-year undergraduate"
+    },
+    "postgraduate": {
+      "example": "The postgraduate is preparing a dissertation on urban transport.",
+      "translation": "这位研究生正在准备一篇关于城市交通的学位论文。",
+      "collocation": "a postgraduate; a postgraduate in biology"
+    },
+    "sequential": {
+      "explanation": "联系拉丁语 sequentia 的次序义与 -al 形容词形式；现代词形可观察 sequent / -ial，但不要把它当成任意拼接规则。现代义为按顺序发生或排列的。"
+    },
+    "form": {
+      "collocation": "fill in a form; complete an application form"
+    },
+    "visualize": {
+      "posHint": "先识别 visual（形容词）；再由 -ize 构成动词 visualize。本卡学习动词用法。"
+    }
+  },
+  "edges": [
+    {
+      "family": "fac",
+      "to": "infectious",
+      "from": "infection",
+      "label": "infection / -ous：形容词词形联系",
+      "type": "origin"
+    },
+    {
+      "from": "contract",
+      "to": "contraction",
+      "label": "收缩动词义：-ion 同源名词",
+      "type": "origin",
+      "family": "tract"
+    },
+    {
+      "from": "project",
+      "to": "projection",
+      "label": "预测／投射动词义：-ion 同源名词",
+      "type": "origin",
+      "family": "ject"
+    },
+    {
+      "from": "form",
+      "to": "formal",
+      "label": "形式／规范义：-al 同源形容词",
+      "type": "origin",
+      "family": "form"
+    },
+    {
+      "from": "form",
+      "to": "formation",
+      "label": "形成动词义：-ation 同源名词",
+      "type": "origin",
+      "family": "form"
+    },
+    {
+      "from": "act",
+      "to": "actor",
+      "label": "表演动词义：-or 同源称谓",
+      "type": "origin",
+      "family": "act"
+    },
+    {
+      "from": "act",
+      "to": "acting",
+      "label": "表演动词义：-ing 本卡为名词",
+      "type": "analysis",
+      "family": "act"
+    }
+  ],
+  "senses": {
+    "conduct": {
+      "behaviour": {
+        "ipa": {
+          "uk": "/ˈkɒn.dʌkt/",
+          "us": "/ˈkɑːn.dʌkt/"
+        },
+        "synonyms": [
+          "behaviour"
+        ],
+        "synonymsDetailed": [
+          {
+            "word": "behaviour",
+            "meaning": "行为",
+            "usage": "这一义项中接近；conduct 较正式，常用于行为准则或评价。"
+          }
+        ]
+      }
+    }
+  }
+}

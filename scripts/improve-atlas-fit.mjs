@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const a=new URL('../dist/atlas.js',import.meta.url);let s=fs.readFileSync(a,'utf8');
+s=s.replace('<div class="atlas-stage" style="width:${m.width}px;height:${m.height}px;transform:scale(${options.zoom||1});transform-origin:0 0">','<div class="atlas-viewport" style="width:${m.width*(options.zoom||1)}px;height:${m.height*(options.zoom||1)}px"><div class="atlas-stage" style="width:${m.width}px;height:${m.height}px;transform:scale(${options.zoom||1});transform-origin:0 0">');
+s=s.replace('</div></div><div class="atlas-zoom">','</div></div></div><div class="atlas-zoom">');
+s=s.replace("const w=lib.words[id],cx=g.x+18", "const w=lib.words[id],incoming=f.edges.find(e=>e.to===id&&!e.from.startsWith('root:')),clue=incoming?incoming.from+' → '+w.word+' · '+incoming.label.split('：')[0]:'',cx=g.x+18");
+s=s.replace("${x(w.pos+' '+w.meaning.split('；')[0].slice(0,17))}</text>","${x(w.pos+' '+w.meaning.split('；')[0].slice(0,17))}</text><text x=\"${cx}\" y=\"${cy+43}\" font-size=\"10\" fill=\"#819582\">${x(clue.slice(0,31))}</text>");
+fs.writeFileSync(a,s);
+const p=new URL('../dist/app.js',import.meta.url);s=fs.readFileSync(p,'utf8').replace("import {renderAtlas,atlasSVG,groupsFor}","import {renderAtlas,atlasSVG,groupsFor,atlasModel}");
+s=s.replace("case'atlas-fit':zoom=Math.min(1,Math.max(.45,(main.clientWidth-90)/1328));render();break;","case'atlas-fit':{const m=atlasModel(family(graphFamily),lib,state,{mode:atlasMode,collapsed:atlasCollapsed});zoom=Math.max(.25,Math.min(1,(main.clientWidth-90)/m.width,760/m.height));render();break;}").replace("zoom=Math.max(.45,+(zoom-.1).toFixed(2))","zoom=Math.max(.25,+(zoom-.1).toFixed(2))");
+fs.writeFileSync(p,s);console.log('Atlas fits width and height with source clues in export');

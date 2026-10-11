@@ -1,0 +1,1157 @@
+{
+  "families": [
+    {
+      "id": "act",
+      "words": [
+        {
+          "id": "inaction",
+          "word": "inaction",
+          "pos": "n.",
+          "meaning": "不采取行动；无所作为",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-negative"
+            },
+            {
+              "text": "action",
+              "wordId": "action"
+            }
+          ],
+          "explanation": "in- 否定 action，指应当行动时没有行动；不是介词短语 in action“在运作中”。",
+          "mnemonic": "把 action 前加“不”，想起问题面前的无所作为。",
+          "collocation": "continued inaction; inaction on a problem",
+          "example": "The residents were frustrated by the council's inaction.",
+          "translation": "居民们对市政委员会的不作为感到失望。",
+          "examples": [
+            {
+              "text": "The residents were frustrated by the council's inaction.",
+              "translation": "居民们对市政委员会的不作为感到失望。"
+            },
+            {
+              "text": "Continued inaction may make the problem harder to solve.",
+              "translation": "持续不行动可能让问题更难解决。"
+            }
+          ],
+          "synonyms": [
+            "inertia"
+          ],
+          "antonyms": [
+            "action"
+          ],
+          "synonymsDetailed": [
+            {
+              "word": "inertia",
+              "meaning": "迟迟不行动",
+              "usage": "在无法启动行动的语境接近；也另有物理惯性义。"
+            }
+          ],
+          "antonymsDetailed": [
+            {
+              "word": "action",
+              "meaning": "行动",
+              "usage": "本义项中形成行动与不行动的对照。"
+            }
+          ],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/inaction",
+          "etymologySource": "https://www.etymonline.com/word/inaction",
+          "source": "https://www.etymonline.com/word/inaction",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习名词义；结合限定词、介词与搭配判断。"
+        },
+        {
+          "id": "actress",
+          "word": "actress",
+          "pos": "n.",
+          "meaning": "女演员",
+          "parts": [
+            {
+              "text": "actor",
+              "wordId": "actor"
+            },
+            {
+              "text": "-ess"
+            }
+          ],
+          "explanation": "词源上联系 actor 与女性称谓后缀 -ess，词尾发生变化。actor 现在也可以泛指演员，并不总限定男性。",
+          "mnemonic": "从 actor 联系到女演员的称谓，整体记住 actress 的拼写。",
+          "collocation": "a leading actress; a film actress",
+          "example": "The actress prepared for the role by studying local history.",
+          "translation": "这位女演员通过研究当地历史来准备角色。",
+          "examples": [
+            {
+              "text": "The actress prepared for the role by studying local history.",
+              "translation": "这位女演员通过研究当地历史来准备角色。"
+            },
+            {
+              "text": "A young actress joined the university theatre group.",
+              "translation": "一位年轻女演员加入了大学剧团。"
+            }
+          ],
+          "synonyms": [
+            "performer"
+          ],
+          "antonyms": [],
+          "synonymsDetailed": [
+            {
+              "word": "performer",
+              "meaning": "表演者",
+              "usage": "范围更广，不专指女演员。"
+            }
+          ],
+          "antonymsDetailed": [],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/actress",
+          "etymologySource": "https://www.etymonline.com/word/actress",
+          "source": "https://www.etymonline.com/word/actress",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习名词义；结合限定词、介词与搭配判断。"
+        },
+        {
+          "id": "acting",
+          "word": "acting",
+          "pos": "n.",
+          "meaning": "表演；演技",
+          "parts": [
+            {
+              "text": "act",
+              "wordId": "act"
+            },
+            {
+              "text": "-ing"
+            }
+          ],
+          "explanation": "由 act 的表演用法联系 -ing 名词形式；这里学习表演艺术或演技。acting 也可以作形容词表示临时代理，词性须看语境。",
+          "mnemonic": "把舞台上的 act 想成一门 acting 表演艺术。",
+          "collocation": "acting skills; an acting class",
+          "example": "Her acting made the quiet scene surprisingly moving.",
+          "translation": "她的表演让这个安静的场景格外动人。",
+          "examples": [
+            {
+              "text": "Her acting made the quiet scene surprisingly moving.",
+              "translation": "她的表演让这个安静的场景格外动人。"
+            },
+            {
+              "text": "He took an acting class during the summer holiday.",
+              "translation": "他暑假参加了一门表演课。"
+            }
+          ],
+          "synonyms": [
+            "performance"
+          ],
+          "antonyms": [],
+          "synonymsDetailed": [
+            {
+              "word": "performance",
+              "meaning": "表演",
+              "usage": "描述一次具体演出时接近；acting 更聚焦表演活动或演技。"
+            }
+          ],
+          "antonymsDetailed": [],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/acting",
+          "etymologySource": "https://www.etymonline.com/word/acting",
+          "source": "https://www.etymonline.com/word/acting",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习名词义；结合限定词、介词与搭配判断。"
+        },
+        {
+          "id": "actively",
+          "word": "actively",
+          "pos": "adv.",
+          "meaning": "积极地；主动参与地",
+          "parts": [
+            {
+              "text": "active",
+              "wordId": "active"
+            },
+            {
+              "text": "-ly",
+              "key": "ly-adverb"
+            }
+          ],
+          "explanation": "active 加 -ly 构成副词，描述参与或行动的方式。-ly 在这里是副词线索，不代表所有 -ly 结尾都为副词。",
+          "mnemonic": "active 描述人，actively 描述这个人怎样参与。",
+          "collocation": "actively participate; actively seek",
+          "example": "Students are encouraged to participate actively in discussions.",
+          "translation": "学生被鼓励积极参与讨论。",
+          "examples": [
+            {
+              "text": "Students are encouraged to participate actively in discussions.",
+              "translation": "学生被鼓励积极参与讨论。"
+            },
+            {
+              "text": "The team is actively seeking a better solution.",
+              "translation": "团队正在积极寻找更好的解决方案。"
+            }
+          ],
+          "synonyms": [
+            "energetically"
+          ],
+          "antonyms": [
+            "passively"
+          ],
+          "synonymsDetailed": [
+            {
+              "word": "energetically",
+              "meaning": "充满干劲地",
+              "usage": "强调精力；在积极行动的语境可比较，不能替代所有 actively。"
+            }
+          ],
+          "antonymsDetailed": [
+            {
+              "word": "passively",
+              "meaning": "被动地",
+              "usage": "在参与、接受信息等语境中对照。"
+            }
+          ],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/actively",
+          "etymologySource": "https://www.etymonline.com/word/actively",
+          "source": "https://www.etymonline.com/word/actively",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡为副词，说明行动方式或整个陈述的实际情况。"
+        },
+        {
+          "id": "inactivity",
+          "word": "inactivity",
+          "pos": "n.",
+          "meaning": "缺乏活动；不活跃状态",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-negative"
+            },
+            {
+              "text": "activity",
+              "wordId": "activity"
+            }
+          ],
+          "explanation": "词源联系 in- 否定 activity；也可与 inactive 的名词形式对照。表示一段缺乏活动或运作的状态，不能把 activity 任意拼接成所有名词。",
+          "mnemonic": "activity 是活动，inactivity 是没有活动的状态。",
+          "collocation": "physical inactivity; a period of inactivity",
+          "example": "The equipment was checked after a long period of inactivity.",
+          "translation": "设备在长时间停用后接受了检查。",
+          "examples": [
+            {
+              "text": "The equipment was checked after a long period of inactivity.",
+              "translation": "设备在长时间停用后接受了检查。"
+            },
+            {
+              "text": "The club returned to regular meetings after months of inactivity.",
+              "translation": "俱乐部在数月未开展活动后恢复了定期会议。"
+            }
+          ],
+          "synonyms": [
+            "idleness"
+          ],
+          "antonyms": [
+            "activity"
+          ],
+          "synonymsDetailed": [
+            {
+              "word": "idleness",
+              "meaning": "闲置；无事可做",
+              "usage": "描述未工作或未活动状态时接近，不必带有责备。"
+            }
+          ],
+          "antonymsDetailed": [
+            {
+              "word": "activity",
+              "meaning": "活动",
+              "usage": "活动与缺乏活动的直接对照。"
+            }
+          ],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/inactivity",
+          "etymologySource": "https://www.etymonline.com/word/inactivity",
+          "source": "https://www.etymonline.com/word/inactivity",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习名词义；结合限定词、介词与搭配判断。"
+        },
+        {
+          "id": "deactivate",
+          "word": "deactivate",
+          "pos": "v.",
+          "meaning": "使停用；使失效",
+          "parts": [
+            {
+              "text": "de-",
+              "key": "de-reverse"
+            },
+            {
+              "text": "activate",
+              "wordId": "activate"
+            }
+          ],
+          "explanation": "de- 在这里撤销 activate 的启动作用，表示让功能或装置不再处于活动状态，词性仍为动词。",
+          "mnemonic": "activate 是打开作用，deactivate 是撤销这个作用。",
+          "collocation": "deactivate an account; deactivate a device",
+          "example": "You can deactivate the old account after saving your files.",
+          "translation": "保存文件后，你可以停用旧账号。",
+          "examples": [
+            {
+              "text": "You can deactivate the old account after saving your files.",
+              "translation": "保存文件后，你可以停用旧账号。"
+            },
+            {
+              "text": "The engineer deactivated the sensor before replacing it.",
+              "translation": "工程师在更换传感器前将其停用。"
+            }
+          ],
+          "synonyms": [
+            "disable"
+          ],
+          "antonyms": [
+            "activate"
+          ],
+          "synonymsDetailed": [
+            {
+              "word": "disable",
+              "meaning": "禁用",
+              "usage": "在账号或功能语境接近；disable 还有使丧失能力等用法。"
+            }
+          ],
+          "antonymsDetailed": [
+            {
+              "word": "activate",
+              "meaning": "激活",
+              "usage": "在设备、账号或功能语境中对照。"
+            }
+          ],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/deactivate",
+          "etymologySource": "https://www.etymonline.com/word/deactivate",
+          "source": "https://www.etymonline.com/word/deactivate",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习动词义；注意主语、时态以及动词后所接对象。"
+        },
+        {
+          "id": "reactivate",
+          "word": "reactivate",
+          "pos": "v.",
+          "meaning": "重新激活；恢复启用",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "activate",
+              "wordId": "activate"
+            }
+          ],
+          "explanation": "re- 在这里表示再次，activate 表示使运作；合起来指让原来暂停的功能或系统重新启用。",
+          "mnemonic": "把已停用的 activate 再做一次，恢复使用。",
+          "collocation": "reactivate an account; reactivate a system",
+          "example": "The library reactivated the service after the repairs.",
+          "translation": "图书馆在修理后重新启用了该服务。",
+          "examples": [
+            {
+              "text": "The library reactivated the service after the repairs.",
+              "translation": "图书馆在修理后重新启用了该服务。"
+            },
+            {
+              "text": "Please contact support to reactivate your account.",
+              "translation": "请联系支持人员重新启用你的账号。"
+            }
+          ],
+          "synonyms": [
+            "restart"
+          ],
+          "antonyms": [
+            "deactivate"
+          ],
+          "synonymsDetailed": [
+            {
+              "word": "restart",
+              "meaning": "重新启动",
+              "usage": "在服务或系统语境接近；reactivate 更强调恢复活动状态。"
+            }
+          ],
+          "antonymsDetailed": [
+            {
+              "word": "deactivate",
+              "meaning": "停用",
+              "usage": "在功能由启用转停用的语境对照。"
+            }
+          ],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/reactivate",
+          "etymologySource": "https://www.etymonline.com/word/reactivate",
+          "source": "https://www.etymonline.com/word/reactivate",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习动词义；注意主语、时态以及动词后所接对象。"
+        },
+        {
+          "id": "reactive",
+          "word": "reactive",
+          "pos": "adj.",
+          "meaning": "事后回应的；被动应对的",
+          "parts": [
+            {
+              "text": "react",
+              "wordId": "react"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "react 联系反应，-ive 提示形容词。本卡聚焦事件发生后才应对的方式，与 proactive 对照；化学中“易起反应的”另按语境理解。",
+          "mnemonic": "等事情发生才 react，是 reactive 的应对方式。",
+          "collocation": "a reactive approach; reactive management",
+          "example": "A purely reactive approach leaves little time for planning.",
+          "translation": "纯粹事后应对的方式几乎不留规划时间。",
+          "examples": [
+            {
+              "text": "A purely reactive approach leaves little time for planning.",
+              "translation": "纯粹事后应对的方式几乎不留规划时间。"
+            },
+            {
+              "text": "The team became less reactive after introducing weekly reviews.",
+              "translation": "团队引入每周回顾后，减少了被动应对。"
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [
+            "proactive"
+          ],
+          "synonymsDetailed": [],
+          "antonymsDetailed": [
+            {
+              "word": "proactive",
+              "meaning": "预先主动采取措施的",
+              "usage": "在工作方式与管理语境形成对照，不对应所有化学用法。"
+            }
+          ],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/reactive",
+          "etymologySource": "https://www.etymonline.com/word/reactive",
+          "source": "https://www.etymonline.com/word/reactive",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习形容词义；描述名词或在系动词后说明性质。"
+        },
+        {
+          "id": "reactor",
+          "word": "reactor",
+          "pos": "n.",
+          "meaning": "反应器；核反应堆",
+          "parts": [
+            {
+              "text": "react",
+              "wordId": "react"
+            },
+            {
+              "text": "-or",
+              "key": "or-agent"
+            }
+          ],
+          "explanation": "react 加 -or 可联系进行反应的物或装置。-or 不只表示人；现代 reactor 常指化学反应器或核反应堆，不能只猜成“反应的人”。",
+          "mnemonic": "让 reaction 在一个装置里进行，装置叫 reactor。",
+          "collocation": "a nuclear reactor; a chemical reactor",
+          "example": "The diagram shows how water flows around the reactor.",
+          "translation": "图示展示了水如何在反应堆周围流动。",
+          "examples": [
+            {
+              "text": "The diagram shows how water flows around the reactor.",
+              "translation": "图示展示了水如何在反应堆周围流动。"
+            },
+            {
+              "text": "The laboratory uses a small reactor for the experiment.",
+              "translation": "实验室使用一个小型反应器进行实验。"
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "synonymsDetailed": [],
+          "antonymsDetailed": [],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/reactor",
+          "etymologySource": "https://www.etymonline.com/word/reactor",
+          "source": "https://www.etymonline.com/word/reactor",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习名词义；结合限定词、介词与搭配判断。"
+        },
+        {
+          "id": "interactive",
+          "word": "interactive",
+          "pos": "adj.",
+          "meaning": "交互式的；互动的",
+          "parts": [
+            {
+              "text": "interact",
+              "wordId": "interact"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "联系 interact 的互动义及 -ive 形容词形式；词源资料也提示 active 的形式影响。描述双方能互相作用或用户能参与反馈的过程。",
+          "mnemonic": "用户不只观看，还能 interact，所以界面是 interactive。",
+          "collocation": "an interactive map; interactive learning",
+          "example": "The museum has an interactive map that visitors can explore.",
+          "translation": "博物馆有一张访客可以探索的交互式地图。",
+          "examples": [
+            {
+              "text": "The museum has an interactive map that visitors can explore.",
+              "translation": "博物馆有一张访客可以探索的交互式地图。"
+            },
+            {
+              "text": "An interactive lesson gives students time to respond.",
+              "translation": "互动课给学生留出回应的时间。"
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [
+            "one-way"
+          ],
+          "synonymsDetailed": [],
+          "antonymsDetailed": [
+            {
+              "word": "one-way",
+              "meaning": "单向的",
+              "usage": "在信息传递方式中可对照，不是所有语境的固定反义词。"
+            }
+          ],
+          "core": true,
+          "morphologyKind": "mixed",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/interactive",
+          "etymologySource": "https://www.etymonline.com/word/interactive",
+          "source": "https://www.etymonline.com/word/interactive",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习形容词义；描述名词或在系动词后说明性质。"
+        },
+        {
+          "id": "proactive",
+          "word": "proactive",
+          "pos": "adj.",
+          "meaning": "预先主动采取措施的",
+          "parts": [
+            {
+              "text": "pro-",
+              "key": "pro-forward"
+            },
+            {
+              "text": "active",
+              "wordId": "active"
+            }
+          ],
+          "explanation": "pro- 的提前、向前线索联系 active 的行动。现代常见义强调预见问题并先采取措施，不能仅用 active“活跃”代替；词源资料对 reactive 的形式影响有不同表述。",
+          "mnemonic": "问题还没出现就向前一步行动，记住 proactive 的预先主动。",
+          "collocation": "a proactive approach; proactive measures",
+          "example": "A proactive maintenance plan can reduce unexpected delays.",
+          "translation": "提前主动维护的计划可以减少意外延误。",
+          "examples": [
+            {
+              "text": "A proactive maintenance plan can reduce unexpected delays.",
+              "translation": "提前主动维护的计划可以减少意外延误。"
+            },
+            {
+              "text": "She took a proactive approach to organising the group project.",
+              "translation": "她采用了预先主动规划的方式组织小组项目。"
+            }
+          ],
+          "synonyms": [
+            "preventive"
+          ],
+          "antonyms": [
+            "reactive"
+          ],
+          "synonymsDetailed": [
+            {
+              "word": "preventive",
+              "meaning": "预防性的",
+              "usage": "在提前避免问题的措施语境接近；proactive 也包含主动推进变化。"
+            }
+          ],
+          "antonymsDetailed": [
+            {
+              "word": "reactive",
+              "meaning": "事后应对的",
+              "usage": "在工作或管理方式中对照。"
+            }
+          ],
+          "core": true,
+          "morphologyKind": "mixed",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/proactive",
+          "etymologySource": "https://www.etymonline.com/word/reactive",
+          "source": "https://www.etymonline.com/word/reactive",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习形容词义；描述名词或在系动词后说明性质。"
+        },
+        {
+          "id": "counteract",
+          "word": "counteract",
+          "pos": "v.",
+          "meaning": "抵消；对抗……的作用",
+          "parts": [
+            {
+              "text": "counter-",
+              "key": "counter-against"
+            },
+            {
+              "text": "act",
+              "wordId": "act"
+            }
+          ],
+          "explanation": "counter- 表示对抗，act 是行动；通过相反的作用抵消某个影响。counteract 可以接影响或趋势，不限于与某个人对抗。",
+          "mnemonic": "一个作用 act，另一个相反作用 counteract 将它抵消。",
+          "collocation": "counteract an effect; counteract a trend",
+          "example": "The new policy aims to counteract the rise in transport costs.",
+          "translation": "新政策旨在抵消交通成本上涨的影响。",
+          "examples": [
+            {
+              "text": "The new policy aims to counteract the rise in transport costs.",
+              "translation": "新政策旨在抵消交通成本上涨的影响。"
+            },
+            {
+              "text": "Extra lighting helped counteract the room's lack of natural light.",
+              "translation": "增加照明有助于弥补房间自然光不足的影响。"
+            }
+          ],
+          "synonyms": [
+            "offset"
+          ],
+          "antonyms": [
+            "reinforce"
+          ],
+          "synonymsDetailed": [
+            {
+              "word": "offset",
+              "meaning": "抵消",
+              "usage": "在成本、影响等语境接近；counteract 更强调相反作用。"
+            }
+          ],
+          "antonymsDetailed": [
+            {
+              "word": "reinforce",
+              "meaning": "加强",
+              "usage": "在某种影响被抵消或被加强的语境中对照。"
+            }
+          ],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/counteract",
+          "etymologySource": "https://www.etymonline.com/word/counteract",
+          "source": "https://www.etymonline.com/word/counteract",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习动词义；注意主语、时态以及动词后所接对象。"
+        },
+        {
+          "id": "enact",
+          "word": "enact",
+          "pos": "v.",
+          "meaning": "制定；通过（法律）",
+          "parts": [
+            {
+              "text": "en-",
+              "key": "en-make"
+            },
+            {
+              "text": "act",
+              "wordId": "act"
+            }
+          ],
+          "explanation": "en- 与 act 联系使某项行为成立；在法律语境指使提案成为法律。词根提供线索，enact 也有演出、扮演义，不能都解释为立法。",
+          "mnemonic": "让一项提案成为正式的法律行动，联想到 enact a law。",
+          "collocation": "enact a law; enact legislation",
+          "example": "The parliament may enact a new law on data protection.",
+          "translation": "议会可能制定一部新的数据保护法。",
+          "examples": [
+            {
+              "text": "The parliament may enact a new law on data protection.",
+              "translation": "议会可能制定一部新的数据保护法。"
+            },
+            {
+              "text": "The proposal cannot take effect until legislation is enacted.",
+              "translation": "相关法律通过前，该提案不能生效。"
+            }
+          ],
+          "synonyms": [
+            "pass"
+          ],
+          "antonyms": [
+            "repeal"
+          ],
+          "synonymsDetailed": [
+            {
+              "word": "pass",
+              "meaning": "通过",
+              "usage": "pass a law 与 enact a law 在立法语境接近，pass 的其他意思不互换。"
+            }
+          ],
+          "antonymsDetailed": [
+            {
+              "word": "repeal",
+              "meaning": "废除法律",
+              "usage": "在法律制定与废除的语境中对照。"
+            }
+          ],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/enact",
+          "etymologySource": "https://www.etymonline.com/word/enact",
+          "source": "https://www.etymonline.com/word/enact",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习动词义；注意主语、时态以及动词后所接对象。"
+        },
+        {
+          "id": "enactment",
+          "word": "enactment",
+          "pos": "n.",
+          "meaning": "立法；法律的制定或通过",
+          "parts": [
+            {
+              "text": "enact",
+              "wordId": "enact"
+            },
+            {
+              "text": "-ment",
+              "key": "ment-noun"
+            }
+          ],
+          "explanation": "enact 加 -ment 联系名词形式，本卡学习通过法律的过程；也能指已经制定的法令，具体含义看句子。",
+          "mnemonic": "把 enact 这个制定过程作为一件事，就得到 enactment。",
+          "collocation": "the enactment of a law; before enactment",
+          "example": "The enactment of the law followed a long public debate.",
+          "translation": "这部法律经过长期公众讨论后得以通过。",
+          "examples": [
+            {
+              "text": "The enactment of the law followed a long public debate.",
+              "translation": "这部法律经过长期公众讨论后得以通过。"
+            },
+            {
+              "text": "The report describes the steps required before enactment.",
+              "translation": "报告描述了立法通过前所需的步骤。"
+            }
+          ],
+          "synonyms": [
+            "passage"
+          ],
+          "antonyms": [],
+          "synonymsDetailed": [
+            {
+              "word": "passage",
+              "meaning": "法律通过",
+              "usage": "passage of a law 在本义项中接近，不能对应通道等其他义。"
+            }
+          ],
+          "antonymsDetailed": [],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/enactment",
+          "etymologySource": "https://www.etymonline.com/word/enactment",
+          "source": "https://www.etymonline.com/word/enactment",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习名词义；结合限定词、介词与搭配判断。"
+        },
+        {
+          "id": "transact",
+          "word": "transact",
+          "pos": "v.",
+          "meaning": "办理（业务）；进行交易",
+          "parts": [
+            {
+              "text": "trans-",
+              "key": "trans-across"
+            },
+            {
+              "text": "act",
+              "key": "root-act"
+            }
+          ],
+          "explanation": "历史上联系 transigere 的完成事务义，或从 transaction 逆向形成。可用 trans- 的贯穿义联系把事务办完；不是英语 act 加前缀就能预测所有现代含义。",
+          "mnemonic": "把一笔业务从头到尾办完，记住 transact business。",
+          "collocation": "transact business; transact a sale",
+          "example": "The company can transact business with overseas partners online.",
+          "translation": "该公司可以在线与海外合作伙伴开展业务。",
+          "examples": [
+            {
+              "text": "The company can transact business with overseas partners online.",
+              "translation": "该公司可以在线与海外合作伙伴开展业务。"
+            },
+            {
+              "text": "The bank provides a secure way to transact remotely.",
+              "translation": "银行提供了一种安全进行远程交易的方式。"
+            }
+          ],
+          "synonyms": [
+            "conduct"
+          ],
+          "antonyms": [],
+          "synonymsDetailed": [
+            {
+              "word": "conduct",
+              "meaning": "办理；开展",
+              "usage": "conduct business 在业务语境接近，conduct 的传导等用法不互换。"
+            }
+          ],
+          "antonymsDetailed": [],
+          "core": true,
+          "morphologyKind": "historical",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/transact",
+          "etymologySource": "https://www.etymonline.com/word/transact",
+          "source": "https://www.etymonline.com/word/transact",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习动词义；注意主语、时态以及动词后所接对象。"
+        },
+        {
+          "id": "transaction",
+          "word": "transaction",
+          "pos": "n.",
+          "meaning": "交易；业务办理",
+          "parts": [
+            {
+              "text": "transact",
+              "wordId": "transact"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "现代词形可联系 transact 与名词 -ion；但 transaction 在英语历史中早于 transact，不能把导图箭头当成实际造词先后。本卡学习资金、商品或服务的一次交易。",
+          "mnemonic": "一笔 transact 办理完成，留下 transaction 交易记录。",
+          "collocation": "complete a transaction; a bank transaction",
+          "example": "Each transaction appears in the monthly bank statement.",
+          "translation": "每笔交易都会出现在每月银行对账单中。",
+          "examples": [
+            {
+              "text": "Each transaction appears in the monthly bank statement.",
+              "translation": "每笔交易都会出现在每月银行对账单中。"
+            },
+            {
+              "text": "The customer received a receipt after the transaction.",
+              "translation": "交易后，顾客收到了一张收据。"
+            }
+          ],
+          "synonyms": [
+            "deal"
+          ],
+          "antonyms": [],
+          "synonymsDetailed": [
+            {
+              "word": "deal",
+              "meaning": "交易",
+              "usage": "在具体商业交易语境接近；deal 也可泛指协议或安排。"
+            }
+          ],
+          "antonymsDetailed": [],
+          "core": true,
+          "morphologyKind": "mixed",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/transaction",
+          "etymologySource": "https://www.etymonline.com/word/transaction",
+          "source": "https://www.etymonline.com/word/transaction",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习名词义；结合限定词、介词与搭配判断。"
+        },
+        {
+          "id": "actual",
+          "word": "actual",
+          "pos": "adj.",
+          "meaning": "实际的；真实的",
+          "parts": [
+            {
+              "text": "actual"
+            }
+          ],
+          "explanation": "经法语、晚期拉丁语 actualis 联系 actus 的历史来源，现代常见义已发展为真实存在。不能把它解释为“正在行动的”；actual 与 active 分开记。",
+          "mnemonic": "把计划中的数字与 actual 实际数字对照，记住真实发生。",
+          "collocation": "the actual cost; actual results",
+          "example": "The actual cost was lower than the early estimate.",
+          "translation": "实际成本低于早期估计。",
+          "examples": [
+            {
+              "text": "The actual cost was lower than the early estimate.",
+              "translation": "实际成本低于早期估计。"
+            },
+            {
+              "text": "We need actual evidence before drawing a conclusion.",
+              "translation": "得出结论前，我们需要真实证据。"
+            }
+          ],
+          "synonyms": [
+            "real"
+          ],
+          "antonyms": [
+            "imaginary"
+          ],
+          "synonymsDetailed": [
+            {
+              "word": "real",
+              "meaning": "真实的",
+              "usage": "谈事实或实际存在时接近；real 的真实品质等义不都替换 actual。"
+            }
+          ],
+          "antonymsDetailed": [
+            {
+              "word": "imaginary",
+              "meaning": "想象中的",
+              "usage": "在实际存在与想象对象的语境中对照。"
+            }
+          ],
+          "core": true,
+          "morphologyKind": "historical",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/actual",
+          "etymologySource": "https://www.etymonline.com/word/actual",
+          "source": "https://www.etymonline.com/word/actual",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡学习形容词义；描述名词或在系动词后说明性质。"
+        },
+        {
+          "id": "actually",
+          "word": "actually",
+          "pos": "adv.",
+          "meaning": "实际上；其实",
+          "parts": [
+            {
+              "text": "actual",
+              "wordId": "actual"
+            },
+            {
+              "text": "-ly",
+              "key": "ly-adverb"
+            }
+          ],
+          "explanation": "actual 加 -ly 构成副词，说明实际情况，常用于补充或纠正预期。不能把它解释为积极地，那是 actively。",
+          "mnemonic": "actual 是实际的，actually 用来说明事情实际怎样。",
+          "collocation": "actually happen; actually mean",
+          "example": "The course was actually easier than I had expected.",
+          "translation": "这门课实际上比我预想的容易。",
+          "examples": [
+            {
+              "text": "The course was actually easier than I had expected.",
+              "translation": "这门课实际上比我预想的容易。"
+            },
+            {
+              "text": "I thought the building was closed, but it was actually open.",
+              "translation": "我以为大楼关门了，但其实还开着。"
+            }
+          ],
+          "synonyms": [
+            "in fact"
+          ],
+          "antonyms": [],
+          "synonymsDetailed": [
+            {
+              "word": "in fact",
+              "meaning": "事实上",
+              "usage": "说明真实情况时接近，语气与句子位置可能不同。"
+            }
+          ],
+          "antonymsDetailed": [],
+          "core": true,
+          "morphologyKind": "transparent",
+          "meaningSource": "https://www.merriam-webster.com/dictionary/actually",
+          "etymologySource": "https://www.etymonline.com/word/actually",
+          "source": "https://www.etymonline.com/word/actually",
+          "reviewedAt": "2026-10-08",
+          "posHint": "本卡为副词，说明行动方式或整个陈述的实际情况。"
+        }
+      ],
+      "groups": [
+        {
+          "id": "act-doing",
+          "label": "行动与表演",
+          "wordIds": [
+            "act",
+            "action",
+            "inaction",
+            "actor",
+            "actress",
+            "acting"
+          ],
+          "note": "行动与表演分开理解；actor 也可泛指演员。"
+        },
+        {
+          "id": "act-state",
+          "label": "活跃与激活",
+          "wordIds": [
+            "active",
+            "actively",
+            "activity",
+            "inactive",
+            "inactivity",
+            "activate",
+            "activation",
+            "deactivate",
+            "reactivate"
+          ],
+          "note": "状态 → 活动 → 启用；否定、再次与撤销作用分别理解。"
+        },
+        {
+          "id": "act-response",
+          "label": "反应与回应",
+          "wordIds": [
+            "react",
+            "reaction",
+            "reactive",
+            "reactor"
+          ],
+          "note": "reactive 的事后应对义与化学反应义不混同。"
+        },
+        {
+          "id": "act-mutual",
+          "label": "互动与相互作用",
+          "wordIds": [
+            "interact",
+            "interaction",
+            "interactive"
+          ],
+          "note": "inter- 相互，-ion 名词，-ive 形容词线索。"
+        },
+        {
+          "id": "act-initiative",
+          "label": "主动与抵消",
+          "wordIds": [
+            "proactive",
+            "counteract"
+          ],
+          "note": "pro- 预先，counter- 通过相反作用抵消。"
+        },
+        {
+          "id": "act-law",
+          "label": "法律与交易",
+          "wordIds": [
+            "enact",
+            "enactment",
+            "transact",
+            "transaction"
+          ],
+          "note": "enact 联系法律，transact 联系业务；现代义靠语境确认。"
+        },
+        {
+          "id": "act-real",
+          "label": "现实含义",
+          "wordIds": [
+            "actual",
+            "actually"
+          ],
+          "note": "历史同源；真实、实际上的现代义独立记。"
+        }
+      ],
+      "edges": [
+        {
+          "from": "action",
+          "to": "inaction",
+          "label": "in-：否定",
+          "type": "analysis"
+        },
+        {
+          "from": "actor",
+          "to": "actress",
+          "label": "actor / -ess：称谓变化",
+          "type": "analysis"
+        },
+        {
+          "from": "act",
+          "to": "acting",
+          "label": "-ing：本卡为名词",
+          "type": "analysis"
+        },
+        {
+          "from": "active",
+          "to": "actively",
+          "label": "-ly：副词",
+          "type": "analysis"
+        },
+        {
+          "from": "activity",
+          "to": "inactivity",
+          "label": "in-：否定活动",
+          "type": "analysis"
+        },
+        {
+          "from": "activate",
+          "to": "deactivate",
+          "label": "de-：撤销作用",
+          "type": "analysis"
+        },
+        {
+          "from": "activate",
+          "to": "reactivate",
+          "label": "re-：再次",
+          "type": "analysis"
+        },
+        {
+          "from": "react",
+          "to": "reactive",
+          "label": "-ive：形容词",
+          "type": "analysis"
+        },
+        {
+          "from": "react",
+          "to": "reactor",
+          "label": "-or：装置名词",
+          "type": "analysis"
+        },
+        {
+          "from": "interact",
+          "to": "interactive",
+          "label": "-ive：形容词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "active",
+          "to": "proactive",
+          "label": "pro-：提前主动",
+          "type": "analysis"
+        },
+        {
+          "from": "act",
+          "to": "counteract",
+          "label": "counter-：对抗",
+          "type": "analysis"
+        },
+        {
+          "from": "act",
+          "to": "enact",
+          "label": "en-：使成立",
+          "type": "analysis"
+        },
+        {
+          "from": "enact",
+          "to": "enactment",
+          "label": "-ment：名词",
+          "type": "analysis"
+        },
+        {
+          "from": "root:act",
+          "to": "transact",
+          "label": "拉丁 transigere：完成事务",
+          "type": "origin"
+        },
+        {
+          "from": "transact",
+          "to": "transaction",
+          "label": "-ion：名词词形对照（非造词先后）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:act",
+          "to": "actual",
+          "label": "历史同源：常见义独立记",
+          "type": "origin"
+        },
+        {
+          "from": "actual",
+          "to": "actually",
+          "label": "-ly：副词",
+          "type": "analysis"
+        }
+      ]
+    }
+  ]
+}

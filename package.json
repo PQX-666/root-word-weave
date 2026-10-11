@@ -1,0 +1,21 @@
+{
+  "name": "root-word-weave",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve-pages.mjs",
+    "check": "node scripts/check.mjs",
+    "build": "node scripts/build-pages.mjs",
+    "db:generate": "drizzle-kit generate",
+    "prestart": "node scripts/build-pages.mjs",
+    "build:cloud": "node scripts/build-worker.mjs",
+    "check:pages": "node scripts/check-pages.mjs"
+  },
+  "dependencies": {
+    "drizzle-orm": "0.45.2"
+  },
+  "devDependencies": {
+    "drizzle-kit": "0.31.10"
+  }
+}

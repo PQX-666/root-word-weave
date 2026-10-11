@@ -1,0 +1,104 @@
+{
+  "reviewedAt": "2026-10-09",
+  "scope": "l 批逐词原始词典与词源核对，不是考试收录认证",
+  "families": [
+    {
+      "id": "dent",
+      "words": 10
+    },
+    {
+      "id": "derm",
+      "words": 11
+    },
+    {
+      "id": "ped",
+      "words": 15
+    },
+    {
+      "id": "pedi",
+      "words": 12
+    },
+    {
+      "id": "corp",
+      "words": 14
+    },
+    {
+      "id": "cardi",
+      "words": 9
+    },
+    {
+      "id": "capit",
+      "words": 13
+    },
+    {
+      "id": "ment",
+      "words": 7
+    }
+  ],
+  "meaningChecked": "dental dentist dentistry dentition denture dentate indent indentation indenture indentured dermatology dermatologist dermatological dermal epidermis epidermal dermatitis hypodermic taxidermy taxidermist pachyderm pedal pedestrian pedestrianize pedestal pedigree impede impediment expedite expedition expeditionary expeditious biped quadruped centipede millipede pediatrics pediatric pediatrician pedagogy pedagogic pedagogical pedagogue encyclopedia encyclopedic orthopedics orthopedic orthopedist corps corpse corporal corporate corporation incorporate incorporation incorporated corporeal incorporeal corpus corpulent corpulence corpuscle cardiac cardiology cardiologist cardiovascular cardiogram electrocardiogram cardiomyopathy tachycardia bradycardia capital capitalism capitalist capitalize capitalization captain chapter decapitate decapitation recapitulate recapitulation capitulate capitulation mental mentally mentality dementia demented mentalism mentalist",
+  "meaningSourceTemplate": "https://www.merriam-webster.com/dictionary/{word}",
+  "etymologyChecked": "dental dentist dentistry dentition denture dentate indent indentation indenture indentured dermatology dermatologist dermal epidermis dermatitis hypodermic taxidermy pachyderm pedal pedestrian pedestal pedigree impede impediment expedite expedition expeditionary expeditious biped quadruped centipede millipede pediatrics pediatric pediatrician pedagogy pedagogic pedagogical pedagogue encyclopedia encyclopedic orthopedics orthopedic orthopedist corps corpse corporal corporate corporation incorporate incorporation corporeal incorporeal corpus corpulent corpulence corpuscle cardiac cardiology cardiovascular cardiogram electrocardiogram tachycardia capital capitalism capitalist capitalize capitalization captain chapter decapitate decapitation recapitulate recapitulation capitulate capitulation mental mentally mentality dementia demented mentalist",
+  "etymologySourceTemplate": "https://www.etymonline.com/word/{word}",
+  "etymologyFallbacks": {
+    "pedestrianize": "pedestrian 构词基础＋-ize；Merriam-Webster 独立及物义街道改为步行区",
+    "dermatological": "dermatology 明确列 Related: Dermatological；Merriam-Webster dermatology 页面派生形容词行另核对",
+    "epidermal": "epidermis 明确列 Related: Epidermal",
+    "taxidermist": "taxidermy 明确列 Taxidermist",
+    "incorporated": "incorporate 明确列 Related: Incorporated；原始词典另核对法人成立义形容词",
+    "cardiologist": "cardiology 明确列 Cardiologist",
+    "cardiomyopathy": "cardio-＋myo-＋-pathy 三词源要素，未宣称独立历史词条",
+    "bradycardia": "brady- 明确解释 bradycardia 的希腊慢＋心脏组合，Merriam-Webster 另核对近代拉丁来源",
+    "mentalism": "mental 心智基础＋-ism；原始词典独立哲学定义"
+  },
+  "method": "逐词读取原始词典现代POS义项与Etymonline正文。encyclopedic 初次503，经同原始词条搜索定位正文；cardiogram/capitalization 初次导航片段后继续定位L50正文。派生词回退基础均写入卡片，附明确词形或构词要素证据。",
+  "meaningExceptions": {
+    "dermatological": "原始词典链接重定向到 dermatology，在派生词区明确出现 adjective 与 dermatological，未把名词释义误当形容词",
+    "mentalist": "Merriam-Webster 现代 mind reader 义，本卡表演者；历史词条提供 mental+-ist 造词基础，不把艺术或思想学派旧义当现代表演义"
+  },
+  "additionalSenses": [
+    "pedal::operate",
+    "pedestrian::walking",
+    "pedestrian::ordinary",
+    "incorporate::company",
+    "incorporation::company",
+    "capital::wealth",
+    "capital::letter",
+    "capital::chief",
+    "capitalize::benefit"
+  ],
+  "correctionsFromSources": [
+    "Latin pes/pedis 足与 Greek pais/paidos 儿童严格分族；pediatric 英美拼写不重复计词",
+    "pedal 本卡名词，历史 pedalis 形容词转名词不绑定现代 -al 名词通则",
+    "pedestrian 名词、行人形容词、乏味形容词分卡；形容词词形历史早于英语名词",
+    "pedigree 鹤脚图形为词源解释假说，明确源文的不确定性",
+    "impede 可能从 impediment 逆构或来自 Latin impedire；英语名词更早",
+    "expedition 和 expeditious 英语早于 expedite，不伪造借词时序",
+    "centipede 百和 millipede 千为命名联想，不保证实际腿数",
+    "pedagogical 英语历史早于 pedagogic，现代教学不限儿童",
+    "encyclopedia 来自希腊一般教育短语的近代拉丁合读；现代不是儿童书保证",
+    "orthopedic 历史儿童培养与现代骨科领域区别，不归 Latin 脚词族",
+    "indent 排版与锯齿契约同源；另一凹痕 indent 来自英语 dent，不混进 Latin 牙族",
+    "dentate、corporate 本卡形容词，-ate 不保证动词；dentistry 为行业名词",
+    "pachyderm 旧动物分类停用，现代作为传统通称",
+    "corps 历史末尾 s 不是普通复数；corpse 为遗体义，现代别混",
+    "corporal 身体形容词来自 corpus，军衔名词 caporale/corpo 解释有争议，不强归一根",
+    "incorporate 的 in- 在内与 incorporeal 的 in- 否定分开；incorporeal 英语比 corporeal 更早",
+    "incorporate、incorporation 整合与法人成立各独立卡；corpus 常见复数 corpora",
+    "cardiac 本卡心脏义，另有贲门相关义，不以心根推所有用法",
+    "cardiogram 不等同所有 electrocardiogram；心电图 ECG/EKG 不计三个新词",
+    "cardiomyopathy 三要素各核来源；bradycardia 来自 brady- 例词，回退明示",
+    "心率快慢仅术语对照，未凭构词给数值、原因或治疗建议；专业词 core=false",
+    "capital 首都／资金／大写字母／主要形容词独立；-al 历史词尾不套现代动作名词通则",
+    "capitalize 书写义与 capitalize on 利用义独立；capitalism 用资金义分支",
+    "captain、chapter 历经法语形式，不硬造 cap+-tain 或 chap+-ter",
+    "recapitulate 与 capitulate 分别从更早名词逆构或同源来源，不把概括教成重新投降",
+    "mental 的心智 mens 与另源下巴 mentum 排除混合；-ment 名词后缀非心智根",
+    "dementia 用现代认知功能衰退义，不用历史疯狂义替代；demented 本卡文学行为缺乏理性义",
+    "mentalism 本卡思想理论与 mentalist 现代表演义分开，不宣称超自然读心能力"
+  ],
+  "medicalScope": "专业疾病词只给词义、构词及文本例句，不给治疗、个体诊断、阈值或处理建议",
+  "ipa": "未猜测IPA，未机械转换Merriam-Webster自有注音",
+  "examTags": "未猜测四级六级雅思收录；专业词不夸大频率，未匹配不得推断不考",
+  "examples": "每词与每追加义项两条不同原创英文例句及中文译文，不复制词典例句",
+  "validation": "分组完全覆盖、边合法且根到各词全可达、parts去展示连字符后逐字重建91词拼写、每词两例与来源字段齐全"
+}

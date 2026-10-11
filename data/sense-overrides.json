@@ -1,0 +1,68 @@
+{
+  "senses": {
+    "produce::agricultural-goods": {
+      "examples": [
+        {
+          "text": "The market sells fresh produce from nearby farms.",
+          "translation": "这座市场出售附近农场的新鲜农产品。"
+        },
+        {
+          "text": "The restaurant buys seasonal produce from local growers.",
+          "translation": "这家餐馆向本地种植者采购时令农产品。"
+        }
+      ],
+      "etymologyNote": "produce 的历史动词联系拉丁 pro-（向前）与 ducere（引导、带来）；英语农产品名词后来由动词转用。词根直译不能代替农产品这一现代义，名词重音要单独记。"
+    },
+    "conduct::transmit-heat-electricity": {
+      "examples": [
+        {
+          "text": "The students tested how well the wire conducted electricity.",
+          "translation": "学生们测试了这根导线传导电流的性能。"
+        },
+        {
+          "text": "The demonstration showed that this material conducts heat slowly.",
+          "translation": "演示表明，这种材料传导热量的速度较慢。"
+        }
+      ],
+      "etymologyNote": "conduct 的历史线索联系拉丁 conducere（引导、带到一起）。传热、传电是后续形成的专门义，可用“引导通过材料”联想，但不能将其它动词用法套进本义项。"
+    },
+    "conduct::behaviour": {
+      "examples": [
+        {
+          "text": "Employees are expected to follow the company's code of conduct.",
+          "translation": "员工应遵守公司的行为准则。"
+        },
+        {
+          "text": "Her professional conduct earned the respect of her colleagues.",
+          "translation": "她专业得体的行为赢得了同事的尊重。"
+        }
+      ],
+      "etymologyNote": "conduct 的历史线索联系带领、管理；行为名词可联系如何管理自己、如何行事。这里学习正式的行为方式义，名词前重音，与开展活动的动词后重音分别记。"
+    },
+    "conductor::music-director": {
+      "examples": [
+        {
+          "text": "The conductor raised her baton, and the orchestra began to play.",
+          "translation": "指挥举起指挥棒，乐团开始演奏。"
+        },
+        {
+          "text": "The conductor rehearsed the final passage with the choir.",
+          "translation": "指挥与合唱团一起排练了最后一个乐段。"
+        }
+      ],
+      "etymologyNote": "词源联系拉丁 conductor 与 conducere 的带领线索，英语后来发展出乐团或合唱团指挥等专门义。它与导体是同一词的不同用法，不能把导体义加词缀推成指挥。"
+    },
+    "object::object-sense-thing": {
+      "examples": [
+        {
+          "text": "During the exercise, she identified each object by touch.",
+          "translation": "练习中，她通过触摸辨认每个物体。"
+        },
+        {
+          "text": "Do not place heavy objects on the glass shelf.",
+          "translation": "不要把重物放在玻璃架上。"
+        }
+      ]
+    }
+  }
+}

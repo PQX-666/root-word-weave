@@ -1,0 +1,77 @@
+{
+  "reviewedAt": "2026-10-09",
+  "scope": "只读核查当前 dist/library.json 的后缀知识卡链接、整词词性提示及跨词族主词条语义；不新增词族，不修改 app。",
+  "snapshot": {
+    "path": "app/dist/library.json",
+    "sha256": "50be83a5218d5e965a4c69c411092ab1b7a79b519f88cbd33258d06e5c54193b",
+    "families": 102,
+    "canonicalWords": 1467,
+    "suffixLinksInspected": 325,
+    "sharedCanonicalRecordsCompared": 31,
+    "sharedPrimaryPosOrMeaningConflicts": 0
+  },
+  "findings": [
+    {
+      "id": "visualize-pos-hint-intermediate-stage",
+      "priority": "P2",
+      "wordId": "visualize",
+      "title": "visualize 的词性线索仅呈现中间形容词阶段，遗漏整词动词线索",
+      "observed": {
+        "pos": "v.",
+        "meaning": "想象；使形象化；把……可视化",
+        "parts": [
+          { "text": "vis", "key": "root-vis", "role": "root" },
+          { "text": "ual", "key": "al-adj", "role": "suffix" },
+          { "text": "ize" }
+        ],
+        "posHint": "ual：常见形容词",
+        "explanation": "现代可识别 visual + -ize，表示在脑中形成图像或以可视形式呈现。英式拼写也可用 visualise。"
+      },
+      "impact": "词条页面直接在‘词性线索’栏显示该 posHint。整词已标为动词，却只给出形容词结论，学习者看不到 -ize 决定当前派生阶段词性的线索。ual 与形容词词基 visual 的联系本身不是错误，问题是编译提示只汇总有 key 的中间层后缀。",
+      "localEvidence": [
+        "app/dist/library.json words.visualize.posHint",
+        "app/scripts/prepare-library.mjs:33 根据有 key 的 suffix 拼接 posHint，ize 没有 key",
+        "app/dist/word-card.js:18 ‘词性线索’直接显示 w.posHint",
+        "words.visualize.teachingSteps 已正确写出 visual 为形容词、visual + -ize 为动词"
+      ],
+      "sourceEvidence": [
+        {
+          "url": "https://www.etymonline.com/word/visualize",
+          "supports": "visualize 的动词词源明确关联 visual + -ize。"
+        },
+        {
+          "url": "https://www.merriam-webster.com/dictionary/visualize",
+          "supports": "主词条明确为动词，包含形成心中图像及使可见的用法。"
+        }
+      ],
+      "suggestedMinimalChange": {
+        "posHint": "先识别 visual（形容词）；再由 -ize 构成动词 visualize。本卡学习动词用法。"
+      },
+      "doNotChange": "不用删除有效的历史或中间层链接；不用改 canonical 主词性或主词义；也不需要把所有 -ual/-al 词尾一概判错。"
+    }
+  ],
+  "reviewedNonIssues": [
+    {
+      "wordIds": ["supportively", "objectively", "formally", "impressively", "visualization"],
+      "reason": "含有输出形容词的中间层后缀，但末层 -ly 或 -ation 同样有链接与正确输出提示，原解释明确派生次序；不能因整词词性与中间层后缀输出不同就判为错误。"
+    },
+    {
+      "wordIds": ["perspective"],
+      "reason": "名词链接 -ive 卡，但知识卡明确容许部分整词名词用法，词条与教学步骤明确此处为名词；历史来源为相关拉丁形容词词形的名词化，不能判为现代规则错用。",
+      "source": "https://www.etymonline.com/word/perspective"
+    },
+    {
+      "wordIds": ["proposal", "removal", "lunate", "stellate"],
+      "reason": "名词 -al 没有误连 al-adj，历史形容词 -ate 没有误连 ate-verb，现有词条解释保留相应词性区别。",
+      "sources": [
+        "https://www.etymonline.com/word/proposal",
+        "https://www.etymonline.com/word/lunate"
+      ]
+    },
+    {
+      "wordIds": ["manufacture", "maintain", "biology", "geometric", "equivalent", "microscope", "aquamarine"],
+      "reason": "连同其余共享词，共对比31条跨词族主记录；现库与每个所属词族原记录的主 POS/meaning 一致，未发现覆盖造成的主语义偏移。制造不限定手工、几何不限定土地测量、海蓝宝石不混颜色复习等解释均保留。"
+    }
+  ],
+  "limitations": "范围仅覆盖指定词性链接和跨词族 canonical 边界，不构成1467词所有义项、搭配及例句的逐项重新审核。没有为凑够5条而把有效的历史词尾或派生中间层当成错误。"
+}

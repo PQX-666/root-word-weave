@@ -1,0 +1,24 @@
+import fs from 'node:fs';import path from 'node:path';
+const root=path.resolve(import.meta.dirname,'..');
+function edit(file,from,to){const name=path.join(root,file),s=fs.readFileSync(name,'utf8');if(s.includes(to))return;if(!s.includes(from))throw Error('Missing edit anchor '+file+': '+from.slice(0,60));fs.writeFileSync(name,s.replace(from,to));}
+edit('scripts/serve.cjs',"const root=path.resolve(__dirname,'../dist');","const root=path.resolve(__dirname,'../dist');\nconst previewPort=Number(process.env.PREVIEW_PORT||61517),previewUser=process.env.PREVIEW_USER_ID||'local-preview-owner';if(!Number.isInteger(previewPort)||previewPort<1024||previewPort>65535)throw Error('Invalid preview port');");
+edit('scripts/serve.cjs',"headers.set('oai-authenticated-user-id','local-preview-owner')","headers.set('oai-authenticated-user-id',previewUser)");
+edit('scripts/serve.cjs',"new Request('http://127.0.0.1:61517/api/progress'","new Request('http://127.0.0.1:'+previewPort+'/api/progress'");
+edit('scripts/serve.cjs',".listen(61517,'127.0.0.1',()=>console.log('Local: http://127.0.0.1:61517/'))",".listen(previewPort,'127.0.0.1',()=>console.log('Local: http://127.0.0.1:'+previewPort+'/'))");
+edit('scripts/local-db.cjs','let db;',"const dbName=process.env.PREVIEW_DB_NAME||'preview.sqlite';if(!/^[a-zA-Z0-9_-]+\\.sqlite$/.test(dbName))throw Error('Invalid preview database name');\nlet db;");
+edit('scripts/local-db.cjs',"path.join(dir,'preview.sqlite')","path.join(dir,dbName)");
+edit('dist/app.js',"const n=f.wordIds.filter(id=>state.words[id]?.status==='review').length","const n=f.wordIds.filter(id=>(lib.words[id].studyItemIds||[id]).some(x=>state.words[x]?.status==='review'||state.words[x]?.repetitions>0)).length");
+edit('dist/app.js',"ids=[...new Set([...(group?.wordIds||[w.wordId||q.id])])].slice(0,8)","ids=[...new Set([E.canonicalId(q.id),...(group?.wordIds||[])])].slice(0,8)");
+edit('dist/app.js','<select id="study-goal">','<select id="study-goal" '+"'+(state.session?'disabled':'')+'"+'>');
+edit('dist/app.js','<select id="foundation">','<select id="foundation" '+"'+(state.session?'disabled':'')+'"+'>');
+edit('dist/app.js','<input id="skip-foundation" type="checkbox" ','<input id="skip-foundation" type="checkbox" '+"'+(state.session?'disabled':'')+' ");
+edit('dist/app.js',"return `<span class=\"tag\">先理解 · 新词</span>","return `<span class=\"tag\">先理解 · ${obj.isAdditionalSense?'拓展义项':'新词'}</span>");
+edit('dist/app.js','${parts(obj)}<p class="mt">${esc(obj.explanation)}</p>','${morphologyHTML(obj,lib)}<div class="row mt">${button(\'完整词卡\',\'quiz-detail\',\'btn small outline\')}</div>');
+edit('dist/word-card.js',"const f=lib.families.find(f=>f.id===w.families[0]),p=", "const backFamily=back.startsWith('family/')?back.slice(7):'',f=lib.families.find(f=>f.id===(w.families.includes(backFamily)?backFamily:w.families[0])),p=");
+edit('dist/word-card.js',"w.synonyms.map(word=>({word}))","(w.synonyms||[]).map(word=>typeof word==='string'?{word}:word)");
+edit('dist/word-card.js',"w.antonyms.map(word=>({word}))","(w.antonyms||[]).map(word=>typeof word==='string'?{word}:word)");
+edit('dist/word-card.js',"w.ipa.us!==w.ipa.uk?","w.ipa.us&&w.ipa.us!==w.ipa.uk?");
+edit('dist/word-card.js','<p class="muted">先找到联系，再记住这个词。</p>','<p class="muted">先找到联系，再记住这个词。</p>${w.families.length>1?`<div class="row family-memberships">${w.families.map(fid=>`<a class="tag" href="#family/${fid}">${esc(lib.families.find(x=>x.id===fid).label)}</a>`).join(\'\')}</div>`:\'\'}');
+edit('dist/atlas.js','${esc(f.label)}</button><p>${esc(f.meaning)}</p>','${esc(f.label.split(\'/\')[0].trim())}</button>${f.label.includes(\'/\')?`<small>${esc(f.label)}</small>`:\'\'}<p>${esc(f.meaning)}</p>');
+edit('dist/atlas.js','font-size="${f.label.length>9?35:58}"','font-size="${Math.min(58,Math.floor(185/(f.label.length*.58)))}"');
+console.log('Experience refinements applied');

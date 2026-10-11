@@ -1,0 +1,62 @@
+{
+  "reviewedAt": "2026-10-09",
+  "scope": "i 批逐词原始词典与词源核对，非考试收录认证",
+  "method": "每词读取原始词典的所选现代词性与义项、Etymonline 的对应正文。部分页面先出现导航或页脚，继续定位正文或搜索同一原始词条。12个初次回退词中 depopulation 后找到独立正文，最终11个回退均在卡片明示。",
+  "meaningSourceTemplate": "https://www.merriam-webster.com/dictionary/{word}",
+  "etymologySourceTemplate": "https://www.etymonline.com/word/{word}",
+  "meaningChecked": "jury juror jurisdiction jurisdictional jurisprudence perjury injury injurious judge judgment judicial judiciary prejudice prejudiced justice just unjust justify justification unjustified liberty liberal liberally liberalism liberalize liberalization liberate liberation liberator libertarian libertarianism illiberal social socially society sociable sociability unsociable antisocial socialize socialization sociology sociologist sociological associate association associated associative common commonly uncommon community communal communally communism communist communicate communication communicative uncommunicative communion civil civilian city citizen citizenship civic civics civilize civilization civilized uncivilized civility civilly uncivil incivility urban suburb suburban urbanize urbanization suburbanization urbanism urbanist urbane urbanity conurbation exurb people popular popularity popularly unpopular popularize popularization population populate populated populous depopulate depopulation populist populism peace peaceful peacefully peaceable pacific pacify pacification pacifier pacifism pacifist appease appeasement pact",
+  "etymologyChecked": "jury juror jurisdiction jurisprudence perjury injury injurious judge judgment judicial judiciary prejudice justice just unjust justify justification unjustified liberty liberal liberally liberalism liberalize liberalization liberate liberation liberator libertarian illiberal social society sociable sociability unsociable antisocial socialize socialization sociology sociologist sociological associate association associative common commonly uncommon community communal communism communist communicate communication communicative uncommunicative communion civil civilian city citizen citizenship civic civics civilize civilization civilized uncivilized civility civilly uncivil urban suburb suburban urbanize urbanization suburbanization urbanism urbane urbanity conurbation exurb people popular popularity unpopular popularize popularization population populate populous depopulate depopulation populist populism peace peaceful peaceable pacific pacify pacification pacifier pacifism pacifist appease appeasement pact",
+  "etymologyFallbacks": {
+    "jurisdictional": "jurisdiction 构词基础＋-al",
+    "prejudiced": "prejudice 相关过去分词＋-ed",
+    "libertarianism": "libertarian 明确列出 Libertarianism；Merriam-Webster 独立词条另核对",
+    "socially": "social 相关副词与现代 -ly",
+    "associated": "associate 相关过去分词",
+    "communally": "communal 基础形容词＋-ly",
+    "incivility": "civility 为基础来源，Merriam-Webster incivility Word History 另核对法语及拉丁否定名词",
+    "urbanist": "urban 构词基础＋-ist；未断言独立历史首见",
+    "popularly": "popular 相关副词与现代 -ly",
+    "populated": "populate 相关过去分词",
+    "peacefully": "peaceful 相关副词与现代 -ly"
+  },
+  "meaningExceptions": {
+    "civilized": "Cambridge English Dictionary POLITE 义：礼貌、理性行为，非把社会分类义当礼貌义",
+    "sociologist": "Merriam-Webster 重定向 sociology 页面中明确列出的 sociologist 名词；不把学科释义误当人物"
+  },
+  "reusedCanonical": [
+    "jurisdiction"
+  ],
+  "additionalSenses": [
+    "judge::official",
+    "liberal::generous",
+    "liberal::political",
+    "socialize::adapt",
+    "association::connection",
+    "civil::private",
+    "civil::polite",
+    "appeasement::policy"
+  ],
+  "correctionsFromSources": [
+    "judge 来自 iudicare 法＋宣告，与 jur/jus 历史关系而非现代 jur 加后缀",
+    "jury、juror 从宣誓词源入族；航海 jury 临时来源不明排除",
+    "justice、just 形容词的公平义与 just 副词另分；judiciary 名词不能按 -ary 自动标形容词",
+    "liber 自由排除 library 书的同形拉丁 liber；liberation 名词早于 liberate 英语动词",
+    "liberal 开明、慷慨、政治义分开；socialize 交往、使社会化分开",
+    "communicative 与 communication 英语历史早于 communicate，连线表示同源关系",
+    "city、citizen 历经法语变化，不硬拆 civ 加现代后缀；civics 是学科名词",
+    "civil 公民／民用、民事、礼貌三卡；civilized 礼貌行为按 Cambridge 对应义核对",
+    "incivility 在原始词典中核对法语 incivilité 与拉丁 incivilitas，词源回退基础词明示",
+    "exurb 从已有 exurban 词形发展；suburbanization 含中间动词 suburbanize",
+    "urbane、urbanity 当前礼貌义与 urban 城市义分开",
+    "popular 受欢迎与 populous 人口多、population 人口、populism 民粹主义分开",
+    "depopulation 名词早于 depopulate，depopulate 又早于 populate 英语动词，不伪造英语词形时间线",
+    "小写 pacific 和平义设置 excludeAutoExamTags，避免大写 Pacific 专名头词自动套考试标签",
+    "pacification 名词早于 pacify；平定义不能把和平词根当作温和手段保证",
+    "peaceable 由法语 paisible 发展；pacifier 本卡奶嘴名词，-er 不保证人物",
+    "appeasement 普通安抚与政治绥靖分卡；pact 为更远历史协议联系"
+  ],
+  "ipa": "未猜测音标，未机械转换 Merriam-Webster 注音体系",
+  "examTags": "未猜测四级六级雅思收录；未匹配不等于不考。pacific 特殊义项排除自动头词标签。",
+  "examples": "每词两条不同原创英文例句及译文；新增义项各两条，未复制词典例句",
+  "relatedWords": "近反义词仅对应当前义项及标明语境，没有合适单词留空"
+}

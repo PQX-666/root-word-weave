@@ -1,0 +1,150 @@
+{
+  "reviewedAt": "2026-10-09",
+  "scope": [
+    "ensureDay/continueSession/skipKnown 跨上海午夜",
+    "validateState 知识卡自有ID",
+    "目标及基础跳过时保留真实完成与旧记录"
+  ],
+  "files": [
+    "app/dist/engine.js",
+    "app/scripts/check-continuity.mjs",
+    "app/scripts/check-targets.mjs"
+  ],
+  "method": "只读代码审核＋现有只读 Node 检查＋freshState 内存回归矩阵；未访问存储API，未启动浏览器，未修改app",
+  "existingChecks": [
+    "check-continuity passed",
+    "check-targets passed"
+  ],
+  "inMemoryChecks": [
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 0,
+      "skipsRequested": 0,
+      "skipsApplied": 0,
+      "todayTarget": 6,
+      "completed": 6,
+      "passed": true
+    },
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 0,
+      "skipsRequested": 1,
+      "skipsApplied": 1,
+      "todayTarget": 6,
+      "completed": 6,
+      "passed": true
+    },
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 0,
+      "skipsRequested": 2,
+      "skipsApplied": 2,
+      "todayTarget": 6,
+      "completed": 6,
+      "passed": true
+    },
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 1,
+      "skipsRequested": 0,
+      "skipsApplied": 0,
+      "todayTarget": 5,
+      "completed": 5,
+      "passed": true
+    },
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 1,
+      "skipsRequested": 1,
+      "skipsApplied": 1,
+      "todayTarget": 5,
+      "completed": 5,
+      "passed": true
+    },
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 1,
+      "skipsRequested": 2,
+      "skipsApplied": 2,
+      "todayTarget": 5,
+      "completed": 5,
+      "passed": true
+    },
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 3,
+      "skipsRequested": 0,
+      "skipsApplied": 0,
+      "todayTarget": 3,
+      "completed": 3,
+      "passed": true
+    },
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 3,
+      "skipsRequested": 1,
+      "skipsApplied": 1,
+      "todayTarget": 3,
+      "completed": 3,
+      "passed": true
+    },
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 3,
+      "skipsRequested": 2,
+      "skipsApplied": 2,
+      "todayTarget": 3,
+      "completed": 3,
+      "passed": true
+    },
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 5,
+      "skipsRequested": 0,
+      "skipsApplied": 0,
+      "todayTarget": 1,
+      "completed": 1,
+      "passed": true
+    },
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 5,
+      "skipsRequested": 1,
+      "skipsApplied": 0,
+      "todayTarget": 1,
+      "completed": 1,
+      "passed": true
+    },
+    {
+      "scenario": "midnight_partial_and_known_skip",
+      "finishedBefore": 5,
+      "skipsRequested": 2,
+      "skipsApplied": 0,
+      "todayTarget": 1,
+      "completed": 1,
+      "passed": true
+    },
+    {
+      "scenario": "completed_learning_survives_goal_and_foundation_switches",
+      "passed": true,
+      "retainedWords": 6
+    },
+    {
+      "scenario": "prototype_names_rejected_in_records_sessions_and_start",
+      "ids": [
+        "constructor",
+        "toString",
+        "__proto__",
+        "hasOwnProperty"
+      ],
+      "passed": true
+    },
+    {
+      "scenario": "knowledge_completion_at_actual_commit_day",
+      "passed": true
+    }
+  ],
+  "findings": [],
+  "conclusion": "指定范围内未发现可复现的实质问题。午夜前已完成记录保持原日，剩余新学项在午夜后建续学日计划；跳过已知词与补位不重复，实际完成按 continueSession 提交时间记入当前日；目标和基础筛选不删除 words 历史，真实已完成项保留；原型名称不能伪装为知识卡ID。",
+  "limitations": "这是指定流程的只读审核，不替代全部备份字段校验、并发存储或浏览器端全面测试。"
+}

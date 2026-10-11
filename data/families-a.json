@@ -1,0 +1,3448 @@
+{
+  "families": [
+    {
+      "id": "act",
+      "label": "act",
+      "meaning": "做，行动",
+      "description": "从 act 的“做、行动”联想行动、反应与互动。图中的词形联系用于教学展开，历史同源另作标记；链路不表示英语造词的时间先后。",
+      "words": [
+        {
+          "id": "act",
+          "word": "act",
+          "pos": "v.",
+          "meaning": "采取行动",
+          "parts": [
+            {
+              "text": "act",
+              "key": "root-act"
+            }
+          ],
+          "explanation": "act 可作动词“采取行动”，也可作名词“一次行为”。",
+          "mnemonic": "把想法变成一个实际动作。",
+          "example": "We must act before the problem gets worse.",
+          "translation": "我们必须在问题恶化之前采取行动。",
+          "collocation": "act on advice",
+          "synonyms": [
+            "take action（采取行动）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/act"
+        },
+        {
+          "id": "action",
+          "word": "action",
+          "pos": "n.",
+          "meaning": "行动；措施",
+          "parts": [
+            {
+              "text": "act",
+              "key": "root-act"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "在词形上可联系 act 与名词后缀 -ion；强调采取的行动或措施。",
+          "mnemonic": "把 act 这个动作看成一项 action。",
+          "example": "The school took action to reduce food waste.",
+          "translation": "学校采取了措施来减少食物浪费。",
+          "collocation": "take action",
+          "synonyms": [
+            "measure（措施）"
+          ],
+          "antonyms": [
+            "inaction（不行动）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/action"
+        },
+        {
+          "id": "active",
+          "word": "active",
+          "pos": "adj.",
+          "meaning": "积极的；活跃的",
+          "parts": [
+            {
+              "text": "act",
+              "key": "root-act"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "词源与 act 同族；-ive 提示形容词，这里描述积极参与或经常活动。",
+          "mnemonic": "经常 act 的人很 active。",
+          "example": "She plays an active role in the reading club.",
+          "translation": "她在读书俱乐部中发挥着积极作用。",
+          "collocation": "an active role",
+          "synonyms": [
+            "energetic（精力充沛的）"
+          ],
+          "antonyms": [
+            "inactive（不活跃的）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/active"
+        },
+        {
+          "id": "activity",
+          "word": "activity",
+          "pos": "n.",
+          "meaning": "活动；活动状态",
+          "parts": [
+            {
+              "text": "activ",
+              "key": "root-act"
+            },
+            {
+              "text": "-ity",
+              "key": "ity-noun"
+            }
+          ],
+          "explanation": "词形联系 active：去掉词尾 e，加 -ity；既可指具体活动，也可指活动状态。",
+          "mnemonic": "active 的状态或具体项目就是 activity。",
+          "example": "The club offers a new outdoor activity each month.",
+          "translation": "俱乐部每个月都提供一项新的户外活动。",
+          "collocation": "outdoor activities",
+          "synonyms": [
+            "pursuit（活动）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/activity"
+        },
+        {
+          "id": "actor",
+          "word": "actor",
+          "pos": "n.",
+          "meaning": "演员",
+          "parts": [
+            {
+              "text": "act",
+              "key": "root-act"
+            },
+            {
+              "text": "-or",
+              "key": "or-agent"
+            }
+          ],
+          "explanation": "在现代词形上可联系 act“表演”与表示人的 -or；actor 可指任何性别的演员。",
+          "mnemonic": "在舞台上 act 的人是 actor。",
+          "example": "The young actor prepared carefully for the role.",
+          "translation": "这位年轻演员为这个角色做了认真准备。",
+          "collocation": "a leading actor",
+          "synonyms": [
+            "performer（表演者）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/actor"
+        },
+        {
+          "id": "react",
+          "word": "react",
+          "pos": "v.",
+          "meaning": "作出反应",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "act",
+              "key": "root-act"
+            }
+          ],
+          "explanation": "re- 的“回应、返回”与 act 联系：受到刺激后作出行动；常与 to 连用。",
+          "mnemonic": "别人先行动，我 act 回去：react。",
+          "example": "How did your classmates react to the new schedule?",
+          "translation": "你的同学们对新课表有什么反应？",
+          "collocation": "react to a change",
+          "synonyms": [
+            "respond（回应）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/react"
+        },
+        {
+          "id": "reaction",
+          "word": "reaction",
+          "pos": "n.",
+          "meaning": "反应；回应",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "act",
+              "key": "root-act"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "可与 react 作动词、名词词形联系；也可指化学反应。这里只学习对事件的反应。",
+          "mnemonic": "react 是作出反应，reaction 是那次反应。",
+          "example": "Her first reaction was to ask for more information.",
+          "translation": "她的第一反应是要求提供更多信息。",
+          "collocation": "a reaction to the news",
+          "synonyms": [
+            "response（回应）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/reaction"
+        },
+        {
+          "id": "interact",
+          "word": "interact",
+          "pos": "v.",
+          "meaning": "交流；相互作用",
+          "parts": [
+            {
+              "text": "inter-",
+              "key": "inter-between"
+            },
+            {
+              "text": "act",
+              "key": "root-act"
+            }
+          ],
+          "explanation": "inter- 表示彼此之间；interact 强调双方交流或互相影响。",
+          "mnemonic": "两个人之间来回 act，就是 interact。",
+          "example": "The workshop lets students interact with local artists.",
+          "translation": "这次工作坊让学生与当地艺术家交流。",
+          "collocation": "interact with others",
+          "synonyms": [
+            "communicate（交流）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/interact"
+        },
+        {
+          "id": "interaction",
+          "word": "interaction",
+          "pos": "n.",
+          "meaning": "交流；相互作用",
+          "parts": [
+            {
+              "text": "inter-",
+              "key": "inter-between"
+            },
+            {
+              "text": "act",
+              "key": "root-act"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 interact 的词形对应，-ion 提示名词；可指人与人的交流或因素间的作用。",
+          "mnemonic": "把一次 interact 记录下来就是 interaction。",
+          "example": "Regular interaction with classmates can build confidence.",
+          "translation": "经常与同学交流可以增强自信。",
+          "collocation": "social interaction",
+          "synonyms": [
+            "communication（交流）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/interaction"
+        },
+        {
+          "id": "inactive",
+          "word": "inactive",
+          "pos": "adj.",
+          "meaning": "不活跃的；未运作的",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-negative"
+            },
+            {
+              "text": "act",
+              "key": "root-act"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "in- 在这里表示“不”，与 active 构成反义；常描述人、账户或设备的状态。",
+          "mnemonic": "in- 把 active 的活动状态关掉。",
+          "example": "The account became inactive after a year without use.",
+          "translation": "这个账户一年未使用后变为不活跃状态。",
+          "collocation": "an inactive account",
+          "synonyms": [
+            "idle（闲置的）"
+          ],
+          "antonyms": [
+            "active（活跃的）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/inactive"
+        },
+        {
+          "id": "activate",
+          "word": "activate",
+          "pos": "v.",
+          "meaning": "启动；使激活",
+          "parts": [
+            {
+              "text": "activ",
+              "key": "root-act"
+            },
+            {
+              "text": "-ate"
+            }
+          ],
+          "explanation": "与 active 联系；动词后缀 -ate 表示使其进入活跃或运作状态。",
+          "mnemonic": "让设备变 active，就要 activate。",
+          "example": "Press this button to activate the alarm.",
+          "translation": "按这个按钮即可启动警报。",
+          "collocation": "activate a device",
+          "synonyms": [
+            "enable（启用）"
+          ],
+          "antonyms": [
+            "deactivate（停用）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/activate"
+        },
+        {
+          "id": "activation",
+          "word": "activation",
+          "pos": "n.",
+          "meaning": "启动；激活",
+          "parts": [
+            {
+              "text": "activat",
+              "key": "root-act"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "activate 去掉词尾 e，加 -ion，表示启动或激活的过程。",
+          "mnemonic": "activate 的操作过程叫 activation。",
+          "example": "Account activation usually takes only a few minutes.",
+          "translation": "账户激活通常只需要几分钟。",
+          "collocation": "account activation",
+          "synonyms": [],
+          "antonyms": [
+            "deactivation（停用）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/activation"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:act",
+          "to": "act",
+          "label": "独立词",
+          "type": "analysis"
+        },
+        {
+          "from": "act",
+          "to": "action",
+          "label": "-ion：词形联系",
+          "type": "analysis"
+        },
+        {
+          "from": "root:act",
+          "to": "active",
+          "label": "同源形容词",
+          "type": "origin"
+        },
+        {
+          "from": "active",
+          "to": "activity",
+          "label": "-ity（去 e）",
+          "type": "analysis"
+        },
+        {
+          "from": "act",
+          "to": "actor",
+          "label": "-or：词形联系",
+          "type": "analysis"
+        },
+        {
+          "from": "act",
+          "to": "react",
+          "label": "re-：回应",
+          "type": "analysis"
+        },
+        {
+          "from": "react",
+          "to": "reaction",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "act",
+          "to": "interact",
+          "label": "inter-：彼此",
+          "type": "analysis"
+        },
+        {
+          "from": "interact",
+          "to": "interaction",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "active",
+          "to": "inactive",
+          "label": "in-：不",
+          "type": "analysis"
+        },
+        {
+          "from": "active",
+          "to": "activate",
+          "label": "-ate（去 e）",
+          "type": "analysis"
+        },
+        {
+          "from": "activate",
+          "to": "activation",
+          "label": "-ion（去 e）",
+          "type": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "port",
+      "label": "port",
+      "meaning": "搬运，携带",
+      "description": "词源核心来自拉丁语 portare“携带”。transport、import、report、support 等作为历史同源词连接；现代派生单独展开。import 的 im- 表示“进入”，不是否定前缀。",
+      "words": [
+        {
+          "id": "portable",
+          "word": "portable",
+          "pos": "adj.",
+          "meaning": "便携的",
+          "parts": [
+            {
+              "text": "port",
+              "key": "root-port"
+            },
+            {
+              "text": "-able",
+              "key": "able-adj"
+            }
+          ],
+          "explanation": "历史上与“能够携带”有关；-able 提示“可……的”，描述易于搬动的物品。",
+          "mnemonic": "可以随身 port 的设备很 portable。",
+          "example": "A portable charger is useful on a long train journey.",
+          "translation": "长途火车旅行时，便携充电器很有用。",
+          "collocation": "a portable device",
+          "synonyms": [
+            "movable（可移动的）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/portable"
+        },
+        {
+          "id": "portability",
+          "word": "portability",
+          "pos": "n.",
+          "meaning": "便携性",
+          "parts": [
+            {
+              "text": "port",
+              "key": "root-port"
+            },
+            {
+              "text": "-ability"
+            }
+          ],
+          "explanation": "与 portable 联系：-able 变为 -ability，表示便于携带这一特性。",
+          "mnemonic": "portable 说物品，portability 说它的便携性。",
+          "example": "Students value the portability of lightweight laptops.",
+          "translation": "学生们看重轻薄笔记本电脑的便携性。",
+          "collocation": "improve portability",
+          "synonyms": [],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/portable"
+        },
+        {
+          "id": "transport",
+          "word": "transport",
+          "pos": "v.",
+          "meaning": "运输",
+          "parts": [
+            {
+              "text": "trans-",
+              "key": "trans-across"
+            },
+            {
+              "text": "port",
+              "key": "root-port"
+            }
+          ],
+          "explanation": "历史构词为 trans-“越过”与“携带”；现代常指把人或物从一地运到另一地。",
+          "mnemonic": "跨过一段距离 port：transport。",
+          "example": "The trucks transport fresh vegetables to the city.",
+          "translation": "这些卡车把新鲜蔬菜运往城市。",
+          "collocation": "transport goods; public transport",
+          "synonyms": [
+            "carry（运送）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/transport"
+        },
+        {
+          "id": "transportation",
+          "word": "transportation",
+          "pos": "n.",
+          "meaning": "运输；交通运输系统",
+          "parts": [
+            {
+              "text": "trans-",
+              "key": "trans-across"
+            },
+            {
+              "text": "port",
+              "key": "root-port"
+            },
+            {
+              "text": "-ation",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 transport 的名词词形联系；尤其在美式英语中也常指交通运输方式或系统。",
+          "mnemonic": "把 transport 看成过程或系统：transportation。",
+          "example": "Better transportation can connect the village with nearby towns.",
+          "translation": "更好的交通运输可以把村庄与附近城镇连接起来。",
+          "collocation": "public transportation",
+          "synonyms": [
+            "transport（交通运输）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/transportation"
+        },
+        {
+          "id": "import",
+          "word": "import",
+          "pos": "v.",
+          "meaning": "进口",
+          "parts": [
+            {
+              "text": "im-",
+              "key": "in-inside"
+            },
+            {
+              "text": "port",
+              "key": "root-port"
+            }
+          ],
+          "explanation": "历史上的 im- 是 in-“进入”的变体；把商品从国外运进来。它不是“不”的 im-。",
+          "mnemonic": "往国内 port 进来是 import。",
+          "example": "The company imports coffee beans from several countries.",
+          "translation": "这家公司从几个国家进口咖啡豆。",
+          "collocation": "import goods from a country",
+          "synonyms": [],
+          "antonyms": [
+            "export（出口）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/import"
+        },
+        {
+          "id": "export",
+          "word": "export",
+          "pos": "v.",
+          "meaning": "出口",
+          "parts": [
+            {
+              "text": "ex-",
+              "key": "ex-out"
+            },
+            {
+              "text": "port",
+              "key": "root-port"
+            }
+          ],
+          "explanation": "词源中的 ex- 表示“向外”；把商品运出本国销售。也可指导出文件。",
+          "mnemonic": "向国外 port 出去是 export。",
+          "example": "The factory exports bicycles to overseas markets.",
+          "translation": "这家工厂向海外市场出口自行车。",
+          "collocation": "export goods to a market",
+          "synonyms": [],
+          "antonyms": [
+            "import（进口）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/export"
+        },
+        {
+          "id": "report",
+          "word": "report",
+          "pos": "v.",
+          "meaning": "报告（问题或情况）",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "port",
+              "key": "root-port"
+            }
+          ],
+          "explanation": "历史上联系“把消息带回来”；现代 report 可指口头、书面的报告或新闻报道。",
+          "mnemonic": "把现场消息 port 回来，就是 report。",
+          "example": "Please report the problem to the library staff.",
+          "translation": "请向图书馆工作人员报告这个问题。",
+          "collocation": "report a problem; write a report",
+          "synonyms": [
+            "inform（告知）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/report"
+        },
+        {
+          "id": "reporter",
+          "word": "reporter",
+          "pos": "n.",
+          "meaning": "记者",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "port",
+              "key": "root-port"
+            },
+            {
+              "text": "-er",
+              "key": "er-agent"
+            }
+          ],
+          "explanation": "report 加表示人的 -er；指收集并报道新闻的人。",
+          "mnemonic": "经常 report 新闻的人是 reporter。",
+          "example": "A reporter interviewed the volunteers after the event.",
+          "translation": "活动结束后，一位记者采访了志愿者。",
+          "collocation": "a news reporter",
+          "synonyms": [
+            "journalist（记者）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/reporter"
+        },
+        {
+          "id": "support",
+          "word": "support",
+          "pos": "v.",
+          "meaning": "支持",
+          "parts": [
+            {
+              "text": "sup-"
+            },
+            {
+              "text": "port",
+              "key": "root-port"
+            }
+          ],
+          "explanation": "历史上的 sup- 来自 sub-“从下面”；“托住”引申为精神、物质或观点上的支持。",
+          "mnemonic": "从下面把人托住，再联想为 support。",
+          "example": "Our teachers support students who want to start a club.",
+          "translation": "老师们支持想成立社团的学生。",
+          "collocation": "support a proposal; give support",
+          "synonyms": [
+            "back（支持）"
+          ],
+          "antonyms": [
+            "oppose（反对某建议）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/support"
+        },
+        {
+          "id": "supporter",
+          "word": "supporter",
+          "pos": "n.",
+          "meaning": "支持者",
+          "parts": [
+            {
+              "text": "sup-"
+            },
+            {
+              "text": "port",
+              "key": "root-port"
+            },
+            {
+              "text": "-er",
+              "key": "er-agent"
+            }
+          ],
+          "explanation": "support 加 -er，表示支持某人、球队或主张的人。",
+          "mnemonic": "提供 support 的人是 supporter。",
+          "example": "She is a strong supporter of free public libraries.",
+          "translation": "她是免费公共图书馆的坚定支持者。",
+          "collocation": "a strong supporter of ...",
+          "synonyms": [
+            "backer（支持者）"
+          ],
+          "antonyms": [
+            "opponent（反对者）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/supporter"
+        },
+        {
+          "id": "supportive",
+          "word": "supportive",
+          "pos": "adj.",
+          "meaning": "给予支持的；鼓励的",
+          "parts": [
+            {
+              "text": "sup-"
+            },
+            {
+              "text": "port",
+              "key": "root-port"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "support 加 -ive，描述愿意帮助或鼓励别人的态度；常接 of。",
+          "mnemonic": "supportive 的朋友会给你 support。",
+          "example": "My classmates were supportive of my decision to study abroad.",
+          "translation": "同学们支持我出国学习的决定。",
+          "collocation": "be supportive of ...",
+          "synonyms": [
+            "encouraging（鼓励的）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/supportive"
+        },
+        {
+          "id": "supportively",
+          "word": "supportively",
+          "pos": "adv.",
+          "meaning": "支持地；鼓励地",
+          "parts": [
+            {
+              "text": "sup-"
+            },
+            {
+              "text": "port",
+              "key": "root-port"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            },
+            {
+              "text": "-ly",
+              "key": "ly-adverb"
+            }
+          ],
+          "explanation": "supportive 加 -ly，描述说话、倾听等行为带有支持或鼓励。",
+          "mnemonic": "supportive 的态度体现在 supportively 的行动中。",
+          "example": "The tutor responded supportively when I explained my difficulty.",
+          "translation": "当我说明困难时，导师给予了鼓励性的回应。",
+          "collocation": "respond supportively",
+          "synonyms": [
+            "encouragingly（鼓励地）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://dictionary.cambridge.org/dictionary/english/supportively"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:port",
+          "to": "portable",
+          "label": "携带：词源联系",
+          "type": "origin"
+        },
+        {
+          "from": "portable",
+          "to": "portability",
+          "label": "-able → -ability",
+          "type": "analysis"
+        },
+        {
+          "from": "root:port",
+          "to": "transport",
+          "label": "trans-：跨越携带",
+          "type": "origin"
+        },
+        {
+          "from": "transport",
+          "to": "transportation",
+          "label": "-ation：名词",
+          "type": "analysis"
+        },
+        {
+          "from": "root:port",
+          "to": "import",
+          "label": "im-：运入",
+          "type": "origin"
+        },
+        {
+          "from": "root:port",
+          "to": "export",
+          "label": "ex-：运出",
+          "type": "origin"
+        },
+        {
+          "from": "root:port",
+          "to": "report",
+          "label": "re-：带回消息",
+          "type": "origin"
+        },
+        {
+          "from": "report",
+          "to": "reporter",
+          "label": "-er：人",
+          "type": "analysis"
+        },
+        {
+          "from": "root:port",
+          "to": "support",
+          "label": "sup-：从下托住",
+          "type": "origin"
+        },
+        {
+          "from": "support",
+          "to": "supporter",
+          "label": "-er：人",
+          "type": "analysis"
+        },
+        {
+          "from": "support",
+          "to": "supportive",
+          "label": "-ive：形容词",
+          "type": "analysis"
+        },
+        {
+          "from": "supportive",
+          "to": "supportively",
+          "label": "-ly：副词",
+          "type": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "spect",
+      "label": "spect",
+      "meaning": "看，观察",
+      "description": "联系拉丁语 specere“看”及相关词干 spect-、spic-。检查、尊重、怀疑与前景之间的联系属于词源联想；不把 inspect 的 in- 解释为否定，也不按字面组合推断全部现代词义。",
+      "words": [
+        {
+          "id": "inspect",
+          "word": "inspect",
+          "pos": "v.",
+          "meaning": "检查；视察",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-inside"
+            },
+            {
+              "text": "spect",
+              "key": "root-spect"
+            }
+          ],
+          "explanation": "历史上的 in- 表示“向内”，与“看”联系；现代指仔细检查以了解情况或发现问题。",
+          "mnemonic": "往细处看，才能 inspect 出问题。",
+          "example": "The engineer will inspect the bridge tomorrow.",
+          "translation": "工程师明天将检查这座桥。",
+          "collocation": "inspect equipment",
+          "synonyms": [
+            "examine（检查）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/inspect"
+        },
+        {
+          "id": "inspection",
+          "word": "inspection",
+          "pos": "n.",
+          "meaning": "检查；视察",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-inside"
+            },
+            {
+              "text": "spect",
+              "key": "root-spect"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 inspect 作动词、名词词形联系，表示检查活动或程序。",
+          "mnemonic": "inspect 是检查，inspection 是检查这件事。",
+          "example": "The building passed its safety inspection.",
+          "translation": "这栋楼通过了安全检查。",
+          "collocation": "a safety inspection",
+          "synonyms": [
+            "examination（检查）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/inspection"
+        },
+        {
+          "id": "inspector",
+          "word": "inspector",
+          "pos": "n.",
+          "meaning": "检查员；督察员",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-inside"
+            },
+            {
+              "text": "spect",
+              "key": "root-spect"
+            },
+            {
+              "text": "-or",
+              "key": "or-agent"
+            }
+          ],
+          "explanation": "inspect 与表示人的 -or 联系，指负责检查的人。",
+          "mnemonic": "负责 inspect 的人是 inspector。",
+          "example": "The inspector checked the kitchen before it opened.",
+          "translation": "检查员在厨房营业前进行了检查。",
+          "collocation": "a safety inspector",
+          "synonyms": [
+            "examiner（检查人员）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/inspector"
+        },
+        {
+          "id": "respect",
+          "word": "respect",
+          "pos": "v.",
+          "meaning": "尊重",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "spect",
+              "key": "root-spect"
+            }
+          ],
+          "explanation": "词源联系“回看、重视”；现代指认真看待他人的价值、权利或意见。",
+          "mnemonic": "愿意回头认真看待一个人，就是 respect。",
+          "example": "We should respect different opinions during a discussion.",
+          "translation": "讨论时，我们应该尊重不同意见。",
+          "collocation": "respect someone's views; show respect",
+          "synonyms": [
+            "esteem（尊敬）"
+          ],
+          "antonyms": [
+            "disrespect（不尊重）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/respect"
+        },
+        {
+          "id": "respectful",
+          "word": "respectful",
+          "pos": "adj.",
+          "meaning": "表示尊重的；恭敬的",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "spect",
+              "key": "root-spect"
+            },
+            {
+              "text": "-ful",
+              "key": "ful-adj"
+            }
+          ],
+          "explanation": "respect 加 -ful，描述言行中表现出的尊重；与 respectable“值得尊敬的”不同。",
+          "mnemonic": "话语里充满 respect，就显得 respectful。",
+          "example": "He gave a respectful reply even when he disagreed.",
+          "translation": "即使不同意，他也作出了有礼的回应。",
+          "collocation": "be respectful of others",
+          "synonyms": [
+            "polite（有礼貌的）"
+          ],
+          "antonyms": [
+            "disrespectful（无礼的）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/respectful"
+        },
+        {
+          "id": "disrespectful",
+          "word": "disrespectful",
+          "pos": "adj.",
+          "meaning": "不尊重的；无礼的",
+          "parts": [
+            {
+              "text": "dis-",
+              "key": "dis-apart"
+            },
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "spect",
+              "key": "root-spect"
+            },
+            {
+              "text": "-ful",
+              "key": "ful-adj"
+            }
+          ],
+          "explanation": "dis- 在这里表示否定，disrespectful 与 respectful 相反，描述缺乏尊重的言行。",
+          "mnemonic": "把 respectful 的尊重拿走，就是 disrespectful。",
+          "example": "Interrupting every speaker is disrespectful.",
+          "translation": "打断每一位发言者是不尊重人的行为。",
+          "collocation": "disrespectful behavior",
+          "synonyms": [
+            "rude（无礼的）"
+          ],
+          "antonyms": [
+            "respectful（恭敬的）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/disrespectful"
+        },
+        {
+          "id": "suspect",
+          "word": "suspect",
+          "pos": "v.",
+          "meaning": "怀疑；推测（某事可能发生）",
+          "parts": [
+            {
+              "text": "suspect"
+            }
+          ],
+          "explanation": "与 spect 词族历史同源，但拼写发生变化，不能直接拆成 sus + spect。常指认为某事可能存在或某人可能有过错。",
+          "mnemonic": "带着不确定的目光看待一件事：suspect。",
+          "example": "I suspect that the meeting will take longer than planned.",
+          "translation": "我怀疑会议会比计划的时间更长。",
+          "collocation": "suspect that ...; suspect someone of ...",
+          "synonyms": [
+            "think（推测某事可能如此）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/suspect"
+        },
+        {
+          "id": "suspicion",
+          "word": "suspicion",
+          "pos": "n.",
+          "meaning": "怀疑；疑心",
+          "parts": [
+            {
+              "text": "suspicion"
+            }
+          ],
+          "explanation": "与 suspect 同源，现代拼写联系不规则；它表示没有充分证据时的怀疑。不要当作普通的 suspect + -ion。",
+          "mnemonic": "suspect 是怀疑，suspicion 是心里的那份疑心。",
+          "example": "The missing receipt raised suspicion about the payment.",
+          "translation": "收据缺失引起了人们对这笔付款的怀疑。",
+          "collocation": "raise suspicion",
+          "synonyms": [
+            "doubt（怀疑）"
+          ],
+          "antonyms": [
+            "trust（信任）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/suspicion"
+        },
+        {
+          "id": "spectator",
+          "word": "spectator",
+          "pos": "n.",
+          "meaning": "观众",
+          "parts": [
+            {
+              "text": "spect",
+              "key": "root-spect"
+            },
+            {
+              "text": "-ator"
+            }
+          ],
+          "explanation": "词源联系“观看的人”；现代通常指现场观看体育赛事等活动的人。",
+          "mnemonic": "在场边 spect、只观看的人是 spectator。",
+          "example": "Thousands of spectators watched the final match.",
+          "translation": "数千名观众观看了决赛。",
+          "collocation": "spectators at a match",
+          "synonyms": [
+            "onlooker（旁观者）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/spectator"
+        },
+        {
+          "id": "spectacle",
+          "word": "spectacle",
+          "pos": "n.",
+          "meaning": "壮观场面；引人注目的景象",
+          "parts": [
+            {
+              "text": "spect",
+              "key": "root-spect"
+            },
+            {
+              "text": "-acle"
+            }
+          ],
+          "explanation": "词源联系“供人观看的景象”；spectacles 的复数形式还可指眼镜。这里只学习“壮观场面”。",
+          "mnemonic": "让大家停下来 spect 的场面是 spectacle。",
+          "example": "The lantern festival was a colorful spectacle.",
+          "translation": "灯会是一番色彩斑斓的壮观景象。",
+          "collocation": "a magnificent spectacle",
+          "synonyms": [
+            "display（展示场面）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/spectacle"
+        },
+        {
+          "id": "prospect",
+          "word": "prospect",
+          "pos": "n.",
+          "meaning": "前景；可能性",
+          "parts": [
+            {
+              "text": "pro-"
+            },
+            {
+              "text": "spect",
+              "key": "root-spect"
+            }
+          ],
+          "explanation": "历史上联系“向前看”；现代可指未来成功的可能性，常用复数谈发展前景。",
+          "mnemonic": "向前 spect，看见未来的 prospect。",
+          "example": "The new course has improved her career prospects.",
+          "translation": "这门新课程改善了她的职业前景。",
+          "collocation": "career prospects; the prospect of ...",
+          "synonyms": [
+            "outlook（前景）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/prospect"
+        },
+        {
+          "id": "perspective",
+          "word": "perspective",
+          "pos": "n.",
+          "meaning": "视角；看法",
+          "parts": [
+            {
+              "text": "per-"
+            },
+            {
+              "text": "spect",
+              "key": "root-spect"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "与“透过、仔细看”的拉丁语词形同源；虽然结尾是 -ive，此处是名词，不能仅凭后缀判断词性。",
+          "mnemonic": "站在不同位置看，得到不同 perspective。",
+          "example": "The interview gave me a new perspective on city life.",
+          "translation": "这次访谈让我对城市生活有了新的看法。",
+          "collocation": "from a different perspective",
+          "synonyms": [
+            "viewpoint（观点）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/perspective"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:spect",
+          "to": "inspect",
+          "label": "向内看：词源联系",
+          "type": "origin"
+        },
+        {
+          "from": "inspect",
+          "to": "inspection",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "inspect",
+          "to": "inspector",
+          "label": "-or：人",
+          "type": "analysis"
+        },
+        {
+          "from": "root:spect",
+          "to": "respect",
+          "label": "回看、重视：同源",
+          "type": "origin"
+        },
+        {
+          "from": "respect",
+          "to": "respectful",
+          "label": "-ful：形容词",
+          "type": "analysis"
+        },
+        {
+          "from": "respectful",
+          "to": "disrespectful",
+          "label": "dis-：否定",
+          "type": "analysis"
+        },
+        {
+          "from": "root:spect",
+          "to": "suspect",
+          "label": "同源，拼写变化",
+          "type": "origin"
+        },
+        {
+          "from": "suspect",
+          "to": "suspicion",
+          "label": "同源名词，拼写变化",
+          "type": "origin"
+        },
+        {
+          "from": "root:spect",
+          "to": "spectator",
+          "label": "观看者：同源",
+          "type": "origin"
+        },
+        {
+          "from": "root:spect",
+          "to": "spectacle",
+          "label": "观看场面：同源",
+          "type": "origin"
+        },
+        {
+          "from": "root:spect",
+          "to": "prospect",
+          "label": "向前看：同源",
+          "type": "origin"
+        },
+        {
+          "from": "root:spect",
+          "to": "perspective",
+          "label": "看法：同源",
+          "type": "origin"
+        }
+      ]
+    },
+    {
+      "id": "dict",
+      "label": "dict",
+      "meaning": "说，表达",
+      "description": "联系拉丁语 dicere“说”及 dict- 词干。predict、contradict、verdict 等是历史同源；predict → predictable → unpredictable 是现代词形学习链。链路不表示词语进入英语的先后。",
+      "words": [
+        {
+          "id": "dictate",
+          "word": "dictate",
+          "pos": "v.",
+          "meaning": "口述；决定；强行规定",
+          "parts": [
+            {
+              "text": "dict",
+              "key": "root-dict"
+            },
+            {
+              "text": "-ate"
+            }
+          ],
+          "explanation": "词源联系“反复说、发布命令”；可指口述让人记录，也可指因素决定结果。",
+          "mnemonic": "把话说出来让人记下，或说了算：dictate。",
+          "example": "The teacher dictated a short paragraph for us to write down.",
+          "translation": "老师口述了一小段话，让我们写下来。",
+          "collocation": "dictate a letter; dictate what happens",
+          "synonyms": [
+            "determine（决定）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/dictate"
+        },
+        {
+          "id": "dictation",
+          "word": "dictation",
+          "pos": "n.",
+          "meaning": "听写；口述",
+          "parts": [
+            {
+              "text": "dictat",
+              "key": "root-dict"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 dictate 作词形联系，去掉词尾 e 加 -ion，表示口述或听写活动。",
+          "mnemonic": "dictate 是口述，dictation 是听写活动。",
+          "example": "We practise dictation to improve our listening skills.",
+          "translation": "我们练习听写来提高听力。",
+          "collocation": "do dictation",
+          "synonyms": [],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/dictation"
+        },
+        {
+          "id": "dictator",
+          "word": "dictator",
+          "pos": "n.",
+          "meaning": "独裁者",
+          "parts": [
+            {
+              "text": "dictat",
+              "key": "root-dict"
+            },
+            {
+              "text": "-or",
+              "key": "or-agent"
+            }
+          ],
+          "explanation": "历史上与发布命令者有关；现代指拥有绝对权力、通常依靠武力维持统治的人。",
+          "mnemonic": "把所有决定都变成自己命令的人：dictator。",
+          "example": "The novel describes life under a powerful dictator.",
+          "translation": "这部小说描写了一个强大独裁者统治下的生活。",
+          "collocation": "a military dictator",
+          "synonyms": [
+            "autocrat（独裁统治者）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/dictator"
+        },
+        {
+          "id": "dictionary",
+          "word": "dictionary",
+          "pos": "n.",
+          "meaning": "词典；字典",
+          "parts": [
+            {
+              "text": "dict",
+              "key": "root-dict"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            },
+            {
+              "text": "-ary"
+            }
+          ],
+          "explanation": "历史上经由“表达、词语”的拉丁语词形形成；这些部分用于词源记忆，不是任意拼接的现代造词规则。",
+          "mnemonic": "把各种表达收在一起，联想 dictionary。",
+          "example": "I checked the pronunciation in an online dictionary.",
+          "translation": "我在在线词典里查了发音。",
+          "collocation": "look up a word in a dictionary",
+          "synonyms": [
+            "lexicon（词典）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/dictionary"
+        },
+        {
+          "id": "predict",
+          "word": "predict",
+          "pos": "v.",
+          "meaning": "预测；预料",
+          "parts": [
+            {
+              "text": "pre-",
+              "key": "pre-before"
+            },
+            {
+              "text": "dict",
+              "key": "root-dict"
+            }
+          ],
+          "explanation": "历史词源联系 pre-“事先”和“说”；现代指根据判断说明将会发生什么。",
+          "mnemonic": "事情发生前就说出来：predict。",
+          "example": "Experts predict that more students will choose online courses.",
+          "translation": "专家预测更多学生将选择在线课程。",
+          "collocation": "predict a result; predict that ...",
+          "synonyms": [
+            "forecast（预测）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/predict"
+        },
+        {
+          "id": "prediction",
+          "word": "prediction",
+          "pos": "n.",
+          "meaning": "预测；预言",
+          "parts": [
+            {
+              "text": "pre-",
+              "key": "pre-before"
+            },
+            {
+              "text": "dict",
+              "key": "root-dict"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 predict 的名词词形联系，表示预测内容或预测行为。",
+          "mnemonic": "把 predict 的判断记下来就是 prediction。",
+          "example": "Her prediction about the weather proved correct.",
+          "translation": "她对天气的预测被证明是正确的。",
+          "collocation": "make a prediction",
+          "synonyms": [
+            "forecast（预测）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/prediction"
+        },
+        {
+          "id": "predictable",
+          "word": "predictable",
+          "pos": "adj.",
+          "meaning": "可预测的；可预料的",
+          "parts": [
+            {
+              "text": "pre-",
+              "key": "pre-before"
+            },
+            {
+              "text": "dict",
+              "key": "root-dict"
+            },
+            {
+              "text": "-able",
+              "key": "able-adj"
+            }
+          ],
+          "explanation": "predict 加 -able，指可以预料；形容故事时，也可能带“老套、容易猜中”的意味。",
+          "mnemonic": "能够 predict 的结果是 predictable。",
+          "example": "The film had a predictable ending.",
+          "translation": "这部电影的结局很容易猜到。",
+          "collocation": "a predictable result",
+          "synonyms": [
+            "foreseeable（可预见的）"
+          ],
+          "antonyms": [
+            "unpredictable（不可预测的）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/predictable"
+        },
+        {
+          "id": "unpredictable",
+          "word": "unpredictable",
+          "pos": "adj.",
+          "meaning": "难以预测的；变化莫测的",
+          "parts": [
+            {
+              "text": "un-",
+              "key": "un-negative"
+            },
+            {
+              "text": "pre-",
+              "key": "pre-before"
+            },
+            {
+              "text": "dict",
+              "key": "root-dict"
+            },
+            {
+              "text": "-able",
+              "key": "able-adj"
+            }
+          ],
+          "explanation": "un- 否定 predictable；指无法可靠预料的事物、结果或行为。",
+          "mnemonic": "un- 让 predictable 变得猜不准。",
+          "example": "Mountain weather can be unpredictable.",
+          "translation": "山区天气可能变化莫测。",
+          "collocation": "unpredictable weather",
+          "synonyms": [
+            "changeable（多变的）"
+          ],
+          "antonyms": [
+            "predictable（可预测的）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/unpredictable"
+        },
+        {
+          "id": "contradict",
+          "word": "contradict",
+          "pos": "v.",
+          "meaning": "反驳；与……矛盾",
+          "parts": [
+            {
+              "text": "contra-"
+            },
+            {
+              "text": "dict",
+              "key": "root-dict"
+            }
+          ],
+          "explanation": "历史构词联系 contra-“反对”和“说”；可指反驳某人，也可指证据与说法相冲突。",
+          "mnemonic": "朝相反方向说，或两种说法对不上：contradict。",
+          "example": "The new evidence contradicts the earlier report.",
+          "translation": "新证据与先前的报告相矛盾。",
+          "collocation": "contradict a statement",
+          "synonyms": [
+            "dispute（反驳）"
+          ],
+          "antonyms": [
+            "confirm（证实某说法）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/contradict"
+        },
+        {
+          "id": "contradiction",
+          "word": "contradiction",
+          "pos": "n.",
+          "meaning": "矛盾；相互冲突的说法",
+          "parts": [
+            {
+              "text": "contra-"
+            },
+            {
+              "text": "dict",
+              "key": "root-dict"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 contradict 对应的名词；常指出两种观点或事实不能同时成立。",
+          "mnemonic": "两句话互相 contradict，就出现 contradiction。",
+          "example": "There is a contradiction between the two accounts.",
+          "translation": "两份叙述之间存在矛盾。",
+          "collocation": "a contradiction between ... and ...",
+          "synonyms": [
+            "inconsistency（不一致）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/contradiction"
+        },
+        {
+          "id": "verdict",
+          "word": "verdict",
+          "pos": "n.",
+          "meaning": "裁决；判决结果",
+          "parts": [
+            {
+              "text": "ver-"
+            },
+            {
+              "text": "dict",
+              "key": "root-dict"
+            }
+          ],
+          "explanation": "经法语来自“真实的陈述”这一词源概念；现代常指陪审团的裁决，也可指评判结果。",
+          "mnemonic": "认真调查后说出判断，联想 verdict。",
+          "example": "The jury reached a verdict after a long discussion.",
+          "translation": "陪审团经过长时间讨论后作出了裁决。",
+          "collocation": "reach a verdict",
+          "synonyms": [
+            "judgment（裁决）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/verdict"
+        },
+        {
+          "id": "jurisdiction",
+          "word": "jurisdiction",
+          "pos": "n.",
+          "meaning": "管辖权；司法管辖范围",
+          "parts": [
+            {
+              "text": "juris-"
+            },
+            {
+              "text": "dict",
+              "key": "root-dict"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "历史上联系“法律”与“宣告”；现代指法院或机构作出法律决定的权限及适用范围。",
+          "mnemonic": "有权依法作出决定的范围：jurisdiction。",
+          "example": "The dispute falls outside the court's jurisdiction.",
+          "translation": "这项争议不属于该法院的管辖范围。",
+          "collocation": "have jurisdiction over ...",
+          "synonyms": [
+            "authority（管辖权限）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/jurisdiction"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:dict",
+          "to": "dictate",
+          "label": "说、发布命令：同源",
+          "type": "origin"
+        },
+        {
+          "from": "dictate",
+          "to": "dictation",
+          "label": "-ion（去 e）：词形",
+          "type": "analysis"
+        },
+        {
+          "from": "dictate",
+          "to": "dictator",
+          "label": "命令者：同源词形",
+          "type": "origin"
+        },
+        {
+          "from": "root:dict",
+          "to": "dictionary",
+          "label": "词语、表达：同源",
+          "type": "origin"
+        },
+        {
+          "from": "root:dict",
+          "to": "predict",
+          "label": "pre-：事先说",
+          "type": "origin"
+        },
+        {
+          "from": "predict",
+          "to": "prediction",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "predict",
+          "to": "predictable",
+          "label": "-able：可以",
+          "type": "analysis"
+        },
+        {
+          "from": "predictable",
+          "to": "unpredictable",
+          "label": "un-：否定",
+          "type": "analysis"
+        },
+        {
+          "from": "root:dict",
+          "to": "contradict",
+          "label": "contra-：反对说",
+          "type": "origin"
+        },
+        {
+          "from": "contradict",
+          "to": "contradiction",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "root:dict",
+          "to": "verdict",
+          "label": "真实的陈述：同源",
+          "type": "origin"
+        },
+        {
+          "from": "root:dict",
+          "to": "jurisdiction",
+          "label": "依法宣告：同源",
+          "type": "origin"
+        }
+      ]
+    },
+    {
+      "id": "tract",
+      "label": "tract",
+      "meaning": "拉，牵引",
+      "description": "联系拉丁语 trahere“拉”和 tract- 词干，用“注意力被拉走”“把内容抽离”等画面记忆。前缀组合的源语构词标作同源，现代词形链单独标记。",
+      "words": [
+        {
+          "id": "attract",
+          "word": "attract",
+          "pos": "v.",
+          "meaning": "吸引",
+          "parts": [
+            {
+              "text": "at-"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            }
+          ],
+          "explanation": "词源中的 at- 来自 ad-“朝向”；可把吸引联想为把注意力拉过来。",
+          "mnemonic": "把目光或兴趣 tract 过来：attract。",
+          "example": "The exhibition attracted many university students.",
+          "translation": "这次展览吸引了许多大学生。",
+          "collocation": "attract attention",
+          "synonyms": [
+            "draw（吸引）"
+          ],
+          "antonyms": [
+            "repel（使反感；排斥）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/attract"
+        },
+        {
+          "id": "attraction",
+          "word": "attraction",
+          "pos": "n.",
+          "meaning": "吸引力；吸引人的事物",
+          "parts": [
+            {
+              "text": "at-"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 attract 作名词词形联系；可表示吸引力，也可指值得游览的地方。",
+          "mnemonic": "能 attract 人的力量或地方是 attraction。",
+          "example": "The old library is a major attraction on campus.",
+          "translation": "老图书馆是校园里一处很吸引人的地方。",
+          "collocation": "a tourist attraction",
+          "synonyms": [
+            "appeal（吸引力）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/attraction"
+        },
+        {
+          "id": "attractive",
+          "word": "attractive",
+          "pos": "adj.",
+          "meaning": "有吸引力的；好看的",
+          "parts": [
+            {
+              "text": "at-"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "与 attract 联系，-ive 提示形容词；可描述外貌、方案或价格有吸引力。",
+          "mnemonic": "能 attract 你的方案很 attractive。",
+          "example": "The internship offers an attractive opportunity to gain experience.",
+          "translation": "这次实习提供了一个很有吸引力的积累经验的机会。",
+          "collocation": "an attractive offer",
+          "synonyms": [
+            "appealing（有吸引力的）"
+          ],
+          "antonyms": [
+            "unattractive（没有吸引力的）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/attractive"
+        },
+        {
+          "id": "unattractive",
+          "word": "unattractive",
+          "pos": "adj.",
+          "meaning": "没有吸引力的；不好看的",
+          "parts": [
+            {
+              "text": "un-",
+              "key": "un-negative"
+            },
+            {
+              "text": "at-"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "un- 否定 attractive；不一定只指外貌，也可指方案或条件缺少吸引力。",
+          "mnemonic": "un- 让 attractive 的吸引力消失。",
+          "example": "The long commute made the job unattractive.",
+          "translation": "漫长的通勤让这份工作失去了吸引力。",
+          "collocation": "an unattractive option",
+          "synonyms": [
+            "unappealing（无吸引力的）"
+          ],
+          "antonyms": [
+            "attractive（有吸引力的）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/unattractive"
+        },
+        {
+          "id": "distract",
+          "word": "distract",
+          "pos": "v.",
+          "meaning": "使分心；转移注意力",
+          "parts": [
+            {
+              "text": "dis-",
+              "key": "dis-apart"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            }
+          ],
+          "explanation": "历史上联系“拉开、拉向不同方向”；现代常指让注意力离开正在做的事。",
+          "mnemonic": "把注意力 tract 到别处：distract。",
+          "example": "Phone notifications can distract you from your work.",
+          "translation": "手机通知会让你工作时分心。",
+          "collocation": "distract someone from ...",
+          "synonyms": [
+            "divert（转移注意力）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/distract"
+        },
+        {
+          "id": "distraction",
+          "word": "distraction",
+          "pos": "n.",
+          "meaning": "使人分心的事；分心",
+          "parts": [
+            {
+              "text": "dis-",
+              "key": "dis-apart"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 distract 联系；既可指分心的状态，也可指造成分心的事物。",
+          "mnemonic": "把你 distract 走的东西就是 distraction。",
+          "example": "I study in the library to avoid distractions.",
+          "translation": "我在图书馆学习，以避免受到干扰。",
+          "collocation": "avoid distractions",
+          "synonyms": [
+            "disturbance（干扰）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/distraction"
+        },
+        {
+          "id": "extract",
+          "word": "extract",
+          "pos": "v.",
+          "meaning": "提取（信息等）",
+          "parts": [
+            {
+              "text": "ex-",
+              "key": "ex-out"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            }
+          ],
+          "explanation": "历史上联系 ex-“向外”与“拉”；现代可指从材料中提取成分或从文章中摘录内容。",
+          "mnemonic": "把需要的内容 tract 出来：extract。",
+          "example": "The researcher extracted useful information from the survey.",
+          "translation": "研究人员从调查中提取了有用信息。",
+          "collocation": "extract information from ...",
+          "synonyms": [
+            "draw out（提取）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/extract"
+        },
+        {
+          "id": "extraction",
+          "word": "extraction",
+          "pos": "n.",
+          "meaning": "提取；取出",
+          "parts": [
+            {
+              "text": "ex-",
+              "key": "ex-out"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 extract 的名词词形联系，表示提取、取出的过程。",
+          "mnemonic": "extract 是取出，extraction 是取出的过程。",
+          "example": "The team developed a faster method of data extraction.",
+          "translation": "这个团队开发了一种更快的数据提取方法。",
+          "collocation": "data extraction",
+          "synonyms": [
+            "removal（取出）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/extraction"
+        },
+        {
+          "id": "contract",
+          "word": "contract",
+          "pos": "n.",
+          "meaning": "合同",
+          "parts": [
+            {
+              "text": "con-"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            }
+          ],
+          "explanation": "历史上联系“拉到一起”；名词表示协议，动词可表示收缩。名词常重读前部，动词常重读后部。",
+          "mnemonic": "条款把双方联在一起；肌肉拉紧则收缩。",
+          "example": "Both sides signed the contract on Friday.",
+          "translation": "双方在星期五签署了合同。",
+          "collocation": "sign a contract",
+          "synonyms": [
+            "agreement（协议）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/contract"
+        },
+        {
+          "id": "contraction",
+          "word": "contraction",
+          "pos": "n.",
+          "meaning": "收缩；缩略形式",
+          "parts": [
+            {
+              "text": "con-"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 contract 联系；可指肌肉等的收缩，也可指 don't 这类语言缩略形式。",
+          "mnemonic": "把长度或体积拉小，联想 contraction。",
+          "example": "Muscle contraction allows us to move our arms.",
+          "translation": "肌肉收缩使我们能够移动手臂。",
+          "collocation": "muscle contraction",
+          "synonyms": [
+            "shrinking（收缩）"
+          ],
+          "antonyms": [
+            "expansion（扩张）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/contraction"
+        },
+        {
+          "id": "abstract",
+          "word": "abstract",
+          "pos": "adj.",
+          "meaning": "抽象的",
+          "parts": [
+            {
+              "text": "abs-"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            }
+          ],
+          "explanation": "历史上联系“抽离”；形容词指脱离具体实例的概念，名词可指文章摘要。",
+          "mnemonic": "把具体细节抽走，留下 abstract 的概念。",
+          "example": "The teacher used pictures to explain an abstract idea.",
+          "translation": "老师用图片解释一个抽象的概念。",
+          "collocation": "an abstract concept; an article abstract",
+          "synonyms": [
+            "conceptual（概念性的）"
+          ],
+          "antonyms": [
+            "concrete（具体的，形容词义）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/abstract"
+        },
+        {
+          "id": "retract",
+          "word": "retract",
+          "pos": "v.",
+          "meaning": "撤回；缩回",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "tract",
+              "key": "root-tract"
+            }
+          ],
+          "explanation": "词源联系“拉回”；可指撤回先前的话，也可指部件缩回。",
+          "mnemonic": "把已经说出的话 tract 回来：retract。",
+          "example": "The newspaper retracted the claim after checking the facts.",
+          "translation": "核查事实后，报纸撤回了那项说法。",
+          "collocation": "retract a statement",
+          "synonyms": [
+            "withdraw（撤回）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/retract"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:tract",
+          "to": "attract",
+          "label": "at-：拉过来",
+          "type": "origin"
+        },
+        {
+          "from": "attract",
+          "to": "attraction",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "attract",
+          "to": "attractive",
+          "label": "-ive：形容词",
+          "type": "analysis"
+        },
+        {
+          "from": "attractive",
+          "to": "unattractive",
+          "label": "un-：否定",
+          "type": "analysis"
+        },
+        {
+          "from": "root:tract",
+          "to": "distract",
+          "label": "dis-：拉开",
+          "type": "origin"
+        },
+        {
+          "from": "distract",
+          "to": "distraction",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "root:tract",
+          "to": "extract",
+          "label": "ex-：拉出",
+          "type": "origin"
+        },
+        {
+          "from": "extract",
+          "to": "extraction",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "root:tract",
+          "to": "contract",
+          "label": "con-：拉到一起",
+          "type": "origin"
+        },
+        {
+          "from": "contract",
+          "to": "contraction",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "root:tract",
+          "to": "abstract",
+          "label": "abs-：抽离",
+          "type": "origin"
+        },
+        {
+          "from": "root:tract",
+          "to": "retract",
+          "label": "re-：拉回",
+          "type": "origin"
+        }
+      ]
+    },
+    {
+      "id": "ject",
+      "label": "ject",
+      "meaning": "投，抛",
+      "description": "联系拉丁语 iacere“投、抛”及 ject- 词干。拒绝、注入、投射等适合用方向画面联想；subjective、objective 的抽象含义另作说明，不只按字面猜词。",
+      "words": [
+        {
+          "id": "reject",
+          "word": "reject",
+          "pos": "v.",
+          "meaning": "拒绝；不接受",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            }
+          ],
+          "explanation": "历史上联系“抛回、丢开”；现代可指拒绝建议、申请或不合格物品。",
+          "mnemonic": "把不接受的东西 ject 回去：reject。",
+          "example": "The committee rejected the proposal because it was too costly.",
+          "translation": "委员会因成本太高而否决了这项提案。",
+          "collocation": "reject a proposal",
+          "synonyms": [
+            "refuse（拒绝）"
+          ],
+          "antonyms": [
+            "accept（接受）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/reject"
+        },
+        {
+          "id": "rejection",
+          "word": "rejection",
+          "pos": "n.",
+          "meaning": "拒绝；拒收",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 reject 的名词词形联系，表示拒绝的行为或结果。",
+          "mnemonic": "收到 reject 的决定，就是一次 rejection。",
+          "example": "She learned from the rejection and improved her application.",
+          "translation": "她从这次被拒中吸取经验，改进了申请材料。",
+          "collocation": "a rejection of ...",
+          "synonyms": [
+            "refusal（拒绝）"
+          ],
+          "antonyms": [
+            "acceptance（接受）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/rejection"
+        },
+        {
+          "id": "project",
+          "word": "project",
+          "pos": "n.",
+          "meaning": "项目",
+          "parts": [
+            {
+              "text": "pro-"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            }
+          ],
+          "explanation": "历史上联系“向前投出”；名词可指计划或项目，动词可指投影、预计。名词和动词的重音不同。",
+          "mnemonic": "把计划向前推出，联想 project。",
+          "example": "Our group started a project to improve the campus garden.",
+          "translation": "我们小组启动了一个改善校园花园的项目。",
+          "collocation": "carry out a project; project an image",
+          "synonyms": [
+            "scheme（计划，名词义）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/project"
+        },
+        {
+          "id": "projection",
+          "word": "projection",
+          "pos": "n.",
+          "meaning": "预测；投影",
+          "parts": [
+            {
+              "text": "pro-"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 project 的动词义联系，表示对未来数字的预测或投射出的影像。",
+          "mnemonic": "把数据或影像向前 ject：projection。",
+          "example": "The sales projection was based on last year's figures.",
+          "translation": "销售预测基于去年的数据。",
+          "collocation": "a sales projection",
+          "synonyms": [
+            "forecast（预测）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/projection"
+        },
+        {
+          "id": "inject",
+          "word": "inject",
+          "pos": "v.",
+          "meaning": "注射；注入",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-inside"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            }
+          ],
+          "explanation": "历史上的 in- 表示“进入”；现代可指注射液体，也可比喻注入活力、资金等。",
+          "mnemonic": "把液体或新活力 ject 进去：inject。",
+          "example": "The new volunteers injected fresh energy into the team.",
+          "translation": "新志愿者为团队注入了新的活力。",
+          "collocation": "inject ... into ...",
+          "synonyms": [],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/inject"
+        },
+        {
+          "id": "injection",
+          "word": "injection",
+          "pos": "n.",
+          "meaning": "注射；注入",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-inside"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 inject 作名词词形联系；可指注射行为或资金等的投入。",
+          "mnemonic": "inject 是注入，injection 是这次注入。",
+          "example": "The project received an injection of new funding.",
+          "translation": "这个项目获得了一笔新的资金注入。",
+          "collocation": "an injection of funds",
+          "synonyms": [],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/injection"
+        },
+        {
+          "id": "subject",
+          "word": "subject",
+          "pos": "n.",
+          "meaning": "（学校的）科目",
+          "parts": [
+            {
+              "text": "sub-"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            }
+          ],
+          "explanation": "历史上与“放在下面”有关，后来发展出多种含义；主题、科目、研究对象须在语境中分别学习。",
+          "mnemonic": "把要研究的内容摆在面前，联想 subject。",
+          "example": "History was her favourite subject at school.",
+          "translation": "历史是她在学校最喜欢的科目。",
+          "collocation": "a school subject; the subject of a study",
+          "synonyms": [
+            "discipline（学科）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/subject"
+        },
+        {
+          "id": "subjective",
+          "word": "subjective",
+          "pos": "adj.",
+          "meaning": "主观的",
+          "parts": [
+            {
+              "text": "sub-"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "历史上关联 subject 的“认识主体”义；现代指受到个人感受或看法影响，而非仅由事实决定。",
+          "mnemonic": "从自己这个主体出发看事情：subjective。",
+          "example": "Your opinion of the painting is naturally subjective.",
+          "translation": "你对这幅画的看法自然带有主观性。",
+          "collocation": "a subjective judgment",
+          "synonyms": [
+            "personal（个人感受性的）"
+          ],
+          "antonyms": [
+            "objective（客观的）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/subjective"
+        },
+        {
+          "id": "object",
+          "word": "object",
+          "pos": "v.",
+          "meaning": "反对",
+          "parts": [
+            {
+              "text": "ob-"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            }
+          ],
+          "explanation": "历史上联系“摆在面前或提出反对”；名词指物体、对象，动词 object to 表示反对。两种词性的重音不同。",
+          "mnemonic": "摆在眼前的是对象；把异议摆出来是反对。",
+          "example": "Several students objected to the change in exam dates.",
+          "translation": "几名学生反对更改考试日期。",
+          "collocation": "an object of study; object to ...",
+          "synonyms": [
+            "oppose（反对）"
+          ],
+          "antonyms": [
+            "agree（同意，动词义）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/object"
+        },
+        {
+          "id": "objection",
+          "word": "objection",
+          "pos": "n.",
+          "meaning": "反对；异议",
+          "parts": [
+            {
+              "text": "ob-"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 object 的“反对”动词义联系，表示提出的不赞同意见。",
+          "mnemonic": "object 是反对，objection 是那条异议。",
+          "example": "No one raised an objection to the revised plan.",
+          "translation": "没有人对修订后的计划提出异议。",
+          "collocation": "raise an objection to ...",
+          "synonyms": [
+            "opposition（反对）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/objection"
+        },
+        {
+          "id": "objective",
+          "word": "objective",
+          "pos": "adj.",
+          "meaning": "客观的",
+          "parts": [
+            {
+              "text": "ob-"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "与 object“认识对象”的历史词形联系；形容词指依据事实，名词指目标，不能只凭 -ive 判定词性。",
+          "mnemonic": "看对象本身的事实，联想 objective“客观的”。",
+          "example": "We need an objective assessment of the results.",
+          "translation": "我们需要对结果作出客观评估。",
+          "collocation": "an objective assessment; achieve an objective",
+          "synonyms": [
+            "impartial（公正客观的）"
+          ],
+          "antonyms": [
+            "subjective（主观的，形容词义）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/objective"
+        },
+        {
+          "id": "objectively",
+          "word": "objectively",
+          "pos": "adv.",
+          "meaning": "客观地",
+          "parts": [
+            {
+              "text": "ob-"
+            },
+            {
+              "text": "ject",
+              "key": "root-ject"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            },
+            {
+              "text": "-ly",
+              "key": "ly-adverb"
+            }
+          ],
+          "explanation": "objective 加 -ly，表示依据事实、尽量不受个人情感影响地做某事。",
+          "mnemonic": "用 objective 的标准 objectively 地判断。",
+          "example": "Try to evaluate each solution objectively.",
+          "translation": "尽量客观地评估每一种解决方案。",
+          "collocation": "assess something objectively",
+          "synonyms": [
+            "impartially（公正地）"
+          ],
+          "antonyms": [
+            "subjectively（主观地）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/objective"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:ject",
+          "to": "reject",
+          "label": "re-：抛回",
+          "type": "origin"
+        },
+        {
+          "from": "reject",
+          "to": "rejection",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "root:ject",
+          "to": "project",
+          "label": "pro-：向前投出",
+          "type": "origin"
+        },
+        {
+          "from": "project",
+          "to": "projection",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "root:ject",
+          "to": "inject",
+          "label": "in-：投入",
+          "type": "origin"
+        },
+        {
+          "from": "inject",
+          "to": "injection",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "root:ject",
+          "to": "subject",
+          "label": "sub-：同源",
+          "type": "origin"
+        },
+        {
+          "from": "subject",
+          "to": "subjective",
+          "label": "主体义：历史词形",
+          "type": "origin"
+        },
+        {
+          "from": "root:ject",
+          "to": "object",
+          "label": "ob-：置于面前",
+          "type": "origin"
+        },
+        {
+          "from": "object",
+          "to": "objection",
+          "label": "-ion：反对的名词",
+          "type": "analysis"
+        },
+        {
+          "from": "object",
+          "to": "objective",
+          "label": "对象义：历史词形",
+          "type": "origin"
+        },
+        {
+          "from": "objective",
+          "to": "objectively",
+          "label": "-ly：副词",
+          "type": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "form",
+      "label": "form",
+      "meaning": "形状，形成",
+      "description": "以 form“形状、形式、形成”为线索，学习正式、改变形式、告知等词。inform 的 in- 来自“进入”，informal 的 in- 表示“不”；相同字母不保证相同前缀意义。",
+      "words": [
+        {
+          "id": "form",
+          "word": "form",
+          "pos": "n.",
+          "meaning": "表格",
+          "parts": [
+            {
+              "text": "form",
+              "key": "root-form"
+            }
+          ],
+          "explanation": "form 可指形状或形式，也可指填写的表格；作动词时表示形成、组成。",
+          "mnemonic": "让事物成形，或把信息填进固定形式。",
+          "example": "Please complete the form before the interview.",
+          "translation": "请在面试前填好这份表格。",
+          "collocation": "fill in a form; form a team",
+          "synonyms": [],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/form"
+        },
+        {
+          "id": "formal",
+          "word": "formal",
+          "pos": "adj.",
+          "meaning": "正式的；合乎礼仪的",
+          "parts": [
+            {
+              "text": "form",
+              "key": "root-form"
+            },
+            {
+              "text": "-al",
+              "key": "al-adj"
+            }
+          ],
+          "explanation": "词形上可联系 form 与 -al；现代常指符合规定形式、礼仪或正式场合要求。",
+          "mnemonic": "按规定的 form 来办，就是 formal。",
+          "example": "You should use formal language in the application letter.",
+          "translation": "申请信中应该使用正式语言。",
+          "collocation": "formal language",
+          "synonyms": [
+            "official（正式的）"
+          ],
+          "antonyms": [
+            "informal（非正式的）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/formal"
+        },
+        {
+          "id": "formally",
+          "word": "formally",
+          "pos": "adv.",
+          "meaning": "正式地",
+          "parts": [
+            {
+              "text": "form",
+              "key": "root-form"
+            },
+            {
+              "text": "-al",
+              "key": "al-adj"
+            },
+            {
+              "text": "-ly",
+              "key": "ly-adverb"
+            }
+          ],
+          "explanation": "formal 加 -ly，表示以正式方式做事；注意与 formerly“从前”区分。",
+          "mnemonic": "按 formal 的方式 formally 地宣布。",
+          "example": "The university formally announced the new scholarship.",
+          "translation": "大学正式公布了这项新奖学金。",
+          "collocation": "formally announce ...",
+          "synonyms": [
+            "officially（正式地）"
+          ],
+          "antonyms": [
+            "informally（非正式地）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/formally"
+        },
+        {
+          "id": "informal",
+          "word": "informal",
+          "pos": "adj.",
+          "meaning": "非正式的；随意的",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-negative"
+            },
+            {
+              "text": "form",
+              "key": "root-form"
+            },
+            {
+              "text": "-al",
+              "key": "al-adj"
+            }
+          ],
+          "explanation": "in- 在这里表示“不”，与 formal 构成反义；适用于轻松的谈话、会议或衣着。",
+          "mnemonic": "in- 去掉 formal 的正式感。",
+          "example": "We had an informal discussion over lunch.",
+          "translation": "我们在午餐时进行了一次非正式讨论。",
+          "collocation": "an informal meeting",
+          "synonyms": [
+            "casual（随意的）"
+          ],
+          "antonyms": [
+            "formal（正式的）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/informal"
+        },
+        {
+          "id": "formation",
+          "word": "formation",
+          "pos": "n.",
+          "meaning": "形成；构成；队形",
+          "parts": [
+            {
+              "text": "form",
+              "key": "root-form"
+            },
+            {
+              "text": "-ation",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 form 的“形成”动词义联系；可指形成过程，也可指人员排列出的队形。",
+          "mnemonic": "form 是形成，formation 是形成过程或排列。",
+          "example": "The experiment helps explain the formation of clouds.",
+          "translation": "这个实验有助于解释云的形成。",
+          "collocation": "the formation of ...",
+          "synonyms": [
+            "development（形成过程）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/formation"
+        },
+        {
+          "id": "reform",
+          "word": "reform",
+          "pos": "v.",
+          "meaning": "改革",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "form",
+              "key": "root-form"
+            }
+          ],
+          "explanation": "历史上联系“重新形成”；现代强调改变制度或做法，使其更好。re-form 还可专指重新组成。",
+          "mnemonic": "把旧 form 改成更好的形式：reform。",
+          "example": "The university plans to reform its assessment system.",
+          "translation": "大学计划改革其评估制度。",
+          "collocation": "reform a system; educational reform",
+          "synonyms": [
+            "improve（改良）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/reform"
+        },
+        {
+          "id": "transform",
+          "word": "transform",
+          "pos": "v.",
+          "meaning": "使彻底改变；转变",
+          "parts": [
+            {
+              "text": "trans-",
+              "key": "trans-across"
+            },
+            {
+              "text": "form",
+              "key": "root-form"
+            }
+          ],
+          "explanation": "历史上联系“改变形状”；现代通常表示明显改变外观、性质或状态，常接 into。",
+          "mnemonic": "跨到另一种 form：transform。",
+          "example": "The volunteers transformed the empty room into a study space.",
+          "translation": "志愿者把空房间改造成了学习空间。",
+          "collocation": "transform ... into ...",
+          "synonyms": [
+            "change（改变）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/transform"
+        },
+        {
+          "id": "transformation",
+          "word": "transformation",
+          "pos": "n.",
+          "meaning": "转变；彻底变化",
+          "parts": [
+            {
+              "text": "trans-",
+              "key": "trans-across"
+            },
+            {
+              "text": "form",
+              "key": "root-form"
+            },
+            {
+              "text": "-ation",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 transform 作名词词形联系，强调显著的变化过程或结果。",
+          "mnemonic": "transform 带来的大变化是 transformation。",
+          "example": "The town has undergone a remarkable transformation.",
+          "translation": "这座小镇经历了显著变化。",
+          "collocation": "undergo a transformation",
+          "synonyms": [
+            "change（转变）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/transformation"
+        },
+        {
+          "id": "inform",
+          "word": "inform",
+          "pos": "v.",
+          "meaning": "通知；告知",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-inside"
+            },
+            {
+              "text": "form",
+              "key": "root-form"
+            }
+          ],
+          "explanation": "历史上从“赋予形状、教导”发展出告知义；in- 不是否定。常用 inform someone of/about something。",
+          "mnemonic": "让消息在对方脑中成形，只作记忆联想。",
+          "example": "Please inform us of any changes to your address.",
+          "translation": "地址如有变化，请通知我们。",
+          "collocation": "inform someone of/about ...",
+          "synonyms": [
+            "notify（通知）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/inform"
+        },
+        {
+          "id": "information",
+          "word": "information",
+          "pos": "n.",
+          "meaning": "信息；资料",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-inside"
+            },
+            {
+              "text": "form",
+              "key": "root-form"
+            },
+            {
+              "text": "-ation",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 inform 的名词词形联系；information 通常不可数，用 a piece of information 表示一条信息。",
+          "mnemonic": "inform 传递的内容就是 information。",
+          "example": "The website provides useful information about student housing.",
+          "translation": "这个网站提供了有关学生住宿的有用信息。",
+          "collocation": "useful information; a piece of information",
+          "synonyms": [
+            "data（资料）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/information"
+        },
+        {
+          "id": "informative",
+          "word": "informative",
+          "pos": "adj.",
+          "meaning": "提供有用信息的；增长知识的",
+          "parts": [
+            {
+              "text": "in-",
+              "key": "in-inside"
+            },
+            {
+              "text": "form",
+              "key": "root-form"
+            },
+            {
+              "text": "-ative"
+            }
+          ],
+          "explanation": "与 inform、information 联系，表示内容能提供有用信息，不只是“被通知的”。",
+          "mnemonic": "能带来很多 information 的讲座很 informative。",
+          "example": "The talk was short but highly informative.",
+          "translation": "这场讲座虽然简短，却提供了很多有用信息。",
+          "collocation": "an informative talk",
+          "synonyms": [
+            "instructive（增长知识的）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/informative"
+        },
+        {
+          "id": "conform",
+          "word": "conform",
+          "pos": "v.",
+          "meaning": "符合；遵从",
+          "parts": [
+            {
+              "text": "con-"
+            },
+            {
+              "text": "form",
+              "key": "root-form"
+            }
+          ],
+          "explanation": "历史上联系“使形状一致”；现代常指与规则、标准或普遍做法一致，常接 to。",
+          "mnemonic": "把自己的 form 与标准对齐：conform。",
+          "example": "All new equipment must conform to safety standards.",
+          "translation": "所有新设备都必须符合安全标准。",
+          "collocation": "conform to standards",
+          "synonyms": [
+            "comply（遵从）"
+          ],
+          "antonyms": [
+            "deviate（偏离标准）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/conform"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:form",
+          "to": "form",
+          "label": "独立词",
+          "type": "analysis"
+        },
+        {
+          "from": "form",
+          "to": "formal",
+          "label": "-al：词形联系",
+          "type": "analysis"
+        },
+        {
+          "from": "formal",
+          "to": "formally",
+          "label": "-ly：副词",
+          "type": "analysis"
+        },
+        {
+          "from": "formal",
+          "to": "informal",
+          "label": "in-：否定",
+          "type": "analysis"
+        },
+        {
+          "from": "form",
+          "to": "formation",
+          "label": "-ation：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "form",
+          "to": "reform",
+          "label": "re-：历史同源",
+          "type": "origin"
+        },
+        {
+          "from": "form",
+          "to": "transform",
+          "label": "trans-：历史同源",
+          "type": "origin"
+        },
+        {
+          "from": "transform",
+          "to": "transformation",
+          "label": "-ation：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "root:form",
+          "to": "inform",
+          "label": "教导、告知：同源",
+          "type": "origin"
+        },
+        {
+          "from": "inform",
+          "to": "information",
+          "label": "-ation：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "inform",
+          "to": "informative",
+          "label": "-ative：词形联系",
+          "type": "analysis"
+        },
+        {
+          "from": "form",
+          "to": "conform",
+          "label": "con-：一致形状",
+          "type": "origin"
+        }
+      ]
+    },
+    {
+      "id": "struct",
+      "label": "struct",
+      "meaning": "建造，排列",
+      "description": "联系拉丁语 struere“堆放、建造”及 struct- 词干。结构、建造、教导和破坏是历史同源；construct → reconstruct → reconstruction 展示可学习的现代词形链。",
+      "words": [
+        {
+          "id": "structure",
+          "word": "structure",
+          "pos": "n.",
+          "meaning": "结构",
+          "parts": [
+            {
+              "text": "struct",
+              "key": "root-struct"
+            },
+            {
+              "text": "-ure"
+            }
+          ],
+          "explanation": "词源联系把各部分组合起来；可指事物的内部结构，作动词时指有系统地组织。",
+          "mnemonic": "把部分 struct 在一起，形成 structure。",
+          "example": "The diagram shows the structure of the human ear.",
+          "translation": "这张图展示了人耳的结构。",
+          "collocation": "the structure of ...; structure an essay",
+          "synonyms": [
+            "organization（组织结构）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/structure"
+        },
+        {
+          "id": "structural",
+          "word": "structural",
+          "pos": "adj.",
+          "meaning": "结构的；结构性的",
+          "parts": [
+            {
+              "text": "structur",
+              "key": "root-struct"
+            },
+            {
+              "text": "-al",
+              "key": "al-adj"
+            }
+          ],
+          "explanation": "structure 去掉词尾 e 加 -al，表示与结构或组织方式有关。",
+          "mnemonic": "structure 的相关特征是 structural。",
+          "example": "The engineer found no structural damage to the building.",
+          "translation": "工程师没有发现这栋楼存在结构损坏。",
+          "collocation": "structural damage",
+          "synonyms": [],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/structural"
+        },
+        {
+          "id": "construct",
+          "word": "construct",
+          "pos": "v.",
+          "meaning": "建造；构建",
+          "parts": [
+            {
+              "text": "con-"
+            },
+            {
+              "text": "struct",
+              "key": "root-struct"
+            }
+          ],
+          "explanation": "历史上联系“堆放到一起”；可指建造实体，也可指构建论证或模型。",
+          "mnemonic": "把零件一起 struct 起来：construct。",
+          "example": "The team constructed a simple model of the bridge.",
+          "translation": "团队搭建了一个简单的桥梁模型。",
+          "collocation": "construct a building; construct an argument",
+          "synonyms": [
+            "build（建造）"
+          ],
+          "antonyms": [
+            "demolish（拆毁）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/construct"
+        },
+        {
+          "id": "construction",
+          "word": "construction",
+          "pos": "n.",
+          "meaning": "建造；施工；构造",
+          "parts": [
+            {
+              "text": "con-"
+            },
+            {
+              "text": "struct",
+              "key": "root-struct"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 construct 的名词词形联系；可指施工过程或物体的构造方式。",
+          "mnemonic": "construct 的过程是 construction。",
+          "example": "Construction of the new library will begin in June.",
+          "translation": "新图书馆的施工将于六月开始。",
+          "collocation": "under construction",
+          "synonyms": [
+            "building（建造）"
+          ],
+          "antonyms": [
+            "demolition（拆除）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/construction"
+        },
+        {
+          "id": "constructive",
+          "word": "constructive",
+          "pos": "adj.",
+          "meaning": "建设性的；有助益的",
+          "parts": [
+            {
+              "text": "con-"
+            },
+            {
+              "text": "struct",
+              "key": "root-struct"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "与 construct 联系；常形容批评、意见能帮助改进，不能仅理解为“建筑的”。",
+          "mnemonic": "帮助把事情 construct 得更好：constructive。",
+          "example": "The teacher offered constructive feedback on my essay.",
+          "translation": "老师对我的文章提出了建设性反馈。",
+          "collocation": "constructive criticism",
+          "synonyms": [
+            "helpful（有帮助的）"
+          ],
+          "antonyms": [
+            "destructive（破坏性的）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/constructive"
+        },
+        {
+          "id": "reconstruct",
+          "word": "reconstruct",
+          "pos": "v.",
+          "meaning": "重建；复原；重现",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "con-"
+            },
+            {
+              "text": "struct",
+              "key": "root-struct"
+            }
+          ],
+          "explanation": "re- 表示“重新”，与 construct 结合；可指重建建筑，也可根据证据重现事件。",
+          "mnemonic": "再次 construct：reconstruct。",
+          "example": "The museum used photographs to reconstruct the old street.",
+          "translation": "博物馆利用照片重现了这条老街。",
+          "collocation": "reconstruct a building; reconstruct events",
+          "synonyms": [
+            "rebuild（重建）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/reconstruct"
+        },
+        {
+          "id": "reconstruction",
+          "word": "reconstruction",
+          "pos": "n.",
+          "meaning": "重建；复原",
+          "parts": [
+            {
+              "text": "re-",
+              "key": "re-back"
+            },
+            {
+              "text": "con-"
+            },
+            {
+              "text": "struct",
+              "key": "root-struct"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "reconstruct 与 -ion 的名词词形联系，表示重建、复原的过程或结果。",
+          "mnemonic": "reconstruct 的工作叫 reconstruction。",
+          "example": "The reconstruction of the station took two years.",
+          "translation": "车站重建用了两年时间。",
+          "collocation": "the reconstruction of ...",
+          "synonyms": [
+            "rebuilding（重建）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/reconstruction"
+        },
+        {
+          "id": "instruct",
+          "word": "instruct",
+          "pos": "v.",
+          "meaning": "指导；教导；指示",
+          "parts": [
+            {
+              "text": "in-"
+            },
+            {
+              "text": "struct",
+              "key": "root-struct"
+            }
+          ],
+          "explanation": "词源中的 in- 有“在……上”的意思，源语还含“整理、准备、教导”。现代常指教人怎样做或下达指示。",
+          "mnemonic": "把知识组织好再教给别人，是记忆画面。",
+          "example": "The coach instructed us in basic swimming techniques.",
+          "translation": "教练教授了我们基本游泳技巧。",
+          "collocation": "instruct someone in ...; instruct someone to do ...",
+          "synonyms": [
+            "teach（教导）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/instruct"
+        },
+        {
+          "id": "instruction",
+          "word": "instruction",
+          "pos": "n.",
+          "meaning": "指导；指示；用法说明",
+          "parts": [
+            {
+              "text": "in-"
+            },
+            {
+              "text": "struct",
+              "key": "root-struct"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "与 instruct 的名词词形联系；表示教学时通常不可数，具体操作说明常用复数 instructions。",
+          "mnemonic": "instruct 给出的步骤就是 instructions。",
+          "example": "Read the instructions carefully before using the machine.",
+          "translation": "使用机器前，请仔细阅读说明。",
+          "collocation": "follow the instructions",
+          "synonyms": [
+            "direction（指示）"
+          ],
+          "antonyms": [],
+          "core": true,
+          "source": "https://www.etymonline.com/word/instruction"
+        },
+        {
+          "id": "instructor",
+          "word": "instructor",
+          "pos": "n.",
+          "meaning": "教练；指导教师",
+          "parts": [
+            {
+              "text": "in-"
+            },
+            {
+              "text": "struct",
+              "key": "root-struct"
+            },
+            {
+              "text": "-or",
+              "key": "or-agent"
+            }
+          ],
+          "explanation": "instruct 与表示人的 -or 联系，指教授实际技能或课程的人。",
+          "mnemonic": "负责 instruct 的人是 instructor。",
+          "example": "Our driving instructor explained the rule patiently.",
+          "translation": "我们的驾驶教练耐心地解释了这条规则。",
+          "collocation": "a driving instructor",
+          "synonyms": [
+            "teacher（教师）"
+          ],
+          "antonyms": [],
+          "core": false,
+          "source": "https://www.etymonline.com/word/instructor"
+        },
+        {
+          "id": "destruction",
+          "word": "destruction",
+          "pos": "n.",
+          "meaning": "破坏；毁灭",
+          "parts": [
+            {
+              "text": "de-"
+            },
+            {
+              "text": "struct",
+              "key": "root-struct"
+            },
+            {
+              "text": "-ion",
+              "key": "ion-noun"
+            }
+          ],
+          "explanation": "历史上联系 de-“拆下、反向”与建造，表示把建好的东西毁掉；不需要假设常用动词 destruct 作中间词。",
+          "mnemonic": "把 struct 起来的东西拆毁：destruction。",
+          "example": "The fire caused serious destruction in the warehouse.",
+          "translation": "大火给仓库造成了严重破坏。",
+          "collocation": "cause destruction",
+          "synonyms": [
+            "devastation（毁坏）"
+          ],
+          "antonyms": [
+            "construction（建造）"
+          ],
+          "core": true,
+          "source": "https://www.etymonline.com/word/destruction"
+        },
+        {
+          "id": "destructive",
+          "word": "destructive",
+          "pos": "adj.",
+          "meaning": "破坏性的；毁灭性的",
+          "parts": [
+            {
+              "text": "de-"
+            },
+            {
+              "text": "struct",
+              "key": "root-struct"
+            },
+            {
+              "text": "-ive",
+              "key": "ive-adj"
+            }
+          ],
+          "explanation": "与 destruction 作名词、形容词词形联系，描述造成破坏的事物或行为。",
+          "mnemonic": "会带来 destruction 的行为是 destructive。",
+          "example": "Destructive criticism can discourage young learners.",
+          "translation": "破坏性的批评可能使年轻学习者失去信心。",
+          "collocation": "destructive behavior",
+          "synonyms": [
+            "damaging（有破坏作用的）"
+          ],
+          "antonyms": [
+            "constructive（建设性的）"
+          ],
+          "core": false,
+          "source": "https://www.etymonline.com/word/destructive"
+        }
+      ],
+      "edges": [
+        {
+          "from": "root:struct",
+          "to": "structure",
+          "label": "组合、排列：同源",
+          "type": "origin"
+        },
+        {
+          "from": "structure",
+          "to": "structural",
+          "label": "-al（去 e）",
+          "type": "analysis"
+        },
+        {
+          "from": "root:struct",
+          "to": "construct",
+          "label": "con-：堆到一起",
+          "type": "origin"
+        },
+        {
+          "from": "construct",
+          "to": "construction",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "construct",
+          "to": "constructive",
+          "label": "-ive：有助建设",
+          "type": "analysis"
+        },
+        {
+          "from": "construct",
+          "to": "reconstruct",
+          "label": "re-：重新",
+          "type": "analysis"
+        },
+        {
+          "from": "reconstruct",
+          "to": "reconstruction",
+          "label": "-ion：名词",
+          "type": "analysis"
+        },
+        {
+          "from": "root:struct",
+          "to": "instruct",
+          "label": "整理、教导：同源",
+          "type": "origin"
+        },
+        {
+          "from": "instruct",
+          "to": "instruction",
+          "label": "-ion：名词联系",
+          "type": "analysis"
+        },
+        {
+          "from": "instruct",
+          "to": "instructor",
+          "label": "-or：人",
+          "type": "analysis"
+        },
+        {
+          "from": "root:struct",
+          "to": "destruction",
+          "label": "de-：拆毁",
+          "type": "origin"
+        },
+        {
+          "from": "destruction",
+          "to": "destructive",
+          "label": "-ion → -ive：词形",
+          "type": "analysis"
+        }
+      ]
+    }
+  ]
+}
